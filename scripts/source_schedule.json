@@ -1,0 +1,4180 @@
+{
+  "fetched_urls": {
+    "593ba7b78e9a": {
+      "url": "https://en.wikipedia.org/wiki/Accounting_Standards_Codification",
+      "date": "2026-03-24"
+    },
+    "272599c0172a": {
+      "url": "https://en.wikipedia.org/wiki/Financial_Accounting_Standards_Board",
+      "date": "2026-03-24"
+    },
+    "f73e824d9e6f": {
+      "url": "https://en.wikipedia.org/wiki/Generally_accepted_accounting_principles_(United_States)",
+      "date": "2026-03-24"
+    },
+    "e24f1cf74e53": {
+      "url": "https://en.wikipedia.org/wiki/Financial_statement",
+      "date": "2026-03-24"
+    },
+    "a47ed725f89d": {
+      "url": "https://en.wikipedia.org/wiki/Income_statement",
+      "date": "2026-03-24"
+    },
+    "a487f4fe07b4": {
+      "url": "https://en.wikipedia.org/wiki/Balance_sheet",
+      "date": "2026-03-24"
+    },
+    "3714047cede3": {
+      "url": "https://en.wikipedia.org/wiki/Cash_flow_statement",
+      "date": "2026-03-24"
+    },
+    "083867e43474": {
+      "url": "https://en.wikipedia.org/wiki/Statement_of_changes_in_equity",
+      "date": "2026-03-24"
+    },
+    "98391bc478cd": {
+      "url": "https://en.wikipedia.org/wiki/Earnings_per_share",
+      "date": "2026-03-24"
+    },
+    "24dd680957f5": {
+      "url": "https://en.wikipedia.org/wiki/Comprehensive_income",
+      "date": "2026-03-24"
+    },
+    "ffb2af44fc43": {
+      "url": "https://en.wikipedia.org/wiki/Discontinued_operations",
+      "date": "2026-03-24"
+    },
+    "35a4c090ae5c": {
+      "url": "https://en.wikipedia.org/wiki/Accounts_receivable",
+      "date": "2026-03-24"
+    },
+    "9feab0997bdd": {
+      "url": "https://en.wikipedia.org/wiki/Loan",
+      "date": "2026-03-24"
+    },
+    "46a7abfb6ee0": {
+      "url": "https://en.wikipedia.org/wiki/Investment",
+      "date": "2026-03-24"
+    },
+    "e4cc44a3604b": {
+      "url": "https://en.wikipedia.org/wiki/Inventory",
+      "date": "2026-03-24"
+    },
+    "f679157dec23": {
+      "url": "https://en.wikipedia.org/wiki/Inventory_valuation",
+      "date": "2026-03-24"
+    },
+    "f5b34315f53a": {
+      "url": "https://en.wikipedia.org/wiki/Fixed_asset",
+      "date": "2026-03-24"
+    },
+    "4030da4f4f34": {
+      "url": "https://en.wikipedia.org/wiki/Property,_plant,_and_equipment",
+      "date": "2026-03-24"
+    },
+    "8966b0b62ab0": {
+      "url": "https://en.wikipedia.org/wiki/Depreciation",
+      "date": "2026-03-24"
+    },
+    "e7b373941712": {
+      "url": "https://en.wikipedia.org/wiki/Intangible_asset",
+      "date": "2026-03-24"
+    },
+    "9a017c81e4b0": {
+      "url": "https://en.wikipedia.org/wiki/Goodwill_(accounting)",
+      "date": "2026-03-24"
+    },
+    "c7014b512dd5": {
+      "url": "https://en.wikipedia.org/wiki/Amortization_(business)",
+      "date": "2026-03-24"
+    },
+    "374ec9b96ad9": {
+      "url": "https://en.wikipedia.org/wiki/Research_and_development",
+      "date": "2026-03-24"
+    },
+    "d84f58765b7d": {
+      "url": "https://en.wikipedia.org/wiki/Liability_(financial_accounting)",
+      "date": "2026-03-24"
+    },
+    "eb3e6c055f02": {
+      "url": "https://en.wikipedia.org/wiki/Accounts_payable",
+      "date": "2026-03-24"
+    },
+    "2042cf3cba89": {
+      "url": "https://en.wikipedia.org/wiki/Contingent_liability",
+      "date": "2026-03-24"
+    },
+    "32cb56c0bfa2": {
+      "url": "https://en.wikipedia.org/wiki/Asset_retirement_obligation",
+      "date": "2026-03-24"
+    },
+    "af774067d683": {
+      "url": "https://en.wikipedia.org/wiki/Debt",
+      "date": "2026-03-24"
+    },
+    "d764117ba769": {
+      "url": "https://en.wikipedia.org/wiki/Bond_(finance)",
+      "date": "2026-03-24"
+    },
+    "85e85cc71563": {
+      "url": "https://en.wikipedia.org/wiki/Convertible_bond",
+      "date": "2026-03-24"
+    },
+    "af22234a5f94": {
+      "url": "https://en.wikipedia.org/wiki/Preferred_stock",
+      "date": "2026-03-24"
+    },
+    "2ae7229cf7b4": {
+      "url": "https://en.wikipedia.org/wiki/Mezzanine_capital",
+      "date": "2026-03-24"
+    },
+    "9a670d44b81e": {
+      "url": "https://en.wikipedia.org/wiki/Treasury_stock",
+      "date": "2026-03-24"
+    },
+    "ef37817a1326": {
+      "url": "https://en.wikipedia.org/wiki/Stock_split",
+      "date": "2026-03-24"
+    },
+    "89a33c15c99c": {
+      "url": "https://en.wikipedia.org/wiki/Dividend",
+      "date": "2026-03-24"
+    },
+    "462f5a2f8574": {
+      "url": "https://en.wikipedia.org/wiki/Retained_earnings",
+      "date": "2026-03-24"
+    },
+    "f1708e4eca8b": {
+      "url": "https://en.wikipedia.org/wiki/Revenue_recognition",
+      "date": "2026-03-24"
+    },
+    "52a453f7f118": {
+      "url": "https://en.wikipedia.org/wiki/Revenue",
+      "date": "2026-03-24"
+    },
+    "643e0e1b184a": {
+      "url": "https://en.wikipedia.org/wiki/Contract",
+      "date": "2026-03-24"
+    },
+    "03d0fbeabbd4": {
+      "url": "https://en.wikipedia.org/wiki/Percentage-of-completion_method",
+      "date": "2026-03-24"
+    },
+    "c749972fe786": {
+      "url": "https://en.wikipedia.org/wiki/Deferred_revenue",
+      "date": "2026-03-24"
+    },
+    "2fc3c495f525": {
+      "url": "https://en.wikipedia.org/wiki/Employee_stock_option",
+      "date": "2026-03-24"
+    },
+    "d5de9e08dfb7": {
+      "url": "https://en.wikipedia.org/wiki/Stock_option",
+      "date": "2026-03-24"
+    },
+    "a17a69b82890": {
+      "url": "https://en.wikipedia.org/wiki/Restricted_stock",
+      "date": "2026-03-24"
+    },
+    "aa6b8d7c6767": {
+      "url": "https://en.wikipedia.org/wiki/Employee_benefits",
+      "date": "2026-03-24"
+    },
+    "a9af17640d5a": {
+      "url": "https://en.wikipedia.org/wiki/Pension",
+      "date": "2026-03-24"
+    },
+    "5ae984c31666": {
+      "url": "https://en.wikipedia.org/wiki/Defined_benefit_pension_plan",
+      "date": "2026-03-24"
+    },
+    "feeca7594fe1": {
+      "url": "https://en.wikipedia.org/wiki/Defined_contribution_plan",
+      "date": "2026-03-24"
+    },
+    "ef96e1aa8e69": {
+      "url": "https://en.wikipedia.org/wiki/Deferred_tax",
+      "date": "2026-03-24"
+    },
+    "c8abdc4287b0": {
+      "url": "https://en.wikipedia.org/wiki/Income_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "397c4985c613": {
+      "url": "https://en.wikipedia.org/wiki/Tax_deduction",
+      "date": "2026-03-24"
+    },
+    "3db49cc5df8a": {
+      "url": "https://en.wikipedia.org/wiki/Tax_credit",
+      "date": "2026-03-24"
+    },
+    "bc848d689a7f": {
+      "url": "https://en.wikipedia.org/wiki/Net_operating_loss",
+      "date": "2026-03-24"
+    },
+    "870763336ee8": {
+      "url": "https://en.wikipedia.org/wiki/Business_combination",
+      "date": "2026-03-24"
+    },
+    "7ac2c6ef5681": {
+      "url": "https://en.wikipedia.org/wiki/Mergers_and_acquisitions",
+      "date": "2026-03-24"
+    },
+    "ec906e405458": {
+      "url": "https://en.wikipedia.org/wiki/Consolidated_financial_statement",
+      "date": "2026-03-24"
+    },
+    "cdbdcbf7e5cf": {
+      "url": "https://en.wikipedia.org/wiki/Variable_interest_entity",
+      "date": "2026-03-24"
+    },
+    "78af21514769": {
+      "url": "https://en.wikipedia.org/wiki/Minority_interest",
+      "date": "2026-03-24"
+    },
+    "caf321de72d8": {
+      "url": "https://en.wikipedia.org/wiki/Derivative_(finance)",
+      "date": "2026-03-24"
+    },
+    "04b5941975bf": {
+      "url": "https://en.wikipedia.org/wiki/Hedge_(finance)",
+      "date": "2026-03-24"
+    },
+    "8ea9ff92ccf3": {
+      "url": "https://en.wikipedia.org/wiki/Fair_value",
+      "date": "2026-03-24"
+    },
+    "25c710a452b0": {
+      "url": "https://en.wikipedia.org/wiki/Financial_instrument",
+      "date": "2026-03-24"
+    },
+    "dc6ca21e92c7": {
+      "url": "https://en.wikipedia.org/wiki/Interest_rate_swap",
+      "date": "2026-03-24"
+    },
+    "00670cd08d26": {
+      "url": "https://en.wikipedia.org/wiki/Option_(finance)",
+      "date": "2026-03-24"
+    },
+    "e82bb975258b": {
+      "url": "https://en.wikipedia.org/wiki/Futures_contract",
+      "date": "2026-03-24"
+    },
+    "79f57f3ebd04": {
+      "url": "https://en.wikipedia.org/wiki/Fair_value_accounting",
+      "date": "2026-03-24"
+    },
+    "aa6c64b17256": {
+      "url": "https://en.wikipedia.org/wiki/Mark-to-market_accounting",
+      "date": "2026-03-24"
+    },
+    "4cdebfd62a28": {
+      "url": "https://en.wikipedia.org/wiki/Foreign_exchange_risk",
+      "date": "2026-03-24"
+    },
+    "c4cc7180ba85": {
+      "url": "https://en.wikipedia.org/wiki/Interest",
+      "date": "2026-03-24"
+    },
+    "bdd6af4c57c5": {
+      "url": "https://en.wikipedia.org/wiki/Lease",
+      "date": "2026-03-24"
+    },
+    "7ddf096e0d51": {
+      "url": "https://en.wikipedia.org/wiki/Operating_lease",
+      "date": "2026-03-24"
+    },
+    "89980c86dd78": {
+      "url": "https://en.wikipedia.org/wiki/Finance_lease",
+      "date": "2026-03-24"
+    },
+    "a71af31786ab": {
+      "url": "https://en.wikipedia.org/wiki/Barter",
+      "date": "2026-03-24"
+    },
+    "9e565193964c": {
+      "url": "https://en.wikipedia.org/wiki/Transfer_pricing",
+      "date": "2026-03-24"
+    },
+    "200856b892ff": {
+      "url": "https://en.wikipedia.org/wiki/Securitization",
+      "date": "2026-03-24"
+    },
+    "035ed8170d8b": {
+      "url": "https://en.wikipedia.org/wiki/Factoring_(finance)",
+      "date": "2026-03-24"
+    },
+    "20652354ef79": {
+      "url": "https://en.wikipedia.org/wiki/Auditing",
+      "date": "2026-03-24"
+    },
+    "ee893997009e": {
+      "url": "https://en.wikipedia.org/wiki/Internal_audit",
+      "date": "2026-03-24"
+    },
+    "ed91dc4423f5": {
+      "url": "https://en.wikipedia.org/wiki/External_auditor",
+      "date": "2026-03-24"
+    },
+    "fc2b13bf63f6": {
+      "url": "https://en.wikipedia.org/wiki/Internal_control",
+      "date": "2026-03-24"
+    },
+    "7bc225a8cadb": {
+      "url": "https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act",
+      "date": "2026-03-24"
+    },
+    "3821be99eb53": {
+      "url": "https://en.wikipedia.org/wiki/Segregation_of_duties",
+      "date": "2026-03-24"
+    },
+    "00efeaedb6b6": {
+      "url": "https://en.wikipedia.org/wiki/Materiality_(auditing)",
+      "date": "2026-03-24"
+    },
+    "1463f7ee0ce0": {
+      "url": "https://en.wikipedia.org/wiki/Net_present_value",
+      "date": "2026-03-24"
+    },
+    "62ce3ec2c97f": {
+      "url": "https://en.wikipedia.org/wiki/Internal_rate_of_return",
+      "date": "2026-03-24"
+    },
+    "5ab9905fe5c1": {
+      "url": "https://en.wikipedia.org/wiki/Weighted_average_cost_of_capital",
+      "date": "2026-03-24"
+    },
+    "d61b0b33cfe7": {
+      "url": "https://en.wikipedia.org/wiki/Capital_asset_pricing_model",
+      "date": "2026-03-24"
+    },
+    "99c3cd1593a0": {
+      "url": "https://en.wikipedia.org/wiki/Discounted_cash_flow",
+      "date": "2026-03-24"
+    },
+    "dcf4306810b5": {
+      "url": "https://en.wikipedia.org/wiki/Free_cash_flow",
+      "date": "2026-03-24"
+    },
+    "e05ed7e61134": {
+      "url": "https://en.wikipedia.org/wiki/Enterprise_value",
+      "date": "2026-03-24"
+    },
+    "80015653c00a": {
+      "url": "https://en.wikipedia.org/wiki/Market_capitalization",
+      "date": "2026-03-24"
+    },
+    "8eca650e486f": {
+      "url": "https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio",
+      "date": "2026-03-24"
+    },
+    "c3149dcbdd23": {
+      "url": "https://en.wikipedia.org/wiki/Price-to-book_ratio",
+      "date": "2026-03-24"
+    },
+    "b4f48e1a2c5a": {
+      "url": "https://en.wikipedia.org/wiki/Dividend_yield",
+      "date": "2026-03-24"
+    },
+    "37178cb41702": {
+      "url": "https://en.wikipedia.org/wiki/Return_on_equity",
+      "date": "2026-03-24"
+    },
+    "1a3ddc14eaf7": {
+      "url": "https://en.wikipedia.org/wiki/Return_on_assets",
+      "date": "2026-03-24"
+    },
+    "c9942d59d13f": {
+      "url": "https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization",
+      "date": "2026-03-24"
+    },
+    "889b316208e6": {
+      "url": "https://en.wikipedia.org/wiki/Economic_value_added",
+      "date": "2026-03-24"
+    },
+    "7030524bfecd": {
+      "url": "https://en.wikipedia.org/wiki/Residual_income_valuation",
+      "date": "2026-03-24"
+    },
+    "c2cba338d191": {
+      "url": "https://en.wikipedia.org/wiki/Beta_(finance)",
+      "date": "2026-03-24"
+    },
+    "85294f029962": {
+      "url": "https://en.wikipedia.org/wiki/Systematic_risk",
+      "date": "2026-03-24"
+    },
+    "00bc8cd4aa45": {
+      "url": "https://en.wikipedia.org/wiki/Unsystematic_risk",
+      "date": "2026-03-24"
+    },
+    "6a10088121a6": {
+      "url": "https://en.wikipedia.org/wiki/Sharpe_ratio",
+      "date": "2026-03-24"
+    },
+    "3eeaa1c12508": {
+      "url": "https://en.wikipedia.org/wiki/Treynor_ratio",
+      "date": "2026-03-24"
+    },
+    "262237641ca1": {
+      "url": "https://en.wikipedia.org/wiki/Jensen%27s_alpha",
+      "date": "2026-03-24"
+    },
+    "1a7cbed6810f": {
+      "url": "https://en.wikipedia.org/wiki/Efficient-market_hypothesis",
+      "date": "2026-03-24"
+    },
+    "bab9011cc944": {
+      "url": "https://en.wikipedia.org/wiki/Modern_portfolio_theory",
+      "date": "2026-03-24"
+    },
+    "9a666714cf72": {
+      "url": "https://en.wikipedia.org/wiki/Capital_structure",
+      "date": "2026-03-24"
+    },
+    "f828ba9ac04b": {
+      "url": "https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem",
+      "date": "2026-03-24"
+    },
+    "252d8bc45f01": {
+      "url": "https://en.wikipedia.org/wiki/Leverage_(finance)",
+      "date": "2026-03-24"
+    },
+    "a687521fba2d": {
+      "url": "https://en.wikipedia.org/wiki/Debt-to-equity_ratio",
+      "date": "2026-03-24"
+    },
+    "643b9cf2a3ac": {
+      "url": "https://en.wikipedia.org/wiki/Current_ratio",
+      "date": "2026-03-24"
+    },
+    "faaca029c4b8": {
+      "url": "https://en.wikipedia.org/wiki/Quick_ratio",
+      "date": "2026-03-24"
+    },
+    "a44db16063e4": {
+      "url": "https://en.wikipedia.org/wiki/Cash_ratio",
+      "date": "2026-03-24"
+    },
+    "bacef7ff20f5": {
+      "url": "https://en.wikipedia.org/wiki/Working_capital",
+      "date": "2026-03-24"
+    },
+    "c3d5b5eb71ab": {
+      "url": "https://en.wikipedia.org/wiki/Cash_conversion_cycle",
+      "date": "2026-03-24"
+    },
+    "2114b060abfa": {
+      "url": "https://en.wikipedia.org/wiki/Compound_interest",
+      "date": "2026-03-24"
+    },
+    "863ac14aff1b": {
+      "url": "https://en.wikipedia.org/wiki/Time_value_of_money",
+      "date": "2026-03-24"
+    },
+    "9ad567eacbaf": {
+      "url": "https://en.wikipedia.org/wiki/Annuity",
+      "date": "2026-03-24"
+    },
+    "e1063c48c042": {
+      "url": "https://en.wikipedia.org/wiki/Perpetuity",
+      "date": "2026-03-24"
+    },
+    "419002bc800d": {
+      "url": "https://en.wikipedia.org/wiki/Bond_valuation",
+      "date": "2026-03-24"
+    },
+    "cdad56de828b": {
+      "url": "https://en.wikipedia.org/wiki/Yield_to_maturity",
+      "date": "2026-03-24"
+    },
+    "7a99b73f5cae": {
+      "url": "https://en.wikipedia.org/wiki/Duration_(finance)",
+      "date": "2026-03-24"
+    },
+    "17e3b156af38": {
+      "url": "https://en.wikipedia.org/wiki/Convexity_(finance)",
+      "date": "2026-03-24"
+    },
+    "f45bf038f4d3": {
+      "url": "https://en.wikipedia.org/wiki/Cost_of_equity",
+      "date": "2026-03-24"
+    },
+    "10c77474739b": {
+      "url": "https://en.wikipedia.org/wiki/Cost_of_debt",
+      "date": "2026-03-24"
+    },
+    "832f50ae984b": {
+      "url": "https://en.wikipedia.org/wiki/Hurdle_rate",
+      "date": "2026-03-24"
+    },
+    "646ea5d9f8f0": {
+      "url": "https://en.wikipedia.org/wiki/Payback_period",
+      "date": "2026-03-24"
+    },
+    "7fb55b0aa35d": {
+      "url": "https://en.wikipedia.org/wiki/Profitability_index",
+      "date": "2026-03-24"
+    },
+    "5d781509aa33": {
+      "url": "https://en.wikipedia.org/wiki/Leveraged_buyout",
+      "date": "2026-03-24"
+    },
+    "5c11d1b11d2f": {
+      "url": "https://en.wikipedia.org/wiki/Initial_public_offering",
+      "date": "2026-03-24"
+    },
+    "0490c20255cf": {
+      "url": "https://en.wikipedia.org/wiki/Venture_capital",
+      "date": "2026-03-24"
+    },
+    "9715c8921be1": {
+      "url": "https://en.wikipedia.org/wiki/Private_equity",
+      "date": "2026-03-24"
+    },
+    "8355325e7a97": {
+      "url": "https://en.wikipedia.org/wiki/Corporate_governance",
+      "date": "2026-03-24"
+    },
+    "56c4845b080c": {
+      "url": "https://en.wikipedia.org/wiki/Bankruptcy",
+      "date": "2026-03-24"
+    },
+    "39538b88a3b0": {
+      "url": "https://en.wikipedia.org/wiki/Chapter_11,_Title_11,_United_States_Code",
+      "date": "2026-03-24"
+    },
+    "5e97f819e093": {
+      "url": "https://en.wikipedia.org/wiki/Financial_ratio",
+      "date": "2026-03-24"
+    },
+    "9b6d1ebd03ca": {
+      "url": "https://en.wikipedia.org/wiki/DuPont_analysis",
+      "date": "2026-03-24"
+    },
+    "2bb2a568cc79": {
+      "url": "https://en.wikipedia.org/wiki/Altman_Z-score",
+      "date": "2026-03-24"
+    },
+    "6b1d9872d52d": {
+      "url": "https://en.wikipedia.org/wiki/Operating_leverage",
+      "date": "2026-03-24"
+    },
+    "56b9e2facd18": {
+      "url": "https://en.wikipedia.org/wiki/Corporate_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "accbebcf664b": {
+      "url": "https://en.wikipedia.org/wiki/Capital_gains_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "08230137a439": {
+      "url": "https://en.wikipedia.org/wiki/Payroll_tax",
+      "date": "2026-03-24"
+    },
+    "9862ccecc32b": {
+      "url": "https://en.wikipedia.org/wiki/Self-employment_tax",
+      "date": "2026-03-24"
+    },
+    "b0cf7630c7e7": {
+      "url": "https://en.wikipedia.org/wiki/Sales_tax",
+      "date": "2026-03-24"
+    },
+    "511859e5a818": {
+      "url": "https://en.wikipedia.org/wiki/Value-added_tax",
+      "date": "2026-03-24"
+    },
+    "c2e33837be84": {
+      "url": "https://en.wikipedia.org/wiki/Estate_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "b83544593570": {
+      "url": "https://en.wikipedia.org/wiki/Alternative_minimum_tax",
+      "date": "2026-03-24"
+    },
+    "41c62a716aa9": {
+      "url": "https://en.wikipedia.org/wiki/Itemized_deduction",
+      "date": "2026-03-24"
+    },
+    "5ffbe29d7876": {
+      "url": "https://en.wikipedia.org/wiki/Standard_deduction",
+      "date": "2026-03-24"
+    },
+    "6abb29dd90d4": {
+      "url": "https://en.wikipedia.org/wiki/Earned_income_tax_credit",
+      "date": "2026-03-24"
+    },
+    "2abfc2356f2f": {
+      "url": "https://en.wikipedia.org/wiki/Section_179_depreciation_deduction",
+      "date": "2026-03-24"
+    },
+    "4af0f57755eb": {
+      "url": "https://en.wikipedia.org/wiki/MACRS",
+      "date": "2026-03-24"
+    },
+    "9dd3df6138ff": {
+      "url": "https://en.wikipedia.org/wiki/Bonus_depreciation",
+      "date": "2026-03-24"
+    },
+    "6b6eea129496": {
+      "url": "https://en.wikipedia.org/wiki/S_corporation",
+      "date": "2026-03-24"
+    },
+    "ac4f1e1a5180": {
+      "url": "https://en.wikipedia.org/wiki/C_corporation",
+      "date": "2026-03-24"
+    },
+    "df3be7e1f61c": {
+      "url": "https://en.wikipedia.org/wiki/Limited_liability_company",
+      "date": "2026-03-24"
+    },
+    "4113edaa389e": {
+      "url": "https://en.wikipedia.org/wiki/Partnership_taxation_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "6f64b24657e3": {
+      "url": "https://en.wikipedia.org/wiki/Sole_proprietorship",
+      "date": "2026-03-24"
+    },
+    "fb91fd3d1ffd": {
+      "url": "https://en.wikipedia.org/wiki/Pass-through_entity",
+      "date": "2026-03-24"
+    },
+    "7525eed48166": {
+      "url": "https://en.wikipedia.org/wiki/Form_W-2",
+      "date": "2026-03-24"
+    },
+    "6c394228eeda": {
+      "url": "https://en.wikipedia.org/wiki/Form_1099",
+      "date": "2026-03-24"
+    },
+    "25903da770c1": {
+      "url": "https://en.wikipedia.org/wiki/Form_1040",
+      "date": "2026-03-24"
+    },
+    "37701878ee54": {
+      "url": "https://www.accountingtools.com/articles/what-is-gaap.html",
+      "date": "2026-03-24"
+    },
+    "45c4fc4f4c2f": {
+      "url": "https://www.accountingtools.com/articles/balance-sheet",
+      "date": "2026-03-24"
+    },
+    "284f5b55aaca": {
+      "url": "https://www.accountingtools.com/articles/income-statement",
+      "date": "2026-03-24"
+    },
+    "9600881a0b62": {
+      "url": "https://www.accountingtools.com/articles/general-ledger",
+      "date": "2026-03-24"
+    },
+    "613292ae28b0": {
+      "url": "https://www.accountingtools.com/articles/double-entry-accounting",
+      "date": "2026-03-24"
+    },
+    "8292f6b8b6a8": {
+      "url": "https://www.accountingtools.com/articles/cost-of-goods-sold",
+      "date": "2026-03-24"
+    },
+    "c3cb1c038532": {
+      "url": "https://www.accountingtools.com/articles/working-capital",
+      "date": "2026-03-24"
+    },
+    "b2b9a592907e": {
+      "url": "https://www.accountingtools.com/articles/depreciation",
+      "date": "2026-03-24"
+    },
+    "610c8dcedcde": {
+      "url": "https://www.accountingtools.com/articles/accounts-payable",
+      "date": "2026-03-24"
+    },
+    "619d54a7a1d9": {
+      "url": "https://www.accountingtools.com/articles/accounts-receivable",
+      "date": "2026-03-24"
+    },
+    "8c8a8f069e8d": {
+      "url": "https://www.accountingtools.com/articles/goodwill",
+      "date": "2026-03-24"
+    },
+    "e09bff620df4": {
+      "url": "https://www.accountingtools.com/articles/fair-value",
+      "date": "2026-03-24"
+    },
+    "4650a862d841": {
+      "url": "https://www.accountingtools.com/articles/contingent-liability",
+      "date": "2026-03-24"
+    },
+    "46a85819b61a": {
+      "url": "https://www.accountingtools.com/articles/impairment",
+      "date": "2026-03-24"
+    },
+    "9f79ca502de1": {
+      "url": "https://www.accountingtools.com/articles/bank-reconciliation",
+      "date": "2026-03-24"
+    },
+    "a31bdced36b8": {
+      "url": "https://www.accountingtools.com/articles/materiality",
+      "date": "2026-03-24"
+    },
+    "1fc96428572e": {
+      "url": "https://www.accountingtools.com/articles/market-value",
+      "date": "2026-03-24"
+    },
+    "0fed70a93c0b": {
+      "url": "https://www.accountingtools.com/articles/net-present-value",
+      "date": "2026-03-24"
+    },
+    "38c29b359cd9": {
+      "url": "https://www.accountingtools.com/articles/earnings-per-share",
+      "date": "2026-03-24"
+    },
+    "6925ace500e4": {
+      "url": "https://www.accountingtools.com/articles/sales-tax",
+      "date": "2026-03-24"
+    },
+    "96ccd94a1af9": {
+      "url": "https://www.accountingtools.com/articles/accrued-liability",
+      "date": "2026-03-24"
+    },
+    "3a2a15011d53": {
+      "url": "https://www.accountingtools.com/articles/operating-lease",
+      "date": "2026-03-24"
+    },
+    "0bd917708c6a": {
+      "url": "https://www.accountingtools.com/articles/current-ratio",
+      "date": "2026-03-24"
+    },
+    "32b10855c66a": {
+      "url": "https://www.accountingtools.com/articles/debt-to-equity-ratio",
+      "date": "2026-03-24"
+    },
+    "84f881c269a4": {
+      "url": "https://www.accountingtools.com/articles/gross-margin",
+      "date": "2026-03-24"
+    },
+    "4f688c1e762d": {
+      "url": "https://www.accountingtools.com/articles/variable-cost",
+      "date": "2026-03-24"
+    },
+    "a7420f55c17f": {
+      "url": "https://www.accountingtools.com/articles/fixed-cost",
+      "date": "2026-03-24"
+    },
+    "75664f703e67": {
+      "url": "https://www.accountingtools.com/articles/job-costing",
+      "date": "2026-03-24"
+    },
+    "4b8e830357dd": {
+      "url": "https://www.accountingtools.com/articles/activity-based-costing",
+      "date": "2026-03-24"
+    },
+    "c5b2d2c40a3d": {
+      "url": "https://www.accountingtools.com/articles/standard-costing",
+      "date": "2026-03-24"
+    },
+    "44522283fb7d": {
+      "url": "https://www.accountingtools.com/articles/flexible-budget",
+      "date": "2026-03-24"
+    },
+    "8ea1c08a865d": {
+      "url": "https://www.accountingtools.com/articles/master-budget",
+      "date": "2026-03-24"
+    },
+    "a5ed04a31baf": {
+      "url": "https://www.accountingtools.com/articles/contribution-margin",
+      "date": "2026-03-24"
+    },
+    "89cc6ca9448d": {
+      "url": "https://www.accountingtools.com/articles/absorption-costing",
+      "date": "2026-03-24"
+    },
+    "699a09e3de01": {
+      "url": "https://www.accountingtools.com/articles/direct-costing",
+      "date": "2026-03-24"
+    },
+    "734491ed63b5": {
+      "url": "https://www.accountingtools.com/articles/stockholders-equity",
+      "date": "2026-03-24"
+    },
+    "c0b7e108bc2b": {
+      "url": "https://www.accountingtools.com/articles/treasury-stock",
+      "date": "2026-03-24"
+    },
+    "ac6232603fba": {
+      "url": "https://www.accountingtools.com/articles/preferred-stock",
+      "date": "2026-03-24"
+    },
+    "913690919f3c": {
+      "url": "https://www.accountingtools.com/articles/common-stock",
+      "date": "2026-03-24"
+    },
+    "264cb89f2e8a": {
+      "url": "https://www.accountingtools.com/articles/minority-interest",
+      "date": "2026-03-24"
+    },
+    "2d47d4566fad": {
+      "url": "https://www.accountingtools.com/articles/adjusting-entries",
+      "date": "2026-03-24"
+    },
+    "bbc1bf84dee5": {
+      "url": "https://www.accountingtools.com/articles/bad-debt-expense",
+      "date": "2026-03-24"
+    },
+    "0d56a1780771": {
+      "url": "https://www.accountingtools.com/articles/payroll-taxes",
+      "date": "2026-03-24"
+    },
+    "1333aa71eae5": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/balance-sheet/",
+      "date": "2026-03-24"
+    },
+    "67de430ee9ec": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/income-statement/",
+      "date": "2026-03-24"
+    },
+    "5bf3d8d363f9": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/net-present-value-npv/",
+      "date": "2026-03-24"
+    },
+    "54d8dcf3b101": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/internal-rate-of-return-irr/",
+      "date": "2026-03-24"
+    },
+    "1e7d479c3a43": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/wacc/",
+      "date": "2026-03-24"
+    },
+    "000690d36766": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/ebitda/",
+      "date": "2026-03-24"
+    },
+    "8a604f6342b1": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/earnings-per-share-eps/",
+      "date": "2026-03-24"
+    },
+    "1aac0d10cd28": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/price-earnings-ratio/",
+      "date": "2026-03-24"
+    },
+    "f3a8cfa8ec8a": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/return-on-assets-roa/",
+      "date": "2026-03-24"
+    },
+    "6fc30a3d0422": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/beta-coefficient/",
+      "date": "2026-03-24"
+    },
+    "90321fa889b6": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/financial-ratios/",
+      "date": "2026-03-24"
+    },
+    "a20e65991f84": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/dupont-analysis/",
+      "date": "2026-03-24"
+    },
+    "8db9c4a41f56": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/dcf-formula/",
+      "date": "2026-03-24"
+    },
+    "703c90768704": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/current-ratio/",
+      "date": "2026-03-24"
+    },
+    "ca8c27e24eb3": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/debt-to-equity-ratio/",
+      "date": "2026-03-24"
+    },
+    "588ac239b890": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/inventory-turnover/",
+      "date": "2026-03-24"
+    },
+    "049c073c6037": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/asset-turnover-ratio/",
+      "date": "2026-03-24"
+    },
+    "13e5416ff7ba": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/operating-cash-flow-ratio/",
+      "date": "2026-03-24"
+    },
+    "1c06d7f75ea8": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/operating-profit-margin/",
+      "date": "2026-03-24"
+    },
+    "9394e88c7173": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/net-profit-margin/",
+      "date": "2026-03-24"
+    },
+    "638c8d4e4fb1": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/terminal-value/",
+      "date": "2026-03-24"
+    },
+    "9a832617e3f2": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/comparable-company-analysis/",
+      "date": "2026-03-24"
+    },
+    "580309f44c97": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/precedent-transaction-analysis/",
+      "date": "2026-03-24"
+    },
+    "53da62db81d2": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/leveraged-buyout-lbo/",
+      "date": "2026-03-24"
+    },
+    "198faf901585": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cash-flow-from-operations/",
+      "date": "2026-03-24"
+    },
+    "404f37270c1f": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cash-flow-from-investing/",
+      "date": "2026-03-24"
+    },
+    "e6339928cb99": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cash-flow-from-financing/",
+      "date": "2026-03-24"
+    },
+    "845839156abc": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/straight-line-depreciation/",
+      "date": "2026-03-24"
+    },
+    "2d4d942c4d79": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/double-declining-balance/",
+      "date": "2026-03-24"
+    },
+    "2f55fcdccbde": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/journal-entry/",
+      "date": "2026-03-24"
+    },
+    "b9ab2339631f": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/trial-balance/",
+      "date": "2026-03-24"
+    },
+    "7c619ac73629": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/general-ledger/",
+      "date": "2026-03-24"
+    },
+    "055b2674c9a2": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/chart-of-accounts/",
+      "date": "2026-03-24"
+    },
+    "d7596cb0d249": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/accrual-accounting/",
+      "date": "2026-03-24"
+    },
+    "0702dbf947e7": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses",
+      "date": "2026-03-24"
+    },
+    "5f130fab01de": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes",
+      "date": "2026-03-24"
+    },
+    "29e3c0024700": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes",
+      "date": "2026-03-24"
+    },
+    "6fc978dbb4a6": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/business-structures",
+      "date": "2026-03-24"
+    },
+    "0f8fdd190adf": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes",
+      "date": "2026-03-24"
+    },
+    "90d0eca24271": {
+      "url": "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc",
+      "date": "2026-03-24"
+    },
+    "2950e15ec340": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/tangible-property-final-regulations",
+      "date": "2026-03-24"
+    },
+    "2788178b1bc9": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/what-is-taxable-and-nontaxable-income",
+      "date": "2026-03-24"
+    },
+    "8a09509a4f51": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/filing-past-due-tax-returns",
+      "date": "2026-03-24"
+    },
+    "07139df837d4": {
+      "url": "https://www.irs.gov/individuals/international-taxpayers/classification-of-taxpayers-for-us-tax-purposes",
+      "date": "2026-03-24"
+    },
+    "743c8a2b8af1": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/sole-proprietorships",
+      "date": "2026-03-24"
+    },
+    "baa7d65b2a65": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/partnerships",
+      "date": "2026-03-24"
+    },
+    "89fe89e84e12": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc",
+      "date": "2026-03-24"
+    },
+    "df1f494523ec": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations",
+      "date": "2026-03-24"
+    },
+    "92e99ad08107": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/corporations",
+      "date": "2026-03-24"
+    },
+    "07b85d55df87": {
+      "url": "https://en.wikipedia.org/wiki/Operating_cash_flow",
+      "date": "2026-03-24"
+    },
+    "e5e0d31079d0": {
+      "url": "https://en.wikipedia.org/wiki/Cash_flow_forecasting",
+      "date": "2026-03-24"
+    },
+    "98c5561c103f": {
+      "url": "https://en.wikipedia.org/wiki/Accounting_methods",
+      "date": "2026-03-24"
+    },
+    "296a583f88b7": {
+      "url": "https://en.wikipedia.org/wiki/Equity_method",
+      "date": "2026-03-24"
+    },
+    "c2106941a3ee": {
+      "url": "https://en.wikipedia.org/wiki/Marketable_security",
+      "date": "2026-03-24"
+    },
+    "d2e5b520e324": {
+      "url": "https://en.wikipedia.org/wiki/FIFO_and_LIFO_accounting",
+      "date": "2026-03-24"
+    },
+    "8a7e82de7c25": {
+      "url": "https://en.wikipedia.org/wiki/Weighted_average_cost",
+      "date": "2026-03-24"
+    },
+    "5fa98d77ab99": {
+      "url": "https://en.wikipedia.org/wiki/Specific_identification_(inventories)",
+      "date": "2026-03-24"
+    },
+    "492cab6f7935": {
+      "url": "https://en.wikipedia.org/wiki/Lower_of_cost_or_market",
+      "date": "2026-03-24"
+    },
+    "ca696b7f862c": {
+      "url": "https://en.wikipedia.org/wiki/Inventory_turnover",
+      "date": "2026-03-24"
+    },
+    "53f045cdf1b7": {
+      "url": "https://en.wikipedia.org/wiki/Just-in-time_manufacturing",
+      "date": "2026-03-24"
+    },
+    "5ed9237e8432": {
+      "url": "https://en.wikipedia.org/wiki/Economic_order_quantity",
+      "date": "2026-03-24"
+    },
+    "c03236659d4c": {
+      "url": "https://en.wikipedia.org/wiki/Prepaid_expense",
+      "date": "2026-03-24"
+    },
+    "896498c0b2b7": {
+      "url": "https://en.wikipedia.org/wiki/Salvage_value",
+      "date": "2026-03-24"
+    },
+    "55cb6e8be4d8": {
+      "url": "https://en.wikipedia.org/wiki/Straight-line_depreciation",
+      "date": "2026-03-24"
+    },
+    "be2441ee6586": {
+      "url": "https://en.wikipedia.org/wiki/Capital_expenditure",
+      "date": "2026-03-24"
+    },
+    "0945b40f39fa": {
+      "url": "https://en.wikipedia.org/wiki/Revenue_expenditure",
+      "date": "2026-03-24"
+    },
+    "f00db3d07f15": {
+      "url": "https://en.wikipedia.org/wiki/Restructuring",
+      "date": "2026-03-24"
+    },
+    "dff5dc2fcc65": {
+      "url": "https://en.wikipedia.org/wiki/Exit_strategy",
+      "date": "2026-03-24"
+    },
+    "55eadc914f49": {
+      "url": "https://en.wikipedia.org/wiki/Guarantee",
+      "date": "2026-03-24"
+    },
+    "412db893fca9": {
+      "url": "https://en.wikipedia.org/wiki/Letter_of_credit",
+      "date": "2026-03-24"
+    },
+    "36edacdec76d": {
+      "url": "https://en.wikipedia.org/wiki/Surety_bond",
+      "date": "2026-03-24"
+    },
+    "03641b12e098": {
+      "url": "https://en.wikipedia.org/wiki/Term_loan",
+      "date": "2026-03-24"
+    },
+    "f93dab15cb96": {
+      "url": "https://en.wikipedia.org/wiki/Revolving_credit",
+      "date": "2026-03-24"
+    },
+    "66bbb71603f0": {
+      "url": "https://en.wikipedia.org/wiki/Subordinated_debt",
+      "date": "2026-03-24"
+    },
+    "04158fd5604d": {
+      "url": "https://en.wikipedia.org/wiki/Senior_debt",
+      "date": "2026-03-24"
+    },
+    "dd9984098797": {
+      "url": "https://en.wikipedia.org/wiki/Debt_covenant",
+      "date": "2026-03-24"
+    },
+    "fc82f4be4934": {
+      "url": "https://en.wikipedia.org/wiki/Amortizing_loan",
+      "date": "2026-03-24"
+    },
+    "8956f3985c3b": {
+      "url": "https://en.wikipedia.org/wiki/Zero-coupon_bond",
+      "date": "2026-03-24"
+    },
+    "56ddaee430bf": {
+      "url": "https://en.wikipedia.org/wiki/Callable_bond",
+      "date": "2026-03-24"
+    },
+    "4183ce20e571": {
+      "url": "https://en.wikipedia.org/wiki/Junk_bond",
+      "date": "2026-03-24"
+    },
+    "9ec70670e178": {
+      "url": "https://en.wikipedia.org/wiki/Warrant_(finance)",
+      "date": "2026-03-24"
+    },
+    "b38bdf63e393": {
+      "url": "https://en.wikipedia.org/wiki/Consignment",
+      "date": "2026-03-24"
+    },
+    "35a8bbd84198": {
+      "url": "https://en.wikipedia.org/wiki/Franchise_disclosure_document",
+      "date": "2026-03-24"
+    },
+    "4dbb2f97379a": {
+      "url": "https://en.wikipedia.org/wiki/Royalty_payment",
+      "date": "2026-03-24"
+    },
+    "8e910310ef6e": {
+      "url": "https://en.wikipedia.org/wiki/Subscription_business_model",
+      "date": "2026-03-24"
+    },
+    "c5e105a2dbf3": {
+      "url": "https://en.wikipedia.org/wiki/License",
+      "date": "2026-03-24"
+    },
+    "60f2e7841b14": {
+      "url": "https://en.wikipedia.org/wiki/Pension_fund",
+      "date": "2026-03-24"
+    },
+    "5401f438e617": {
+      "url": "https://en.wikipedia.org/wiki/Actuarial_science",
+      "date": "2026-03-24"
+    },
+    "b66b5ada9eb1": {
+      "url": "https://en.wikipedia.org/wiki/Pension_plan",
+      "date": "2026-03-24"
+    },
+    "34467aac6c5d": {
+      "url": "https://en.wikipedia.org/wiki/401(k)",
+      "date": "2026-03-24"
+    },
+    "e2cdd0434be8": {
+      "url": "https://en.wikipedia.org/wiki/Individual_retirement_account",
+      "date": "2026-03-24"
+    },
+    "b485b7c64c72": {
+      "url": "https://en.wikipedia.org/wiki/Employee_stock_purchase_plan",
+      "date": "2026-03-24"
+    },
+    "9f31b2a51e7f": {
+      "url": "https://en.wikipedia.org/wiki/Stock_appreciation_right",
+      "date": "2026-03-24"
+    },
+    "c8f9c5470d41": {
+      "url": "https://en.wikipedia.org/wiki/Phantom_stock",
+      "date": "2026-03-24"
+    },
+    "b556919b8257": {
+      "url": "https://en.wikipedia.org/wiki/Vesting",
+      "date": "2026-03-24"
+    },
+    "3c0f6490a8d9": {
+      "url": "https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model",
+      "date": "2026-03-24"
+    },
+    "449f98823188": {
+      "url": "https://en.wikipedia.org/wiki/Effective_tax_rate",
+      "date": "2026-03-24"
+    },
+    "2fcc67148cd6": {
+      "url": "https://en.wikipedia.org/wiki/Statutory_tax_rate",
+      "date": "2026-03-24"
+    },
+    "3db436282feb": {
+      "url": "https://en.wikipedia.org/wiki/Forward_contract",
+      "date": "2026-03-24"
+    },
+    "e427d113ceb2": {
+      "url": "https://en.wikipedia.org/wiki/Swap_(finance)",
+      "date": "2026-03-24"
+    },
+    "58a521ee5e30": {
+      "url": "https://en.wikipedia.org/wiki/Credit_default_swap",
+      "date": "2026-03-24"
+    },
+    "d68ec7fd0389": {
+      "url": "https://en.wikipedia.org/wiki/Currency_swap",
+      "date": "2026-03-24"
+    },
+    "a2e4b70f93d7": {
+      "url": "https://en.wikipedia.org/wiki/Collar_(finance)",
+      "date": "2026-03-24"
+    },
+    "ea152648ea36": {
+      "url": "https://en.wikipedia.org/wiki/Straddle",
+      "date": "2026-03-24"
+    },
+    "08461169c412": {
+      "url": "https://en.wikipedia.org/wiki/Put_option",
+      "date": "2026-03-24"
+    },
+    "eaed8d59ca4e": {
+      "url": "https://en.wikipedia.org/wiki/Call_option",
+      "date": "2026-03-24"
+    },
+    "0b45c3c6972d": {
+      "url": "https://en.wikipedia.org/wiki/Notional_amount",
+      "date": "2026-03-24"
+    },
+    "f13a4c9709a3": {
+      "url": "https://en.wikipedia.org/wiki/Sale_and_leaseback",
+      "date": "2026-03-24"
+    },
+    "c59cb3b81f5f": {
+      "url": "https://en.wikipedia.org/wiki/Sublease",
+      "date": "2026-03-24"
+    },
+    "a2d81e6c1ed5": {
+      "url": "https://en.wikipedia.org/wiki/Related_party_transaction",
+      "date": "2026-03-24"
+    },
+    "ea4b216fdbc1": {
+      "url": "https://en.wikipedia.org/wiki/Going_concern",
+      "date": "2026-03-24"
+    },
+    "9f791f018b8e": {
+      "url": "https://en.wikipedia.org/wiki/Accrual_accounting",
+      "date": "2026-03-24"
+    },
+    "1fb2806e4d05": {
+      "url": "https://en.wikipedia.org/wiki/Cash_method_of_accounting",
+      "date": "2026-03-24"
+    },
+    "f0690dd2112a": {
+      "url": "https://en.wikipedia.org/wiki/Revenue_recognition_principle",
+      "date": "2026-03-24"
+    },
+    "8bf0518aa008": {
+      "url": "https://en.wikipedia.org/wiki/Matching_principle",
+      "date": "2026-03-24"
+    },
+    "3a6d17e0567b": {
+      "url": "https://en.wikipedia.org/wiki/Historical_cost",
+      "date": "2026-03-24"
+    },
+    "4b23e9f68919": {
+      "url": "https://en.wikipedia.org/wiki/Economic_entity_assumption",
+      "date": "2026-03-24"
+    },
+    "2f64a5a3f83a": {
+      "url": "https://en.wikipedia.org/wiki/Going_concern_principle",
+      "date": "2026-03-24"
+    },
+    "13e2f2bef737": {
+      "url": "https://en.wikipedia.org/wiki/Trend_analysis",
+      "date": "2026-03-24"
+    },
+    "ae678ece2239": {
+      "url": "https://en.wikipedia.org/wiki/Ratio_analysis",
+      "date": "2026-03-24"
+    },
+    "560830462b05": {
+      "url": "https://en.wikipedia.org/wiki/Accounting_information_system",
+      "date": "2026-03-24"
+    },
+    "850b202e7064": {
+      "url": "https://en.wikipedia.org/wiki/Enterprise_resource_planning",
+      "date": "2026-03-24"
+    },
+    "13f52f9cccf7": {
+      "url": "https://en.wikipedia.org/wiki/Chart_of_accounts",
+      "date": "2026-03-24"
+    },
+    "64adcdf61839": {
+      "url": "https://en.wikipedia.org/wiki/General_journal",
+      "date": "2026-03-24"
+    },
+    "0b8392ed9ccb": {
+      "url": "https://en.wikipedia.org/wiki/Special_journal",
+      "date": "2026-03-24"
+    },
+    "f7739a32042c": {
+      "url": "https://en.wikipedia.org/wiki/Subsidiary_ledger",
+      "date": "2026-03-24"
+    },
+    "9dc01b29f2a9": {
+      "url": "https://en.wikipedia.org/wiki/Governmental_accounting",
+      "date": "2026-03-24"
+    },
+    "e015bed97b70": {
+      "url": "https://en.wikipedia.org/wiki/Fund_accounting",
+      "date": "2026-03-24"
+    },
+    "00a8f5915c08": {
+      "url": "https://en.wikipedia.org/wiki/Governmental_Accounting_Standards_Board",
+      "date": "2026-03-24"
+    },
+    "7928547e630b": {
+      "url": "https://en.wikipedia.org/wiki/Nonprofit_organization",
+      "date": "2026-03-24"
+    },
+    "1bc803280d63": {
+      "url": "https://en.wikipedia.org/wiki/Form_990",
+      "date": "2026-03-24"
+    },
+    "c330bfa5fa79": {
+      "url": "https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards",
+      "date": "2026-03-24"
+    },
+    "d6349aa6698c": {
+      "url": "https://en.wikipedia.org/wiki/Commercial_bank",
+      "date": "2026-03-24"
+    },
+    "a7525aecaec0": {
+      "url": "https://en.wikipedia.org/wiki/Investment_banking",
+      "date": "2026-03-24"
+    },
+    "396d7cff37d1": {
+      "url": "https://en.wikipedia.org/wiki/Central_bank",
+      "date": "2026-03-24"
+    },
+    "420b0bc6dbaa": {
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve",
+      "date": "2026-03-24"
+    },
+    "494ffdcf6039": {
+      "url": "https://en.wikipedia.org/wiki/Fractional-reserve_banking",
+      "date": "2026-03-24"
+    },
+    "46efa105a701": {
+      "url": "https://en.wikipedia.org/wiki/Money_market",
+      "date": "2026-03-24"
+    },
+    "117b561dbc20": {
+      "url": "https://en.wikipedia.org/wiki/Capital_market",
+      "date": "2026-03-24"
+    },
+    "de9abf89da44": {
+      "url": "https://en.wikipedia.org/wiki/Securities_market",
+      "date": "2026-03-24"
+    },
+    "435fe3baf823": {
+      "url": "https://en.wikipedia.org/wiki/Stock_exchange",
+      "date": "2026-03-24"
+    },
+    "d0256951fc5f": {
+      "url": "https://en.wikipedia.org/wiki/Bond_market",
+      "date": "2026-03-24"
+    },
+    "f3c81025a8d0": {
+      "url": "https://en.wikipedia.org/wiki/Foreign_exchange_market",
+      "date": "2026-03-24"
+    },
+    "535ed2ebfe51": {
+      "url": "https://en.wikipedia.org/wiki/Financial_risk_management",
+      "date": "2026-03-24"
+    },
+    "fa15f524dfe1": {
+      "url": "https://en.wikipedia.org/wiki/Credit_risk",
+      "date": "2026-03-24"
+    },
+    "c695324dcc86": {
+      "url": "https://en.wikipedia.org/wiki/Market_risk",
+      "date": "2026-03-24"
+    },
+    "d798d5d93b1a": {
+      "url": "https://en.wikipedia.org/wiki/Liquidity_risk",
+      "date": "2026-03-24"
+    },
+    "3502e25336cb": {
+      "url": "https://en.wikipedia.org/wiki/Operational_risk",
+      "date": "2026-03-24"
+    },
+    "e3ad23df12b7": {
+      "url": "https://en.wikipedia.org/wiki/Interest_rate_risk",
+      "date": "2026-03-24"
+    },
+    "1e6ef49fd0cc": {
+      "url": "https://en.wikipedia.org/wiki/Value_at_risk",
+      "date": "2026-03-24"
+    },
+    "8f3fbeee7698": {
+      "url": "https://en.wikipedia.org/wiki/Risk-adjusted_return_on_capital",
+      "date": "2026-03-24"
+    },
+    "8ce43533cfca": {
+      "url": "https://en.wikipedia.org/wiki/Dividend_policy",
+      "date": "2026-03-24"
+    },
+    "676a67dda1a8": {
+      "url": "https://en.wikipedia.org/wiki/Share_repurchase",
+      "date": "2026-03-24"
+    },
+    "d84d4d0d25c3": {
+      "url": "https://en.wikipedia.org/wiki/Rights_issue",
+      "date": "2026-03-24"
+    },
+    "bcdcbb09a40f": {
+      "url": "https://en.wikipedia.org/wiki/Secondary_offering",
+      "date": "2026-03-24"
+    },
+    "f80117e7ebbb": {
+      "url": "https://en.wikipedia.org/wiki/Underwriting",
+      "date": "2026-03-24"
+    },
+    "3988db882b42": {
+      "url": "https://en.wikipedia.org/wiki/Due_diligence",
+      "date": "2026-03-24"
+    },
+    "af8ace297185": {
+      "url": "https://en.wikipedia.org/wiki/Earnout",
+      "date": "2026-03-24"
+    },
+    "bbd4a838bbef": {
+      "url": "https://en.wikipedia.org/wiki/Letter_of_intent",
+      "date": "2026-03-24"
+    },
+    "05c3e44980cc": {
+      "url": "https://en.wikipedia.org/wiki/Golden_parachute",
+      "date": "2026-03-24"
+    },
+    "a1b861ea5e78": {
+      "url": "https://en.wikipedia.org/wiki/Corporate_finance",
+      "date": "2026-03-24"
+    },
+    "6b90d9d09b2f": {
+      "url": "https://en.wikipedia.org/wiki/Agency_cost",
+      "date": "2026-03-24"
+    },
+    "11e2c4c5d5a2": {
+      "url": "https://en.wikipedia.org/wiki/Pecking_order_theory",
+      "date": "2026-03-24"
+    },
+    "598dfec2a55c": {
+      "url": "https://en.wikipedia.org/wiki/Trade-off_theory_of_capital_structure",
+      "date": "2026-03-24"
+    },
+    "108eb1f0bc12": {
+      "url": "https://en.wikipedia.org/wiki/Financial_planning_(business)",
+      "date": "2026-03-24"
+    },
+    "8baee8193e76": {
+      "url": "https://en.wikipedia.org/wiki/Budget",
+      "date": "2026-03-24"
+    },
+    "d1c309021ead": {
+      "url": "https://en.wikipedia.org/wiki/Forecasting",
+      "date": "2026-03-24"
+    },
+    "9bd3ccc10d48": {
+      "url": "https://en.wikipedia.org/wiki/Scenario_analysis",
+      "date": "2026-03-24"
+    },
+    "68eaae9351f9": {
+      "url": "https://en.wikipedia.org/wiki/Sensitivity_analysis",
+      "date": "2026-03-24"
+    },
+    "383e00b5d0b6": {
+      "url": "https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance",
+      "date": "2026-03-24"
+    },
+    "efa2698cbf73": {
+      "url": "https://en.wikipedia.org/wiki/Yield_curve",
+      "date": "2026-03-24"
+    },
+    "f2e04e1a49b7": {
+      "url": "https://en.wikipedia.org/wiki/Term_structure_of_interest_rates",
+      "date": "2026-03-24"
+    },
+    "8e3be260e07f": {
+      "url": "https://en.wikipedia.org/wiki/Credit_rating",
+      "date": "2026-03-24"
+    },
+    "42bf4f0b3bbc": {
+      "url": "https://en.wikipedia.org/wiki/Bond_credit_rating",
+      "date": "2026-03-24"
+    },
+    "9233af52a156": {
+      "url": "https://en.wikipedia.org/wiki/Municipal_bond",
+      "date": "2026-03-24"
+    },
+    "8a04f7329e17": {
+      "url": "https://en.wikipedia.org/wiki/Government_bond",
+      "date": "2026-03-24"
+    },
+    "7ca97cb2d6f8": {
+      "url": "https://en.wikipedia.org/wiki/Corporate_bond",
+      "date": "2026-03-24"
+    },
+    "accfed0502e4": {
+      "url": "https://en.wikipedia.org/wiki/Mortgage-backed_security",
+      "date": "2026-03-24"
+    },
+    "9e2ab2990a50": {
+      "url": "https://en.wikipedia.org/wiki/Collateralized_debt_obligation",
+      "date": "2026-03-24"
+    },
+    "82ea84848ef8": {
+      "url": "https://en.wikipedia.org/wiki/Credit_spread_(bond)",
+      "date": "2026-03-24"
+    },
+    "8dbaf5f6ad61": {
+      "url": "https://en.wikipedia.org/wiki/Coupon_(bond)",
+      "date": "2026-03-24"
+    },
+    "4abf3eb9b997": {
+      "url": "https://en.wikipedia.org/wiki/Stock_valuation",
+      "date": "2026-03-24"
+    },
+    "53c87bc2a1d3": {
+      "url": "https://en.wikipedia.org/wiki/Fundamental_analysis",
+      "date": "2026-03-24"
+    },
+    "012b88c625c0": {
+      "url": "https://en.wikipedia.org/wiki/Technical_analysis",
+      "date": "2026-03-24"
+    },
+    "260f87bf3d93": {
+      "url": "https://en.wikipedia.org/wiki/Equity_research",
+      "date": "2026-03-24"
+    },
+    "bda8018c67b5": {
+      "url": "https://en.wikipedia.org/wiki/Market_maker",
+      "date": "2026-03-24"
+    },
+    "5de022c8183b": {
+      "url": "https://en.wikipedia.org/wiki/Margin_(finance)",
+      "date": "2026-03-24"
+    },
+    "d992c27329ec": {
+      "url": "https://en.wikipedia.org/wiki/Stock_market_index",
+      "date": "2026-03-24"
+    },
+    "fef9dee3cf2c": {
+      "url": "https://en.wikipedia.org/wiki/Options_strategy",
+      "date": "2026-03-24"
+    },
+    "64f2168396bb": {
+      "url": "https://en.wikipedia.org/wiki/Binomial_options_pricing_model",
+      "date": "2026-03-24"
+    },
+    "d99e98fdccb1": {
+      "url": "https://en.wikipedia.org/wiki/Greeks_(finance)",
+      "date": "2026-03-24"
+    },
+    "69767fbf5436": {
+      "url": "https://en.wikipedia.org/wiki/Implied_volatility",
+      "date": "2026-03-24"
+    },
+    "a0e592dd5a1a": {
+      "url": "https://en.wikipedia.org/wiki/Volatility_smile",
+      "date": "2026-03-24"
+    },
+    "bd163fdf861c": {
+      "url": "https://en.wikipedia.org/wiki/Risk-neutral_measure",
+      "date": "2026-03-24"
+    },
+    "bc44699573f3": {
+      "url": "https://en.wikipedia.org/wiki/Real_estate_investment_trust",
+      "date": "2026-03-24"
+    },
+    "a6f77a07222d": {
+      "url": "https://en.wikipedia.org/wiki/Mortgage",
+      "date": "2026-03-24"
+    },
+    "8bdda03c3664": {
+      "url": "https://en.wikipedia.org/wiki/Amortization_schedule",
+      "date": "2026-03-24"
+    },
+    "58096d797013": {
+      "url": "https://en.wikipedia.org/wiki/Loan-to-value_ratio",
+      "date": "2026-03-24"
+    },
+    "5bee783dcf9f": {
+      "url": "https://en.wikipedia.org/wiki/Capitalization_rate",
+      "date": "2026-03-24"
+    },
+    "88f50ef2f31a": {
+      "url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+      "date": "2026-03-24"
+    },
+    "a96077f9c879": {
+      "url": "https://en.wikipedia.org/wiki/Prospect_theory",
+      "date": "2026-03-24"
+    },
+    "a187fea43566": {
+      "url": "https://en.wikipedia.org/wiki/Confirmation_bias",
+      "date": "2026-03-24"
+    },
+    "6cec4c17a8b2": {
+      "url": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)",
+      "date": "2026-03-24"
+    },
+    "5c802877f5ef": {
+      "url": "https://en.wikipedia.org/wiki/Herd_behavior",
+      "date": "2026-03-24"
+    },
+    "c578f7eaf201": {
+      "url": "https://en.wikipedia.org/wiki/Market_bubble",
+      "date": "2026-03-24"
+    },
+    "541dc1fbc1b3": {
+      "url": "https://en.wikipedia.org/wiki/Exchange_rate",
+      "date": "2026-03-24"
+    },
+    "0541562830fb": {
+      "url": "https://en.wikipedia.org/wiki/Purchasing_power_parity",
+      "date": "2026-03-24"
+    },
+    "72ea5ad60119": {
+      "url": "https://en.wikipedia.org/wiki/Interest_rate_parity",
+      "date": "2026-03-24"
+    },
+    "3564a29c4aed": {
+      "url": "https://en.wikipedia.org/wiki/Foreign_direct_investment",
+      "date": "2026-03-24"
+    },
+    "2d9fd7140db4": {
+      "url": "https://en.wikipedia.org/wiki/Currency_risk",
+      "date": "2026-03-24"
+    },
+    "55e2c10a7418": {
+      "url": "https://en.wikipedia.org/wiki/Tax_bracket",
+      "date": "2026-03-24"
+    },
+    "1c08994aa132": {
+      "url": "https://en.wikipedia.org/wiki/Marginal_tax_rate",
+      "date": "2026-03-24"
+    },
+    "6ea712899bf6": {
+      "url": "https://en.wikipedia.org/wiki/Progressive_tax",
+      "date": "2026-03-24"
+    },
+    "2949dd45d37f": {
+      "url": "https://en.wikipedia.org/wiki/Regressive_tax",
+      "date": "2026-03-24"
+    },
+    "cb017539f34a": {
+      "url": "https://en.wikipedia.org/wiki/Flat_tax",
+      "date": "2026-03-24"
+    },
+    "f04da10afd22": {
+      "url": "https://en.wikipedia.org/wiki/Tax_incidence",
+      "date": "2026-03-24"
+    },
+    "f907f90b23b7": {
+      "url": "https://en.wikipedia.org/wiki/Tax_treaty",
+      "date": "2026-03-24"
+    },
+    "6b357fb287cd": {
+      "url": "https://en.wikipedia.org/wiki/Tax_haven",
+      "date": "2026-03-24"
+    },
+    "eedaf77a421b": {
+      "url": "https://en.wikipedia.org/wiki/Tax_avoidance",
+      "date": "2026-03-24"
+    },
+    "a23146f3b730": {
+      "url": "https://en.wikipedia.org/wiki/Tax_evasion",
+      "date": "2026-03-24"
+    },
+    "54c62c7f743a": {
+      "url": "https://en.wikipedia.org/wiki/Like-kind_exchange",
+      "date": "2026-03-24"
+    },
+    "0ae44f5202ff": {
+      "url": "https://en.wikipedia.org/wiki/Installment_sale",
+      "date": "2026-03-24"
+    },
+    "ffd6739573a4": {
+      "url": "https://en.wikipedia.org/wiki/Net_investment_income_tax",
+      "date": "2026-03-24"
+    },
+    "c57c2722a64d": {
+      "url": "https://en.wikipedia.org/wiki/Personal_holding_company",
+      "date": "2026-03-24"
+    },
+    "8c0269a766a1": {
+      "url": "https://en.wikipedia.org/wiki/Constructive_receipt",
+      "date": "2026-03-24"
+    },
+    "f12e9d495b0e": {
+      "url": "https://en.wikipedia.org/wiki/Traditional_IRA",
+      "date": "2026-03-24"
+    },
+    "bca175d72f3d": {
+      "url": "https://en.wikipedia.org/wiki/Roth_IRA",
+      "date": "2026-03-24"
+    },
+    "75b5e3f575ea": {
+      "url": "https://en.wikipedia.org/wiki/SEP-IRA",
+      "date": "2026-03-24"
+    },
+    "4a755df78f1e": {
+      "url": "https://en.wikipedia.org/wiki/Solo_401(k)",
+      "date": "2026-03-24"
+    },
+    "1ff6114b6e44": {
+      "url": "https://en.wikipedia.org/wiki/Health_savings_account",
+      "date": "2026-03-24"
+    },
+    "4d245f575413": {
+      "url": "https://en.wikipedia.org/wiki/Flexible_spending_account",
+      "date": "2026-03-24"
+    },
+    "6c006e3c9b58": {
+      "url": "https://en.wikipedia.org/wiki/Cafeteria_plan",
+      "date": "2026-03-24"
+    },
+    "c6e1db0dcaa3": {
+      "url": "https://en.wikipedia.org/wiki/Property_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "b9e8e8fbc2b5": {
+      "url": "https://en.wikipedia.org/wiki/Gift_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "01dc0afd5812": {
+      "url": "https://en.wikipedia.org/wiki/Generation-skipping_transfer_tax",
+      "date": "2026-03-24"
+    },
+    "4cdea8b3385b": {
+      "url": "https://en.wikipedia.org/wiki/Step-up_in_basis",
+      "date": "2026-03-24"
+    },
+    "d9b180d03420": {
+      "url": "https://en.wikipedia.org/wiki/Cost_basis",
+      "date": "2026-03-24"
+    },
+    "5d1d8ef54b62": {
+      "url": "https://en.wikipedia.org/wiki/Controlled_foreign_corporation",
+      "date": "2026-03-24"
+    },
+    "b5b7246fa42f": {
+      "url": "https://en.wikipedia.org/wiki/Foreign_tax_credit",
+      "date": "2026-03-24"
+    },
+    "7f42ffddb39a": {
+      "url": "https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017",
+      "date": "2026-03-24"
+    },
+    "315c3f9d6d14": {
+      "url": "https://www.accountingtools.com/articles/right-of-use-asset",
+      "date": "2026-03-24"
+    },
+    "eaac26c0e8c9": {
+      "url": "https://www.accountingtools.com/articles/deferred-tax-liability",
+      "date": "2026-03-24"
+    },
+    "62351a4dbce1": {
+      "url": "https://www.accountingtools.com/articles/business-combination",
+      "date": "2026-03-24"
+    },
+    "b236530b7b66": {
+      "url": "https://www.accountingtools.com/articles/functional-currency",
+      "date": "2026-03-24"
+    },
+    "db7b9d6ed6bb": {
+      "url": "https://www.accountingtools.com/articles/level-1-inputs",
+      "date": "2026-03-24"
+    },
+    "79a74b52e71d": {
+      "url": "https://www.accountingtools.com/articles/level-2-inputs",
+      "date": "2026-03-24"
+    },
+    "6447f5cf7e40": {
+      "url": "https://www.accountingtools.com/articles/days-payable-outstanding",
+      "date": "2026-03-24"
+    },
+    "4247d51f6019": {
+      "url": "https://www.accountingtools.com/articles/interest-coverage-ratio",
+      "date": "2026-03-24"
+    },
+    "352e74a4df3d": {
+      "url": "https://www.accountingtools.com/articles/price-earnings-ratio",
+      "date": "2026-03-24"
+    },
+    "276e2dff2e94": {
+      "url": "https://www.accountingtools.com/articles/effective-interest-method",
+      "date": "2026-03-24"
+    },
+    "ccb18da3ebcc": {
+      "url": "https://www.accountingtools.com/articles/bill-and-hold",
+      "date": "2026-03-24"
+    },
+    "9039a3caff87": {
+      "url": "https://www.accountingtools.com/articles/restricted-fund",
+      "date": "2026-03-24"
+    },
+    "2fb1afc3696f": {
+      "url": "https://www.accountingtools.com/articles/net-assets",
+      "date": "2026-03-24"
+    },
+    "02b06612ac02": {
+      "url": "https://www.accountingtools.com/articles/statement-of-activities",
+      "date": "2026-03-24"
+    },
+    "1700fa6c951a": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/enterprise-value/",
+      "date": "2026-03-24"
+    },
+    "616687eda732": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/equity-value/",
+      "date": "2026-03-24"
+    },
+    "8bcf29c12ec8": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/market-capitalization/",
+      "date": "2026-03-24"
+    },
+    "0f61e35a5564": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/price-to-book-ratio/",
+      "date": "2026-03-24"
+    },
+    "ef47f49a14a3": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/dividend-discount-model/",
+      "date": "2026-03-24"
+    },
+    "02ae81d452a4": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/gordon-growth-model/",
+      "date": "2026-03-24"
+    },
+    "2e3c5b8759c3": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/free-cash-flow-to-firm/",
+      "date": "2026-03-24"
+    },
+    "f29739e9a6a7": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/free-cash-flow-to-equity/",
+      "date": "2026-03-24"
+    },
+    "b5817a18e64f": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/unlevered-beta/",
+      "date": "2026-03-24"
+    },
+    "fc4310be5d67": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/yield-to-maturity/",
+      "date": "2026-03-24"
+    },
+    "904a94623d3d": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/coupon-rate/",
+      "date": "2026-03-24"
+    },
+    "3dbe51bdbc9e": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/bond-pricing/",
+      "date": "2026-03-24"
+    },
+    "ab81b125d372": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/yield-curve/",
+      "date": "2026-03-24"
+    },
+    "44fc289b7022": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/credit-spread/",
+      "date": "2026-03-24"
+    },
+    "aa07f5cf5e48": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/duration/",
+      "date": "2026-03-24"
+    },
+    "4972068e5efa": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/working-capital/",
+      "date": "2026-03-24"
+    },
+    "a4cdbe6bb0ae": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cash-conversion-cycle/",
+      "date": "2026-03-24"
+    },
+    "0a5f8f1c8bcc": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/days-sales-outstanding/",
+      "date": "2026-03-24"
+    },
+    "91f91e32882c": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/days-payable-outstanding/",
+      "date": "2026-03-24"
+    },
+    "e9d9fb940285": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/days-inventory-outstanding/",
+      "date": "2026-03-24"
+    },
+    "e3bf999470b0": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/capital-structure/",
+      "date": "2026-03-24"
+    },
+    "2935e7501fd5": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cost-of-equity/",
+      "date": "2026-03-24"
+    },
+    "75068ee78d44": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cost-of-debt/",
+      "date": "2026-03-24"
+    },
+    "0762de5120c7": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/types-of-financial-models/",
+      "date": "2026-03-24"
+    },
+    "5792c2e7d04d": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/sensitivity-analysis/",
+      "date": "2026-03-24"
+    },
+    "a3468bc6d183": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/scenario-analysis/",
+      "date": "2026-03-24"
+    },
+    "dbc952d97135": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/monte-carlo-simulation/",
+      "date": "2026-03-24"
+    },
+    "b2ec65e04834": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/revenue-recognition/",
+      "date": "2026-03-24"
+    },
+    "68f791c3a310": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/lease-accounting/",
+      "date": "2026-03-24"
+    },
+    "f228b90570b8": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/goodwill-impairment/",
+      "date": "2026-03-24"
+    },
+    "f35751bb765d": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/deferred-tax/",
+      "date": "2026-03-24"
+    },
+    "2e8a22255f53": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/hedge-accounting/",
+      "date": "2026-03-24"
+    },
+    "15dc763ea56b": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee",
+      "date": "2026-03-24"
+    },
+    "8f6e4b3f2c57": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/business-tax-credits",
+      "date": "2026-03-24"
+    },
+    "4cb704519c69": {
+      "url": "https://www.irs.gov/retirement-plans/plan-sponsor/types-of-retirement-plans",
+      "date": "2026-03-24"
+    },
+    "5f2428d0eb09": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction",
+      "date": "2026-03-24"
+    },
+    "3b96d38000ca": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies",
+      "date": "2026-03-24"
+    },
+    "1cfbf57d21d4": {
+      "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion",
+      "date": "2026-03-24"
+    },
+    "7e41e8575393": {
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/like-kind-exchanges-real-estate-tax-tips",
+      "date": "2026-03-24"
+    },
+    "b02d1a758e14": {
+      "url": "https://en.wikipedia.org/wiki/Management_accounting",
+      "date": "2026-03-24"
+    },
+    "9a1b0742f30c": {
+      "url": "https://en.wikipedia.org/wiki/Cost_accounting",
+      "date": "2026-03-24"
+    },
+    "80a3f1769fe6": {
+      "url": "https://en.wikipedia.org/wiki/Activity-based_costing",
+      "date": "2026-03-24"
+    },
+    "7108a238f6f1": {
+      "url": "https://en.wikipedia.org/wiki/Job_costing",
+      "date": "2026-03-24"
+    },
+    "ad5e8e87ec92": {
+      "url": "https://en.wikipedia.org/wiki/Process_costing",
+      "date": "2026-03-24"
+    },
+    "9a781bf79bed": {
+      "url": "https://en.wikipedia.org/wiki/Standard_cost_accounting",
+      "date": "2026-03-24"
+    },
+    "756cd7f1be30": {
+      "url": "https://en.wikipedia.org/wiki/Throughput_accounting",
+      "date": "2026-03-24"
+    },
+    "9791e577fcc4": {
+      "url": "https://en.wikipedia.org/wiki/Target_costing",
+      "date": "2026-03-24"
+    },
+    "6c80e31bf312": {
+      "url": "https://en.wikipedia.org/wiki/Kaizen_costing",
+      "date": "2026-03-24"
+    },
+    "559c3d5826e2": {
+      "url": "https://en.wikipedia.org/wiki/Life-cycle_cost_analysis",
+      "date": "2026-03-24"
+    },
+    "5b556827a76b": {
+      "url": "https://en.wikipedia.org/wiki/Variance_analysis_(accounting)",
+      "date": "2026-03-24"
+    },
+    "599dcd3a1a91": {
+      "url": "https://en.wikipedia.org/wiki/Cost_allocation",
+      "date": "2026-03-24"
+    },
+    "5941ba47e3c7": {
+      "url": "https://en.wikipedia.org/wiki/Overhead_(business)",
+      "date": "2026-03-24"
+    },
+    "815fc106f4db": {
+      "url": "https://en.wikipedia.org/wiki/Cost_driver",
+      "date": "2026-03-24"
+    },
+    "e065b714bffb": {
+      "url": "https://en.wikipedia.org/wiki/Cost_center",
+      "date": "2026-03-24"
+    },
+    "93a775f2fde0": {
+      "url": "https://en.wikipedia.org/wiki/Profit_center",
+      "date": "2026-03-24"
+    },
+    "701477c61ba4": {
+      "url": "https://en.wikipedia.org/wiki/Absorption_costing",
+      "date": "2026-03-24"
+    },
+    "bc73e1006878": {
+      "url": "https://en.wikipedia.org/wiki/Variable_costing",
+      "date": "2026-03-24"
+    },
+    "9ad0b6a23028": {
+      "url": "https://en.wikipedia.org/wiki/Contribution_margin",
+      "date": "2026-03-24"
+    },
+    "23091d71098b": {
+      "url": "https://en.wikipedia.org/wiki/Break-even_(economics)",
+      "date": "2026-03-24"
+    },
+    "9b02aea91f27": {
+      "url": "https://en.wikipedia.org/wiki/Cost%E2%80%93volume%E2%80%93profit_analysis",
+      "date": "2026-03-24"
+    },
+    "2435b0d3d698": {
+      "url": "https://en.wikipedia.org/wiki/Marginal_cost",
+      "date": "2026-03-24"
+    },
+    "6ec1b16f2de5": {
+      "url": "https://en.wikipedia.org/wiki/Opportunity_cost",
+      "date": "2026-03-24"
+    },
+    "9649a987ac62": {
+      "url": "https://en.wikipedia.org/wiki/Sunk_cost",
+      "date": "2026-03-24"
+    },
+    "82dbe6571390": {
+      "url": "https://en.wikipedia.org/wiki/Bookkeeping",
+      "date": "2026-03-24"
+    },
+    "3b241b2e5f05": {
+      "url": "https://en.wikipedia.org/wiki/Double-entry_bookkeeping",
+      "date": "2026-03-24"
+    },
+    "535904ba74df": {
+      "url": "https://en.wikipedia.org/wiki/Single-entry_bookkeeping",
+      "date": "2026-03-24"
+    },
+    "2edc51c31b23": {
+      "url": "https://en.wikipedia.org/wiki/Accounting_cycle",
+      "date": "2026-03-24"
+    },
+    "4037b878c160": {
+      "url": "https://en.wikipedia.org/wiki/Trial_balance",
+      "date": "2026-03-24"
+    },
+    "85296bfb1c62": {
+      "url": "https://en.wikipedia.org/wiki/Adjusting_entries",
+      "date": "2026-03-24"
+    },
+    "f884410527dd": {
+      "url": "https://en.wikipedia.org/wiki/Journal_entry",
+      "date": "2026-03-24"
+    },
+    "d7702dff1e3f": {
+      "url": "https://en.wikipedia.org/wiki/Ledger",
+      "date": "2026-03-24"
+    },
+    "315a2518bd4c": {
+      "url": "https://en.wikipedia.org/wiki/Debits_and_credits",
+      "date": "2026-03-24"
+    },
+    "4350790993e7": {
+      "url": "https://en.wikipedia.org/wiki/Accrual",
+      "date": "2026-03-24"
+    },
+    "daa82a75d6d7": {
+      "url": "https://en.wikipedia.org/wiki/Deferral",
+      "date": "2026-03-24"
+    },
+    "fcb8e9fe04e8": {
+      "url": "https://en.wikipedia.org/wiki/Accrued_expense",
+      "date": "2026-03-24"
+    },
+    "57714e835fcb": {
+      "url": "https://en.wikipedia.org/wiki/Accrued_interest",
+      "date": "2026-03-24"
+    },
+    "e32e01dd167d": {
+      "url": "https://en.wikipedia.org/wiki/Provision_(accounting)",
+      "date": "2026-03-24"
+    },
+    "04d96a4eb700": {
+      "url": "https://en.wikipedia.org/wiki/Reserve_(accounting)",
+      "date": "2026-03-24"
+    },
+    "d024d03d5a49": {
+      "url": "https://en.wikipedia.org/wiki/Bad_debt",
+      "date": "2026-03-24"
+    },
+    "6b114c57070c": {
+      "url": "https://en.wikipedia.org/wiki/Write-off",
+      "date": "2026-03-24"
+    },
+    "e65170db9e96": {
+      "url": "https://en.wikipedia.org/wiki/Write-down",
+      "date": "2026-03-24"
+    },
+    "c2ebfdefc99e": {
+      "url": "https://en.wikipedia.org/wiki/Capital_surplus",
+      "date": "2026-03-24"
+    },
+    "07fda90b208e": {
+      "url": "https://en.wikipedia.org/wiki/Additional_paid-in_capital",
+      "date": "2026-03-24"
+    },
+    "70d4498be942": {
+      "url": "https://en.wikipedia.org/wiki/Par_value",
+      "date": "2026-03-24"
+    },
+    "d66ce5f2359d": {
+      "url": "https://en.wikipedia.org/wiki/Book_value",
+      "date": "2026-03-24"
+    },
+    "33358a431527": {
+      "url": "https://en.wikipedia.org/wiki/Carrying_value",
+      "date": "2026-03-24"
+    },
+    "ed77f143c7f5": {
+      "url": "https://en.wikipedia.org/wiki/Purchase_price_allocation",
+      "date": "2026-03-24"
+    },
+    "278f2ad586d0": {
+      "url": "https://en.wikipedia.org/wiki/Non-controlling_interest",
+      "date": "2026-03-24"
+    },
+    "3c7f6b5c9a15": {
+      "url": "https://en.wikipedia.org/wiki/Cost_of_goods_sold",
+      "date": "2026-03-24"
+    },
+    "fe9b509bd949": {
+      "url": "https://en.wikipedia.org/wiki/Gross_profit",
+      "date": "2026-03-24"
+    },
+    "e9e1839176c1": {
+      "url": "https://en.wikipedia.org/wiki/Operating_expense",
+      "date": "2026-03-24"
+    },
+    "9a11ba5b422f": {
+      "url": "https://en.wikipedia.org/wiki/Other_comprehensive_income",
+      "date": "2026-03-24"
+    },
+    "0824756e86c6": {
+      "url": "https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission",
+      "date": "2026-03-24"
+    },
+    "99414d19a92a": {
+      "url": "https://en.wikipedia.org/wiki/Securities_Act_of_1933",
+      "date": "2026-03-24"
+    },
+    "202909d6a772": {
+      "url": "https://en.wikipedia.org/wiki/Securities_Exchange_Act_of_1934",
+      "date": "2026-03-24"
+    },
+    "d1cd3d0558f0": {
+      "url": "https://en.wikipedia.org/wiki/Form_10-K",
+      "date": "2026-03-24"
+    },
+    "b52749ad5ff6": {
+      "url": "https://en.wikipedia.org/wiki/Form_10-Q",
+      "date": "2026-03-24"
+    },
+    "8479986d5b88": {
+      "url": "https://en.wikipedia.org/wiki/Form_8-K",
+      "date": "2026-03-24"
+    },
+    "512338bfb1a7": {
+      "url": "https://en.wikipedia.org/wiki/Annual_report",
+      "date": "2026-03-24"
+    },
+    "7416bd432bfb": {
+      "url": "https://en.wikipedia.org/wiki/Proxy_statement",
+      "date": "2026-03-24"
+    },
+    "c3a12635adb1": {
+      "url": "https://en.wikipedia.org/wiki/Public_Company_Accounting_Oversight_Board",
+      "date": "2026-03-24"
+    },
+    "338ff69a5165": {
+      "url": "https://en.wikipedia.org/wiki/American_Institute_of_Certified_Public_Accountants",
+      "date": "2026-03-24"
+    },
+    "55a5f05f20b1": {
+      "url": "https://en.wikipedia.org/wiki/Accounting_fraud",
+      "date": "2026-03-24"
+    },
+    "e8f15b501d8c": {
+      "url": "https://en.wikipedia.org/wiki/Creative_accounting",
+      "date": "2026-03-24"
+    },
+    "53e0dfa917eb": {
+      "url": "https://en.wikipedia.org/wiki/Earnings_management",
+      "date": "2026-03-24"
+    },
+    "15d68fb0e6e2": {
+      "url": "https://en.wikipedia.org/wiki/Forensic_accounting",
+      "date": "2026-03-24"
+    },
+    "f5b297b127b3": {
+      "url": "https://en.wikipedia.org/wiki/Benford%27s_law",
+      "date": "2026-03-24"
+    },
+    "288063a130aa": {
+      "url": "https://en.wikipedia.org/wiki/Enron_scandal",
+      "date": "2026-03-24"
+    },
+    "f643782f6030": {
+      "url": "https://en.wikipedia.org/wiki/WorldCom_scandal",
+      "date": "2026-03-24"
+    },
+    "5525f0679879": {
+      "url": "https://en.wikipedia.org/wiki/Construction_accounting",
+      "date": "2026-03-24"
+    },
+    "6c7338323a53": {
+      "url": "https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance",
+      "date": "2026-03-24"
+    },
+    "3051195a6d2b": {
+      "url": "https://en.wikipedia.org/wiki/Sustainability_accounting",
+      "date": "2026-03-24"
+    },
+    "d771e73c708f": {
+      "url": "https://en.wikipedia.org/wiki/Carbon_accounting",
+      "date": "2026-03-24"
+    },
+    "a4b3512fa0e2": {
+      "url": "https://en.wikipedia.org/wiki/Integrated_reporting",
+      "date": "2026-03-24"
+    },
+    "0f181fba025a": {
+      "url": "https://en.wikipedia.org/wiki/Triple_bottom_line",
+      "date": "2026-03-24"
+    },
+    "4c3ddf60bae1": {
+      "url": "https://en.wikipedia.org/wiki/Short_selling",
+      "date": "2026-03-24"
+    },
+    "d341690f04fe": {
+      "url": "https://en.wikipedia.org/wiki/Balance_of_payments",
+      "date": "2026-03-24"
+    },
+    "9c725a812470": {
+      "url": "https://en.wikipedia.org/wiki/Life_insurance",
+      "date": "2026-03-24"
+    },
+    "7dd92973a881": {
+      "url": "https://en.wikipedia.org/wiki/Annuity_(finance_theory)",
+      "date": "2026-03-24"
+    },
+    "798bbb03986f": {
+      "url": "https://en.wikipedia.org/wiki/Endowment_policy",
+      "date": "2026-03-24"
+    },
+    "b79d20d15c4d": {
+      "url": "https://en.wikipedia.org/wiki/Reinsurance",
+      "date": "2026-03-24"
+    },
+    "1dfba427765c": {
+      "url": "https://en.wikipedia.org/wiki/Insurance_premium",
+      "date": "2026-03-24"
+    },
+    "2605d28775e5": {
+      "url": "https://en.wikipedia.org/wiki/Deductible",
+      "date": "2026-03-24"
+    },
+    "624b8b967648": {
+      "url": "https://en.wikipedia.org/wiki/Alternative_investment",
+      "date": "2026-03-24"
+    },
+    "4ade85d87a44": {
+      "url": "https://en.wikipedia.org/wiki/Hedge_fund",
+      "date": "2026-03-24"
+    },
+    "c8daed886555": {
+      "url": "https://en.wikipedia.org/wiki/Mutual_fund",
+      "date": "2026-03-24"
+    },
+    "a825bce3102c": {
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "date": "2026-03-24"
+    },
+    "cc9d31e9d241": {
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "date": "2026-03-24"
+    },
+    "8726a307ba65": {
+      "url": "https://en.wikipedia.org/wiki/Money_market_fund",
+      "date": "2026-03-24"
+    },
+    "4ec3b7649ae7": {
+      "url": "https://en.wikipedia.org/wiki/Sovereign_wealth_fund",
+      "date": "2026-03-24"
+    },
+    "a2d2d4fa30cc": {
+      "url": "https://en.wikipedia.org/wiki/Commodity_market",
+      "date": "2026-03-24"
+    },
+    "4d6bd2734276": {
+      "url": "https://en.wikipedia.org/wiki/Gold_as_an_investment",
+      "date": "2026-03-24"
+    },
+    "e3d798d55fba": {
+      "url": "https://en.wikipedia.org/wiki/Cryptocurrency",
+      "date": "2026-03-24"
+    },
+    "2ab9b93a16eb": {
+      "url": "https://en.wikipedia.org/wiki/Bitcoin",
+      "date": "2026-03-24"
+    },
+    "3ef3b1d4fae8": {
+      "url": "https://en.wikipedia.org/wiki/Blockchain",
+      "date": "2026-03-24"
+    },
+    "27115ff00f9a": {
+      "url": "https://en.wikipedia.org/wiki/Quantitative_finance",
+      "date": "2026-03-24"
+    },
+    "f33789b86e40": {
+      "url": "https://en.wikipedia.org/wiki/Financial_engineering",
+      "date": "2026-03-24"
+    },
+    "334ceec4b685": {
+      "url": "https://en.wikipedia.org/wiki/Algorithmic_trading",
+      "date": "2026-03-24"
+    },
+    "35c568a632df": {
+      "url": "https://en.wikipedia.org/wiki/High-frequency_trading",
+      "date": "2026-03-24"
+    },
+    "ef27f23f6267": {
+      "url": "https://en.wikipedia.org/wiki/Stochastic_calculus",
+      "date": "2026-03-24"
+    },
+    "dd4ac06e3096": {
+      "url": "https://en.wikipedia.org/wiki/Brownian_motion",
+      "date": "2026-03-24"
+    },
+    "61603a693969": {
+      "url": "https://en.wikipedia.org/wiki/Ito%27s_lemma",
+      "date": "2026-03-24"
+    },
+    "ba2025b2bd03": {
+      "url": "https://en.wikipedia.org/wiki/Personal_finance",
+      "date": "2026-03-24"
+    },
+    "4db9ca55548f": {
+      "url": "https://en.wikipedia.org/wiki/Financial_planning",
+      "date": "2026-03-24"
+    },
+    "0ee4ea6162f3": {
+      "url": "https://en.wikipedia.org/wiki/Asset_allocation",
+      "date": "2026-03-24"
+    },
+    "8bac05a436d1": {
+      "url": "https://en.wikipedia.org/wiki/Diversification_(finance)",
+      "date": "2026-03-24"
+    },
+    "8a91a7fbf8da": {
+      "url": "https://en.wikipedia.org/wiki/Retirement_planning",
+      "date": "2026-03-24"
+    },
+    "5f9a82ca4eda": {
+      "url": "https://en.wikipedia.org/wiki/Estate_planning",
+      "date": "2026-03-24"
+    },
+    "a0191134e29b": {
+      "url": "https://en.wikipedia.org/wiki/Trust_law",
+      "date": "2026-03-24"
+    },
+    "f49825995f51": {
+      "url": "https://en.wikipedia.org/wiki/Fiduciary",
+      "date": "2026-03-24"
+    },
+    "065b589ba1ff": {
+      "url": "https://en.wikipedia.org/wiki/Wealth_management",
+      "date": "2026-03-24"
+    },
+    "8770812bca37": {
+      "url": "https://en.wikipedia.org/wiki/Tax-advantaged",
+      "date": "2026-03-24"
+    },
+    "893d46926198": {
+      "url": "https://en.wikipedia.org/wiki/Tax-deferred",
+      "date": "2026-03-24"
+    },
+    "a4db2b4a56b4": {
+      "url": "https://en.wikipedia.org/wiki/Inflation",
+      "date": "2026-03-24"
+    },
+    "3a81515c1762": {
+      "url": "https://en.wikipedia.org/wiki/Deflation",
+      "date": "2026-03-24"
+    },
+    "b32eaaf15f4e": {
+      "url": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+      "date": "2026-03-24"
+    },
+    "fe7d77dacc12": {
+      "url": "https://en.wikipedia.org/wiki/Monetary_policy",
+      "date": "2026-03-24"
+    },
+    "dbb738fc9668": {
+      "url": "https://en.wikipedia.org/wiki/Fiscal_policy",
+      "date": "2026-03-24"
+    },
+    "42246df9c898": {
+      "url": "https://en.wikipedia.org/wiki/Supply_and_demand",
+      "date": "2026-03-24"
+    },
+    "962f9264ccb5": {
+      "url": "https://en.wikipedia.org/wiki/Elasticity_(economics)",
+      "date": "2026-03-24"
+    },
+    "f6bf4ce2ce04": {
+      "url": "https://en.wikipedia.org/wiki/Business_cycle",
+      "date": "2026-03-24"
+    },
+    "b20555e4fdf7": {
+      "url": "https://en.wikipedia.org/wiki/Recession",
+      "date": "2026-03-24"
+    },
+    "d634035b1445": {
+      "url": "https://en.wikipedia.org/wiki/Economic_growth",
+      "date": "2026-03-24"
+    },
+    "a99ac0913e54": {
+      "url": "https://en.wikipedia.org/wiki/Unemployment",
+      "date": "2026-03-24"
+    },
+    "8c1155745ba8": {
+      "url": "https://en.wikipedia.org/wiki/Consumer_price_index",
+      "date": "2026-03-24"
+    },
+    "0028d2493187": {
+      "url": "https://en.wikipedia.org/wiki/Federal_funds_rate",
+      "date": "2026-03-24"
+    },
+    "46dac99fb225": {
+      "url": "https://en.wikipedia.org/wiki/Prime_rate",
+      "date": "2026-03-24"
+    },
+    "78d6a7f1a01f": {
+      "url": "https://en.wikipedia.org/wiki/Quantitative_easing",
+      "date": "2026-03-24"
+    },
+    "c3fcb6725e30": {
+      "url": "https://en.wikipedia.org/wiki/Money_supply",
+      "date": "2026-03-24"
+    },
+    "e7a31c34ae9e": {
+      "url": "https://en.wikipedia.org/wiki/Financial_technology",
+      "date": "2026-03-24"
+    },
+    "f8302155c60e": {
+      "url": "https://en.wikipedia.org/wiki/Peer-to-peer_lending",
+      "date": "2026-03-24"
+    },
+    "0391331c8180": {
+      "url": "https://en.wikipedia.org/wiki/Crowdfunding",
+      "date": "2026-03-24"
+    },
+    "18a87034ef55": {
+      "url": "https://en.wikipedia.org/wiki/Digital_currency",
+      "date": "2026-03-24"
+    },
+    "11b07f6eff11": {
+      "url": "https://en.wikipedia.org/wiki/Payment_system",
+      "date": "2026-03-24"
+    },
+    "14df20f8f790": {
+      "url": "https://en.wikipedia.org/wiki/Mobile_payment",
+      "date": "2026-03-24"
+    },
+    "aac6e3508236": {
+      "url": "https://en.wikipedia.org/wiki/Open_banking",
+      "date": "2026-03-24"
+    },
+    "03cdec945073": {
+      "url": "https://en.wikipedia.org/wiki/Neobank",
+      "date": "2026-03-24"
+    },
+    "0c99dc024f63": {
+      "url": "https://en.wikipedia.org/wiki/Decentralized_finance",
+      "date": "2026-03-24"
+    },
+    "4ce20e48de76": {
+      "url": "https://en.wikipedia.org/wiki/Smart_contract",
+      "date": "2026-03-24"
+    },
+    "9bd8b352addd": {
+      "url": "https://en.wikipedia.org/wiki/Double_taxation",
+      "date": "2026-03-24"
+    },
+    "471d4041b3c2": {
+      "url": "https://en.wikipedia.org/wiki/State_income_tax",
+      "date": "2026-03-24"
+    },
+    "28bd2a446fcf": {
+      "url": "https://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "3b15065ec644": {
+      "url": "https://en.wikipedia.org/wiki/Use_tax",
+      "date": "2026-03-24"
+    },
+    "350961993685": {
+      "url": "https://en.wikipedia.org/wiki/Multistate_Tax_Commission",
+      "date": "2026-03-24"
+    },
+    "26c88af33716": {
+      "url": "https://en.wikipedia.org/wiki/Franchise_tax",
+      "date": "2026-03-24"
+    },
+    "64c559bdb784": {
+      "url": "https://en.wikipedia.org/wiki/Excise_tax_in_the_United_States",
+      "date": "2026-03-24"
+    },
+    "f68ccb071177": {
+      "url": "https://en.wikipedia.org/wiki/Accrual_method_of_accounting",
+      "date": "2026-03-24"
+    },
+    "34a2f9b5979b": {
+      "url": "https://en.wikipedia.org/wiki/Completed-contract_method",
+      "date": "2026-03-24"
+    },
+    "ada42aa580f6": {
+      "url": "https://en.wikipedia.org/wiki/Installment_sales_method",
+      "date": "2026-03-24"
+    },
+    "6c674ee46669": {
+      "url": "https://en.wikipedia.org/wiki/Tax_planning",
+      "date": "2026-03-24"
+    },
+    "82acf334198d": {
+      "url": "https://en.wikipedia.org/wiki/Tax_shelter",
+      "date": "2026-03-24"
+    },
+    "304412ff6586": {
+      "url": "https://en.wikipedia.org/wiki/Charitable_remainder_trust",
+      "date": "2026-03-24"
+    },
+    "f3af74398a2f": {
+      "url": "https://en.wikipedia.org/wiki/Grantor_retained_annuity_trust",
+      "date": "2026-03-24"
+    },
+    "5b30e91f3e3d": {
+      "url": "https://en.wikipedia.org/wiki/Family_limited_partnership",
+      "date": "2026-03-24"
+    },
+    "8759faa80bc9": {
+      "url": "https://en.wikipedia.org/wiki/1031_exchange",
+      "date": "2026-03-24"
+    },
+    "0e15a138b977": {
+      "url": "https://en.wikipedia.org/wiki/Wash_sale",
+      "date": "2026-03-24"
+    },
+    "ba5c67f7d2a7": {
+      "url": "https://en.wikipedia.org/wiki/Federal_Insurance_Contributions_Act",
+      "date": "2026-03-24"
+    },
+    "8fe080644e09": {
+      "url": "https://en.wikipedia.org/wiki/Federal_Unemployment_Tax_Act",
+      "date": "2026-03-24"
+    },
+    "6e4f61f6f101": {
+      "url": "https://en.wikipedia.org/wiki/Independent_contractor",
+      "date": "2026-03-24"
+    },
+    "1b9a5f9738f0": {
+      "url": "https://en.wikipedia.org/wiki/Statutory_employee",
+      "date": "2026-03-24"
+    },
+    "3573590ce1bb": {
+      "url": "https://en.wikipedia.org/wiki/501(c)(3)_organization",
+      "date": "2026-03-24"
+    },
+    "79bce6503131": {
+      "url": "https://en.wikipedia.org/wiki/501(c)(4)_organization",
+      "date": "2026-03-24"
+    },
+    "66d5a596a60c": {
+      "url": "https://en.wikipedia.org/wiki/Private_foundation",
+      "date": "2026-03-24"
+    },
+    "58774ed6a146": {
+      "url": "https://en.wikipedia.org/wiki/Public_charity",
+      "date": "2026-03-24"
+    },
+    "f86d53aa9e51": {
+      "url": "https://en.wikipedia.org/wiki/Donor-advised_fund",
+      "date": "2026-03-24"
+    },
+    "71e4932543c6": {
+      "url": "https://www.accountingtools.com/articles/standard-cost",
+      "date": "2026-03-24"
+    },
+    "4f06d40048ce": {
+      "url": "https://www.accountingtools.com/articles/cost-pool",
+      "date": "2026-03-24"
+    },
+    "e3e4b81bbb12": {
+      "url": "https://www.accountingtools.com/articles/cost-driver",
+      "date": "2026-03-24"
+    },
+    "268dcdb4ae59": {
+      "url": "https://www.accountingtools.com/articles/direct-cost",
+      "date": "2026-03-24"
+    },
+    "94ea1242cbc4": {
+      "url": "https://www.accountingtools.com/articles/horizontal-analysis",
+      "date": "2026-03-24"
+    },
+    "8a5009befb52": {
+      "url": "https://www.accountingtools.com/articles/vertical-analysis",
+      "date": "2026-03-24"
+    },
+    "657d2490e595": {
+      "url": "https://www.accountingtools.com/articles/common-size-financial-statement",
+      "date": "2026-03-24"
+    },
+    "2b6b65af328c": {
+      "url": "https://www.accountingtools.com/articles/debt-service-coverage-ratio",
+      "date": "2026-03-24"
+    },
+    "57a8bf4cb37b": {
+      "url": "https://www.accountingtools.com/articles/fixed-charge-coverage-ratio",
+      "date": "2026-03-24"
+    },
+    "5814cfe05759": {
+      "url": "https://www.accountingtools.com/articles/troubled-debt-restructuring",
+      "date": "2026-03-24"
+    },
+    "814145e60c03": {
+      "url": "https://www.accountingtools.com/articles/debt-extinguishment",
+      "date": "2026-03-24"
+    },
+    "91e75fbc71ec": {
+      "url": "https://www.accountingtools.com/articles/change-in-accounting-principle",
+      "date": "2026-03-24"
+    },
+    "cb0e4005b10e": {
+      "url": "https://www.accountingtools.com/articles/change-in-accounting-estimate",
+      "date": "2026-03-24"
+    },
+    "184b286e7788": {
+      "url": "https://www.accountingtools.com/articles/restatement",
+      "date": "2026-03-24"
+    },
+    "a35fe5bbed0a": {
+      "url": "https://www.accountingtools.com/articles/gross-pay",
+      "date": "2026-03-24"
+    },
+    "f23dfc28507e": {
+      "url": "https://www.accountingtools.com/articles/annual-report",
+      "date": "2026-03-24"
+    },
+    "cd045d429be9": {
+      "url": "https://en.wikipedia.org/wiki/Agency_theory",
+      "date": "2026-03-24"
+    },
+    "9b0982c34d08": {
+      "url": "https://en.wikipedia.org/wiki/Stewardship_theory",
+      "date": "2026-03-24"
+    },
+    "7ae2cf98fe3f": {
+      "url": "https://en.wikipedia.org/wiki/Accounting_equation",
+      "date": "2026-03-24"
+    },
+    "831d162ce961": {
+      "url": "https://en.wikipedia.org/wiki/Historical_cost_accounting",
+      "date": "2026-03-24"
+    },
+    "dffcc139ec05": {
+      "url": "https://en.wikipedia.org/wiki/Current_cost_accounting",
+      "date": "2026-03-24"
+    },
+    "882e36d7cfd8": {
+      "url": "https://en.wikipedia.org/wiki/Cash_and_cash_equivalents",
+      "date": "2026-03-24"
+    },
+    "439ad7e752cb": {
+      "url": "https://en.wikipedia.org/wiki/Note_payable",
+      "date": "2026-03-24"
+    },
+    "6c4dbf332a65": {
+      "url": "https://en.wikipedia.org/wiki/Mortgage_loan",
+      "date": "2026-03-24"
+    },
+    "aa740a427450": {
+      "url": "https://en.wikipedia.org/wiki/Line_of_credit",
+      "date": "2026-03-24"
+    },
+    "82f737cf0185": {
+      "url": "https://en.wikipedia.org/wiki/Commercial_paper",
+      "date": "2026-03-24"
+    },
+    "de5702bbc1fe": {
+      "url": "https://en.wikipedia.org/wiki/Repurchase_agreement",
+      "date": "2026-03-24"
+    },
+    "57f7e46f6dce": {
+      "url": "https://en.wikipedia.org/wiki/Assignment_(law)",
+      "date": "2026-03-24"
+    },
+    "d53dfcd0471d": {
+      "url": "https://en.wikipedia.org/wiki/Accumulated_depreciation",
+      "date": "2026-03-24"
+    },
+    "f38bfe308f0b": {
+      "url": "https://en.wikipedia.org/wiki/Depletion_(accounting)",
+      "date": "2026-03-24"
+    },
+    "deeb47afa24a": {
+      "url": "https://en.wikipedia.org/wiki/Amortization_(tax_law)",
+      "date": "2026-03-24"
+    },
+    "5fb1e1ba1139": {
+      "url": "https://en.wikipedia.org/wiki/Modified_Accelerated_Cost_Recovery_System",
+      "date": "2026-03-24"
+    },
+    "5e9c9b088197": {
+      "url": "https://en.wikipedia.org/wiki/Embedded_derivative",
+      "date": "2026-03-24"
+    },
+    "82dd8d4e223b": {
+      "url": "https://en.wikipedia.org/wiki/Original_issue_discount",
+      "date": "2026-03-24"
+    },
+    "86583cf6969c": {
+      "url": "https://en.wikipedia.org/wiki/Troubled_debt_restructuring",
+      "date": "2026-03-24"
+    },
+    "0ece6d7f1a11": {
+      "url": "https://en.wikipedia.org/wiki/Intrinsic_value_(finance)",
+      "date": "2026-03-24"
+    },
+    "0c0e333e866d": {
+      "url": "https://en.wikipedia.org/wiki/Exercise_price",
+      "date": "2026-03-24"
+    },
+    "77fa29df4892": {
+      "url": "https://en.wikipedia.org/wiki/Non-compete_agreement",
+      "date": "2026-03-24"
+    },
+    "b82bf3c95b4b": {
+      "url": "https://en.wikipedia.org/wiki/Earnings_quality",
+      "date": "2026-03-24"
+    },
+    "2b300c0492d2": {
+      "url": "https://en.wikipedia.org/wiki/Cookie_jar_reserves",
+      "date": "2026-03-24"
+    },
+    "29088b0914d2": {
+      "url": "https://en.wikipedia.org/wiki/Channel_stuffing",
+      "date": "2026-03-24"
+    },
+    "dbf76dd067c6": {
+      "url": "https://en.wikipedia.org/wiki/Round-tripping_(finance)",
+      "date": "2026-03-24"
+    },
+    "711b02d2d0b3": {
+      "url": "https://en.wikipedia.org/wiki/Non-performing_loan",
+      "date": "2026-03-24"
+    },
+    "463721760193": {
+      "url": "https://en.wikipedia.org/wiki/Loan_origination",
+      "date": "2026-03-24"
+    },
+    "830a1f3b5cdd": {
+      "url": "https://en.wikipedia.org/wiki/Mortgage_servicing",
+      "date": "2026-03-24"
+    },
+    "53a4fc577d18": {
+      "url": "https://en.wikipedia.org/wiki/Deposit_(finance)",
+      "date": "2026-03-24"
+    },
+    "8464ec4840be": {
+      "url": "https://en.wikipedia.org/wiki/Certificate_of_deposit",
+      "date": "2026-03-24"
+    },
+    "239349b97d9c": {
+      "url": "https://en.wikipedia.org/wiki/Letters_of_credit",
+      "date": "2026-03-24"
+    },
+    "75bf9c003766": {
+      "url": "https://en.wikipedia.org/wiki/Standby_letter_of_credit",
+      "date": "2026-03-24"
+    },
+    "969ec216e527": {
+      "url": "https://en.wikipedia.org/wiki/Basel_III",
+      "date": "2026-03-24"
+    },
+    "66bdb1104d28": {
+      "url": "https://en.wikipedia.org/wiki/Tier_1_capital",
+      "date": "2026-03-24"
+    },
+    "cadb6f5e7014": {
+      "url": "https://en.wikipedia.org/wiki/Risk-weighted_asset",
+      "date": "2026-03-24"
+    },
+    "acab209601ba": {
+      "url": "https://en.wikipedia.org/wiki/Capital_adequacy_ratio",
+      "date": "2026-03-24"
+    },
+    "f8383474a19f": {
+      "url": "https://en.wikipedia.org/wiki/Turnaround_management",
+      "date": "2026-03-24"
+    },
+    "bec51d8285d5": {
+      "url": "https://en.wikipedia.org/wiki/Distressed_securities",
+      "date": "2026-03-24"
+    },
+    "dad37264301a": {
+      "url": "https://en.wikipedia.org/wiki/Debtor-in-possession_financing",
+      "date": "2026-03-24"
+    },
+    "d2273d10e671": {
+      "url": "https://en.wikipedia.org/wiki/Chapter_7,_Title_11,_United_States_Code",
+      "date": "2026-03-24"
+    },
+    "770b4080434c": {
+      "url": "https://en.wikipedia.org/wiki/Liquidation",
+      "date": "2026-03-24"
+    },
+    "dd696df5b5ff": {
+      "url": "https://en.wikipedia.org/wiki/Voluntary_administration",
+      "date": "2026-03-24"
+    },
+    "3a0418a6c7c5": {
+      "url": "https://en.wikipedia.org/wiki/Creditor",
+      "date": "2026-03-24"
+    },
+    "b51f01a7373e": {
+      "url": "https://en.wikipedia.org/wiki/Secured_creditor",
+      "date": "2026-03-24"
+    },
+    "06663f802250": {
+      "url": "https://en.wikipedia.org/wiki/Unsecured_debt",
+      "date": "2026-03-24"
+    },
+    "79bcf4e84ffa": {
+      "url": "https://en.wikipedia.org/wiki/Automatic_stay",
+      "date": "2026-03-24"
+    },
+    "d932487a932f": {
+      "url": "https://en.wikipedia.org/wiki/Fraudulent_conveyance",
+      "date": "2026-03-24"
+    },
+    "5eaedf1fddbd": {
+      "url": "https://en.wikipedia.org/wiki/Takeover",
+      "date": "2026-03-24"
+    },
+    "bffd0431289b": {
+      "url": "https://en.wikipedia.org/wiki/Hostile_takeover",
+      "date": "2026-03-24"
+    },
+    "98be06f2b10e": {
+      "url": "https://en.wikipedia.org/wiki/Tender_offer",
+      "date": "2026-03-24"
+    },
+    "96f65ce28088": {
+      "url": "https://en.wikipedia.org/wiki/Merger_of_equals",
+      "date": "2026-03-24"
+    },
+    "b95d3397f573": {
+      "url": "https://en.wikipedia.org/wiki/Reverse_merger",
+      "date": "2026-03-24"
+    },
+    "6425f4cfb52e": {
+      "url": "https://en.wikipedia.org/wiki/Spin-off_(corporate)",
+      "date": "2026-03-24"
+    },
+    "5e357fe4569b": {
+      "url": "https://en.wikipedia.org/wiki/Carve-out",
+      "date": "2026-03-24"
+    },
+    "136a11739ffc": {
+      "url": "https://en.wikipedia.org/wiki/Divestiture",
+      "date": "2026-03-24"
+    },
+    "6dccaaad87ae": {
+      "url": "https://en.wikipedia.org/wiki/Management_buyout",
+      "date": "2026-03-24"
+    },
+    "a6e647a6ff13": {
+      "url": "https://en.wikipedia.org/wiki/Synergy",
+      "date": "2026-03-24"
+    },
+    "0e7508648abb": {
+      "url": "https://en.wikipedia.org/wiki/Accretion/dilution_analysis",
+      "date": "2026-03-24"
+    },
+    "685b0bb79058": {
+      "url": "https://en.wikipedia.org/wiki/Venture_capital_financing",
+      "date": "2026-03-24"
+    },
+    "6af89914d7f1": {
+      "url": "https://en.wikipedia.org/wiki/Series_A_round",
+      "date": "2026-03-24"
+    },
+    "7151b1a12c07": {
+      "url": "https://en.wikipedia.org/wiki/Angel_investor",
+      "date": "2026-03-24"
+    },
+    "f27d6499117e": {
+      "url": "https://en.wikipedia.org/wiki/Seed_money",
+      "date": "2026-03-24"
+    },
+    "4658d5e9429c": {
+      "url": "https://en.wikipedia.org/wiki/Mezzanine_financing",
+      "date": "2026-03-24"
+    },
+    "3d47f4978b9a": {
+      "url": "https://en.wikipedia.org/wiki/Bridge_loan",
+      "date": "2026-03-24"
+    },
+    "2ea2579b29cc": {
+      "url": "https://en.wikipedia.org/wiki/Term_sheet",
+      "date": "2026-03-24"
+    },
+    "274065f47480": {
+      "url": "https://en.wikipedia.org/wiki/Cap_table",
+      "date": "2026-03-24"
+    },
+    "6d80a86be8fc": {
+      "url": "https://en.wikipedia.org/wiki/Pre-money_valuation",
+      "date": "2026-03-24"
+    },
+    "cb4bb80ddda5": {
+      "url": "https://en.wikipedia.org/wiki/Post-money_valuation",
+      "date": "2026-03-24"
+    },
+    "91865eecbad3": {
+      "url": "https://en.wikipedia.org/wiki/Liquidation_preference",
+      "date": "2026-03-24"
+    },
+    "8f24e28e638f": {
+      "url": "https://en.wikipedia.org/wiki/Drag-along_right",
+      "date": "2026-03-24"
+    },
+    "a116c950bdba": {
+      "url": "https://en.wikipedia.org/wiki/Tag-along_right",
+      "date": "2026-03-24"
+    },
+    "1d01134aae33": {
+      "url": "https://en.wikipedia.org/wiki/Treasury_management",
+      "date": "2026-03-24"
+    },
+    "0e339b6d8dd2": {
+      "url": "https://en.wikipedia.org/wiki/Cash_management",
+      "date": "2026-03-24"
+    },
+    "353204779722": {
+      "url": "https://en.wikipedia.org/wiki/Netting",
+      "date": "2026-03-24"
+    },
+    "df67cd2b6b62": {
+      "url": "https://en.wikipedia.org/wiki/Cash_concentration",
+      "date": "2026-03-24"
+    },
+    "50c72773cef5": {
+      "url": "https://en.wikipedia.org/wiki/Payment_processing",
+      "date": "2026-03-24"
+    },
+    "4389955dcc3d": {
+      "url": "https://en.wikipedia.org/wiki/Sweep_account",
+      "date": "2026-03-24"
+    },
+    "a07cb13926f0": {
+      "url": "https://en.wikipedia.org/wiki/Money_market_account",
+      "date": "2026-03-24"
+    },
+    "f91fcd9b3672": {
+      "url": "https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act",
+      "date": "2026-03-24"
+    },
+    "199fe1517628": {
+      "url": "https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation",
+      "date": "2026-03-24"
+    },
+    "6e6ca465182c": {
+      "url": "https://en.wikipedia.org/wiki/Basel_Accords",
+      "date": "2026-03-24"
+    },
+    "54d9366ba88f": {
+      "url": "https://en.wikipedia.org/wiki/MiFID_II",
+      "date": "2026-03-24"
+    },
+    "5183ac9d9548": {
+      "url": "https://en.wikipedia.org/wiki/Know_your_customer",
+      "date": "2026-03-24"
+    },
+    "adfb2b0b7598": {
+      "url": "https://en.wikipedia.org/wiki/Anti-money_laundering",
+      "date": "2026-03-24"
+    },
+    "519f7d0123f3": {
+      "url": "https://en.wikipedia.org/wiki/Bank_Secrecy_Act",
+      "date": "2026-03-24"
+    },
+    "91014c1291d6": {
+      "url": "https://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act",
+      "date": "2026-03-24"
+    },
+    "876104e23199": {
+      "url": "https://en.wikipedia.org/wiki/Project_finance",
+      "date": "2026-03-24"
+    },
+    "7817e29c96a1": {
+      "url": "https://en.wikipedia.org/wiki/Public%E2%80%93private_partnership",
+      "date": "2026-03-24"
+    },
+    "b2650bb4e876": {
+      "url": "https://en.wikipedia.org/wiki/Build%E2%80%93operate%E2%80%93transfer",
+      "date": "2026-03-24"
+    },
+    "1fe6f6350c99": {
+      "url": "https://en.wikipedia.org/wiki/Special-purpose_entity",
+      "date": "2026-03-24"
+    },
+    "7da8f6d3b0a7": {
+      "url": "https://en.wikipedia.org/wiki/Infrastructure_fund",
+      "date": "2026-03-24"
+    },
+    "465f90355d80": {
+      "url": "https://en.wikipedia.org/wiki/Trade_finance",
+      "date": "2026-03-24"
+    },
+    "6475d1f24c92": {
+      "url": "https://en.wikipedia.org/wiki/Documentary_collection",
+      "date": "2026-03-24"
+    },
+    "c68912ef3aa8": {
+      "url": "https://en.wikipedia.org/wiki/Bill_of_exchange",
+      "date": "2026-03-24"
+    },
+    "2a20727661b6": {
+      "url": "https://en.wikipedia.org/wiki/Promissory_note",
+      "date": "2026-03-24"
+    },
+    "4b718668a7e0": {
+      "url": "https://en.wikipedia.org/wiki/Banker%27s_acceptance",
+      "date": "2026-03-24"
+    },
+    "2900edd8cefc": {
+      "url": "https://en.wikipedia.org/wiki/Forfaiting",
+      "date": "2026-03-24"
+    },
+    "b273e55f7a27": {
+      "url": "https://en.wikipedia.org/wiki/Export_credit_agency",
+      "date": "2026-03-24"
+    },
+    "07045663d22e": {
+      "url": "https://en.wikipedia.org/wiki/Trade_credit",
+      "date": "2026-03-24"
+    },
+    "164e07c34f9a": {
+      "url": "https://en.wikipedia.org/wiki/Hobby_loss_rule",
+      "date": "2026-03-24"
+    },
+    "0cf6c9d7d86a": {
+      "url": "https://en.wikipedia.org/wiki/Kiddie_tax",
+      "date": "2026-03-24"
+    },
+    "559134b0d0b5": {
+      "url": "https://en.wikipedia.org/wiki/Marriage_penalty",
+      "date": "2026-03-24"
+    },
+    "cb931cd10265": {
+      "url": "https://en.wikipedia.org/wiki/Filing_status",
+      "date": "2026-03-24"
+    },
+    "0e5d3ef9621b": {
+      "url": "https://en.wikipedia.org/wiki/Head_of_household",
+      "date": "2026-03-24"
+    },
+    "d4c3ce3cadcd": {
+      "url": "https://en.wikipedia.org/wiki/Earned_income",
+      "date": "2026-03-24"
+    },
+    "39bf4fef1248": {
+      "url": "https://en.wikipedia.org/wiki/Unearned_income",
+      "date": "2026-03-24"
+    },
+    "4c60b9ad178f": {
+      "url": "https://en.wikipedia.org/wiki/Adjusted_gross_income",
+      "date": "2026-03-24"
+    },
+    "f3a5488ef2d4": {
+      "url": "https://en.wikipedia.org/wiki/Modified_adjusted_gross_income",
+      "date": "2026-03-24"
+    },
+    "aea30c5bfaa9": {
+      "url": "https://en.wikipedia.org/wiki/Taxable_income",
+      "date": "2026-03-24"
+    },
+    "f230df0b32a8": {
+      "url": "https://en.wikipedia.org/wiki/Above-the-line_deduction",
+      "date": "2026-03-24"
+    },
+    "765d8d789b6e": {
+      "url": "https://en.wikipedia.org/wiki/Nonrefundable_tax_credit",
+      "date": "2026-03-24"
+    },
+    "fb4c51a2df0f": {
+      "url": "https://en.wikipedia.org/wiki/Refundable_tax_credit",
+      "date": "2026-03-24"
+    },
+    "fa0b93cdc807": {
+      "url": "https://en.wikipedia.org/wiki/Child_tax_credit",
+      "date": "2026-03-24"
+    },
+    "93639f728b18": {
+      "url": "https://en.wikipedia.org/wiki/American_Opportunity_Tax_Credit",
+      "date": "2026-03-24"
+    },
+    "1736b282b218": {
+      "url": "https://en.wikipedia.org/wiki/Lifetime_Learning_Credit",
+      "date": "2026-03-24"
+    },
+    "5e15d490ed1b": {
+      "url": "https://en.wikipedia.org/wiki/Low-Income_Housing_Tax_Credit",
+      "date": "2026-03-24"
+    },
+    "af17c98448a6": {
+      "url": "https://en.wikipedia.org/wiki/Investment_tax_credit",
+      "date": "2026-03-24"
+    },
+    "da0c0e4a6ca8": {
+      "url": "https://en.wikipedia.org/wiki/Production_tax_credit",
+      "date": "2026-03-24"
+    },
+    "fd52bdb1cba0": {
+      "url": "https://en.wikipedia.org/wiki/Trust_(law)",
+      "date": "2026-03-24"
+    },
+    "94d2bd168023": {
+      "url": "https://en.wikipedia.org/wiki/Revocable_trust",
+      "date": "2026-03-24"
+    },
+    "e6a3301c9bf2": {
+      "url": "https://en.wikipedia.org/wiki/Irrevocable_trust",
+      "date": "2026-03-24"
+    },
+    "a82afb67aede": {
+      "url": "https://en.wikipedia.org/wiki/Simple_trust",
+      "date": "2026-03-24"
+    },
+    "873aec05f6d4": {
+      "url": "https://en.wikipedia.org/wiki/Estate_(law)",
+      "date": "2026-03-24"
+    },
+    "9562996906ac": {
+      "url": "https://en.wikipedia.org/wiki/Probate",
+      "date": "2026-03-24"
+    },
+    "2fcf08040a14": {
+      "url": "https://en.wikipedia.org/wiki/Will_and_testament",
+      "date": "2026-03-24"
+    },
+    "801c932a4ac9": {
+      "url": "https://en.wikipedia.org/wiki/Crummey_trust",
+      "date": "2026-03-24"
+    },
+    "ab411ba8100d": {
+      "url": "https://en.wikipedia.org/wiki/Bypass_trust",
+      "date": "2026-03-24"
+    },
+    "4c2de3f5d2fd": {
+      "url": "https://www.accountingtools.com/articles/quasi-reorganization",
+      "date": "2026-03-24"
+    },
+    "a2b130bd4ddc": {
+      "url": "https://www.accountingtools.com/articles/variable-interest-entity",
+      "date": "2026-03-24"
+    },
+    "d84cdefc5421": {
+      "url": "https://www.accountingtools.com/articles/special-purpose-entity",
+      "date": "2026-03-24"
+    },
+    "1e04d332a34f": {
+      "url": "https://www.accountingtools.com/articles/trading-securities",
+      "date": "2026-03-24"
+    },
+    "88fb2ffcdb99": {
+      "url": "https://www.accountingtools.com/articles/available-for-sale-securities",
+      "date": "2026-03-24"
+    },
+    "aa9adad73560": {
+      "url": "https://www.accountingtools.com/articles/unrealized-gain",
+      "date": "2026-03-24"
+    },
+    "f45a8b091bce": {
+      "url": "https://www.accountingtools.com/articles/realized-gain",
+      "date": "2026-03-24"
+    },
+    "d3ca3b7eebec": {
+      "url": "https://www.accountingtools.com/articles/other-comprehensive-income",
+      "date": "2026-03-24"
+    },
+    "916cd3f32f56": {
+      "url": "https://www.accountingtools.com/articles/economic-value-added",
+      "date": "2026-03-24"
+    },
+    "e300f1d4adaa": {
+      "url": "https://www.accountingtools.com/articles/dividend-payout-ratio",
+      "date": "2026-03-24"
+    },
+    "358a4a2129c6": {
+      "url": "https://www.accountingtools.com/articles/book-value-per-share",
+      "date": "2026-03-24"
+    },
+    "a7f15c9c91d7": {
+      "url": "https://www.accountingtools.com/articles/spoilage",
+      "date": "2026-03-24"
+    },
+    "c0d19865f372": {
+      "url": "https://www.accountingtools.com/articles/scrap",
+      "date": "2026-03-24"
+    },
+    "e1ad47e28775": {
+      "url": "https://www.accountingtools.com/articles/reciprocal-method",
+      "date": "2026-03-24"
+    },
+    "95e819e14a93": {
+      "url": "https://www.accountingtools.com/articles/temporary-difference",
+      "date": "2026-03-24"
+    },
+    "8cca77a1b7f5": {
+      "url": "https://www.accountingtools.com/articles/valuation-allowance",
+      "date": "2026-03-24"
+    },
+    "546a6a515eb4": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/accounts-receivable-turnover/",
+      "date": "2026-03-24"
+    },
+    "452319ecf58e": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/fixed-asset-turnover/",
+      "date": "2026-03-24"
+    },
+    "124175cb46a4": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/equity-multiplier/",
+      "date": "2026-03-24"
+    },
+    "8bac72a37ddf": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/interest-coverage-ratio/",
+      "date": "2026-03-24"
+    },
+    "51076b03ef25": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/debt-service-coverage-ratio/",
+      "date": "2026-03-24"
+    },
+    "98a5d2644ac4": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/operating-cycle/",
+      "date": "2026-03-24"
+    },
+    "7e7d93eba779": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/net-working-capital/",
+      "date": "2026-03-24"
+    },
+    "6a2483ec406a": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/cash-ratio/",
+      "date": "2026-03-24"
+    },
+    "cae54834ac5e": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/defensive-interval-ratio/",
+      "date": "2026-03-24"
+    },
+    "bb3f4b7a6184": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/asset-based-valuation/",
+      "date": "2026-03-24"
+    },
+    "cc1984327b09": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/football-field-chart/",
+      "date": "2026-03-24"
+    },
+    "40fc2c9b1cea": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/cap-rate/",
+      "date": "2026-03-24"
+    },
+    "967f83b73d7a": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/relative-valuation/",
+      "date": "2026-03-24"
+    },
+    "42bfcdf50ec8": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/intrinsic-value/",
+      "date": "2026-03-24"
+    },
+    "090838d4ca2b": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/risk-free-rate/",
+      "date": "2026-03-24"
+    },
+    "bb59c8ae8a81": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/equity-risk-premium/",
+      "date": "2026-03-24"
+    },
+    "1588f29a881c": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/market-risk-premium/",
+      "date": "2026-03-24"
+    },
+    "2f2e86dab9d5": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/systematic-risk/",
+      "date": "2026-03-24"
+    },
+    "f321a6e5f17c": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/sharpe-ratio/",
+      "date": "2026-03-24"
+    },
+    "958307f27da0": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/treynor-ratio/",
+      "date": "2026-03-24"
+    },
+    "c0cdf9f2ea28": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/sortino-ratio/",
+      "date": "2026-03-24"
+    },
+    "bd42d051e28b": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/information-ratio/",
+      "date": "2026-03-24"
+    },
+    "f83c7290761b": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/accretion-dilution/",
+      "date": "2026-03-24"
+    },
+    "946ec2aaf636": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/purchase-price-allocation/",
+      "date": "2026-03-24"
+    },
+    "67548b12099e": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/commercial-banking/",
+      "date": "2026-03-24"
+    },
+    "27ca0d5ce61e": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/investment-banking-overview/",
+      "date": "2026-03-24"
+    },
+    "c3b1bf9b176d": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/credit-analysis/",
+      "date": "2026-03-24"
+    },
+    "8d2e8fec46bc": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/loan-covenant/",
+      "date": "2026-03-24"
+    },
+    "17f0835f1595": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/leverage-ratio/",
+      "date": "2026-03-24"
+    },
+    "9c41511b6f1e": {
+      "url": "https://en.wikipedia.org/wiki/Payroll",
+      "date": "2026-03-24"
+    },
+    "b140d8a4dbdf": {
+      "url": "https://en.wikipedia.org/wiki/Gross_income",
+      "date": "2026-03-24"
+    },
+    "5845b0a85036": {
+      "url": "https://en.wikipedia.org/wiki/Net_income",
+      "date": "2026-03-24"
+    },
+    "cd0a28124109": {
+      "url": "https://en.wikipedia.org/wiki/Withholding_tax",
+      "date": "2026-03-24"
+    },
+    "e9377ab64a92": {
+      "url": "https://en.wikipedia.org/wiki/Pay_stub",
+      "date": "2026-03-24"
+    },
+    "8440d5a2b22d": {
+      "url": "https://en.wikipedia.org/wiki/Overtime",
+      "date": "2026-03-24"
+    },
+    "85ace19a230c": {
+      "url": "https://en.wikipedia.org/wiki/Minimum_wage",
+      "date": "2026-03-24"
+    },
+    "b1ada0638503": {
+      "url": "https://en.wikipedia.org/wiki/Fair_Labor_Standards_Act",
+      "date": "2026-03-24"
+    },
+    "73884aaaf36e": {
+      "url": "https://en.wikipedia.org/wiki/Workers%27_compensation",
+      "date": "2026-03-24"
+    },
+    "56f3ee2933fa": {
+      "url": "https://en.wikipedia.org/wiki/Unemployment_benefits",
+      "date": "2026-03-24"
+    },
+    "4f5c215e6c5c": {
+      "url": "https://en.wikipedia.org/wiki/Severance_package",
+      "date": "2026-03-24"
+    },
+    "8ba5606b6ef0": {
+      "url": "https://en.wikipedia.org/wiki/Golden_handshake",
+      "date": "2026-03-24"
+    },
+    "676b6ae5e284": {
+      "url": "https://en.wikipedia.org/wiki/Employee_stock_ownership_plan",
+      "date": "2026-03-24"
+    },
+    "f1f2c1397ef0": {
+      "url": "https://en.wikipedia.org/wiki/Profit_sharing",
+      "date": "2026-03-24"
+    },
+    "320d55a74a45": {
+      "url": "https://en.wikipedia.org/wiki/Deferred_compensation",
+      "date": "2026-03-24"
+    },
+    "c1c711bf76db": {
+      "url": "https://en.wikipedia.org/wiki/Nonqualified_deferred_compensation",
+      "date": "2026-03-24"
+    },
+    "ba2dbe0e1860": {
+      "url": "https://en.wikipedia.org/wiki/Health_Reimbursement_Arrangement",
+      "date": "2026-03-24"
+    },
+    "f4a2d7019da8": {
+      "url": "https://en.wikipedia.org/wiki/COSO",
+      "date": "2026-03-24"
+    },
+    "449d09fb1786": {
+      "url": "https://en.wikipedia.org/wiki/Committee_of_Sponsoring_Organizations_of_the_Treadway_Commission",
+      "date": "2026-03-24"
+    },
+    "aed6b3e546dc": {
+      "url": "https://en.wikipedia.org/wiki/Enterprise_risk_management",
+      "date": "2026-03-24"
+    },
+    "4d30220bb248": {
+      "url": "https://en.wikipedia.org/wiki/Control_environment",
+      "date": "2026-03-24"
+    },
+    "011cb1c8b0a8": {
+      "url": "https://en.wikipedia.org/wiki/Risk_assessment",
+      "date": "2026-03-24"
+    },
+    "52ad1e15cf32": {
+      "url": "https://en.wikipedia.org/wiki/Audit_committee",
+      "date": "2026-03-24"
+    },
+    "79d103be03d9": {
+      "url": "https://en.wikipedia.org/wiki/Whistleblower",
+      "date": "2026-03-24"
+    },
+    "03dddae346b5": {
+      "url": "https://en.wikipedia.org/wiki/Financial_audit",
+      "date": "2026-03-24"
+    },
+    "439f48c3ac05": {
+      "url": "https://en.wikipedia.org/wiki/Operational_audit",
+      "date": "2026-03-24"
+    },
+    "46a0141ce96b": {
+      "url": "https://en.wikipedia.org/wiki/Compliance_audit",
+      "date": "2026-03-24"
+    },
+    "73cc451bbda1": {
+      "url": "https://en.wikipedia.org/wiki/Information_technology_audit",
+      "date": "2026-03-24"
+    },
+    "c2c6858a741d": {
+      "url": "https://en.wikipedia.org/wiki/Forensic_audit",
+      "date": "2026-03-24"
+    },
+    "b95eed87c001": {
+      "url": "https://en.wikipedia.org/wiki/Audit_evidence",
+      "date": "2026-03-24"
+    },
+    "1fa729fb3f19": {
+      "url": "https://en.wikipedia.org/wiki/Audit_risk",
+      "date": "2026-03-24"
+    },
+    "0fbfb105b4ba": {
+      "url": "https://en.wikipedia.org/wiki/Inherent_risk",
+      "date": "2026-03-24"
+    },
+    "d29c4798de5f": {
+      "url": "https://en.wikipedia.org/wiki/Control_risk",
+      "date": "2026-03-24"
+    },
+    "d61531f315b0": {
+      "url": "https://en.wikipedia.org/wiki/Detection_risk",
+      "date": "2026-03-24"
+    },
+    "42cdaee6d1d5": {
+      "url": "https://en.wikipedia.org/wiki/Audit_report",
+      "date": "2026-03-24"
+    },
+    "bfc458c5a1fc": {
+      "url": "https://en.wikipedia.org/wiki/Emphasis_of_matter",
+      "date": "2026-03-24"
+    },
+    "eedd773d59a9": {
+      "url": "https://en.wikipedia.org/wiki/Engagement_letter",
+      "date": "2026-03-24"
+    },
+    "944f83f3f91f": {
+      "url": "https://en.wikipedia.org/wiki/Audit_planning",
+      "date": "2026-03-24"
+    },
+    "53129fd3ae3c": {
+      "url": "https://en.wikipedia.org/wiki/Government_Accountability_Office",
+      "date": "2026-03-24"
+    },
+    "213ea1979dbe": {
+      "url": "https://en.wikipedia.org/wiki/Single_Audit",
+      "date": "2026-03-24"
+    },
+    "cc96c3310ec2": {
+      "url": "https://en.wikipedia.org/wiki/General_fund",
+      "date": "2026-03-24"
+    },
+    "341e97592134": {
+      "url": "https://en.wikipedia.org/wiki/Comprehensive_annual_financial_report",
+      "date": "2026-03-24"
+    },
+    "9af6317f8e17": {
+      "url": "https://en.wikipedia.org/wiki/In-kind_donation",
+      "date": "2026-03-24"
+    },
+    "605f8abbab73": {
+      "url": "https://en.wikipedia.org/wiki/Pledge_(law)",
+      "date": "2026-03-24"
+    },
+    "656a1fb4f4db": {
+      "url": "https://en.wikipedia.org/wiki/Endowment",
+      "date": "2026-03-24"
+    },
+    "577c24953d86": {
+      "url": "https://en.wikipedia.org/wiki/IAS_1",
+      "date": "2026-03-24"
+    },
+    "f57f6cc13f8d": {
+      "url": "https://en.wikipedia.org/wiki/IAS_2",
+      "date": "2026-03-24"
+    },
+    "8ae066609f46": {
+      "url": "https://en.wikipedia.org/wiki/IAS_7",
+      "date": "2026-03-24"
+    },
+    "9ddf2be1560b": {
+      "url": "https://en.wikipedia.org/wiki/IAS_8",
+      "date": "2026-03-24"
+    },
+    "48e8345c2e9e": {
+      "url": "https://en.wikipedia.org/wiki/IAS_10",
+      "date": "2026-03-24"
+    },
+    "74564d7cfd23": {
+      "url": "https://en.wikipedia.org/wiki/IAS_12",
+      "date": "2026-03-24"
+    },
+    "7bf98baed452": {
+      "url": "https://en.wikipedia.org/wiki/IAS_16",
+      "date": "2026-03-24"
+    },
+    "401a290e7b08": {
+      "url": "https://en.wikipedia.org/wiki/IAS_17",
+      "date": "2026-03-24"
+    },
+    "a3809532c6b5": {
+      "url": "https://en.wikipedia.org/wiki/IAS_18",
+      "date": "2026-03-24"
+    },
+    "f1f3d853c6e5": {
+      "url": "https://en.wikipedia.org/wiki/IAS_19",
+      "date": "2026-03-24"
+    },
+    "f8a8778db92b": {
+      "url": "https://en.wikipedia.org/wiki/IAS_23",
+      "date": "2026-03-24"
+    },
+    "bea0c51cade4": {
+      "url": "https://en.wikipedia.org/wiki/IAS_24",
+      "date": "2026-03-24"
+    },
+    "717a86fc60ff": {
+      "url": "https://en.wikipedia.org/wiki/IAS_36",
+      "date": "2026-03-24"
+    },
+    "2c8911fea0f6": {
+      "url": "https://en.wikipedia.org/wiki/IAS_37",
+      "date": "2026-03-24"
+    },
+    "2b7811976aba": {
+      "url": "https://en.wikipedia.org/wiki/IAS_38",
+      "date": "2026-03-24"
+    },
+    "97a8771641ab": {
+      "url": "https://en.wikipedia.org/wiki/IAS_39",
+      "date": "2026-03-24"
+    },
+    "d13648ad1010": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_1",
+      "date": "2026-03-24"
+    },
+    "0564c30e1251": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_2",
+      "date": "2026-03-24"
+    },
+    "dd94d3c0c6df": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_5",
+      "date": "2026-03-24"
+    },
+    "986065ad572a": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_7",
+      "date": "2026-03-24"
+    },
+    "cacbb5569961": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_9",
+      "date": "2026-03-24"
+    },
+    "34b261e8e1de": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_10",
+      "date": "2026-03-24"
+    },
+    "3032e89a4951": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_11",
+      "date": "2026-03-24"
+    },
+    "ab2404fc5b43": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_12",
+      "date": "2026-03-24"
+    },
+    "2986d661b118": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_13",
+      "date": "2026-03-24"
+    },
+    "9f5264638e9c": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_15",
+      "date": "2026-03-24"
+    },
+    "581d10d8fd70": {
+      "url": "https://en.wikipedia.org/wiki/IFRS_16",
+      "date": "2026-03-24"
+    },
+    "7de27253c306": {
+      "url": "https://en.wikipedia.org/wiki/Software_as_a_service",
+      "date": "2026-03-24"
+    },
+    "87df44664490": {
+      "url": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+      "date": "2026-03-24"
+    },
+    "9052a270acae": {
+      "url": "https://en.wikipedia.org/wiki/Digital_asset",
+      "date": "2026-03-24"
+    },
+    "3d328c661c7b": {
+      "url": "https://en.wikipedia.org/wiki/Non-fungible_token",
+      "date": "2026-03-24"
+    },
+    "99f7cb04c2bd": {
+      "url": "https://en.wikipedia.org/wiki/Retainage",
+      "date": "2026-03-24"
+    },
+    "96c6f2775fbe": {
+      "url": "https://en.wikipedia.org/wiki/Proved_reserves",
+      "date": "2026-03-24"
+    },
+    "1390a11e683d": {
+      "url": "https://en.wikipedia.org/wiki/Asset_management",
+      "date": "2026-03-24"
+    },
+    "9f192e3f9808": {
+      "url": "https://en.wikipedia.org/wiki/Portfolio_management",
+      "date": "2026-03-24"
+    },
+    "0c6e10cc5986": {
+      "url": "https://en.wikipedia.org/wiki/Active_management",
+      "date": "2026-03-24"
+    },
+    "7cab229276f3": {
+      "url": "https://en.wikipedia.org/wiki/Passive_management",
+      "date": "2026-03-24"
+    },
+    "1284ef8e2392": {
+      "url": "https://en.wikipedia.org/wiki/Index_investing",
+      "date": "2026-03-24"
+    },
+    "f9af162b614b": {
+      "url": "https://en.wikipedia.org/wiki/Value_investing",
+      "date": "2026-03-24"
+    },
+    "e45557b7b001": {
+      "url": "https://en.wikipedia.org/wiki/Growth_investing",
+      "date": "2026-03-24"
+    },
+    "81a749b71d7b": {
+      "url": "https://en.wikipedia.org/wiki/Momentum_investing",
+      "date": "2026-03-24"
+    },
+    "1c9cee3b887c": {
+      "url": "https://en.wikipedia.org/wiki/Contrarian_investing",
+      "date": "2026-03-24"
+    },
+    "f4352f1e0154": {
+      "url": "https://en.wikipedia.org/wiki/Dollar-cost_averaging",
+      "date": "2026-03-24"
+    },
+    "28d317d8c151": {
+      "url": "https://en.wikipedia.org/wiki/Rebalancing_investments",
+      "date": "2026-03-24"
+    },
+    "5f7180a5cb3a": {
+      "url": "https://en.wikipedia.org/wiki/Asset_class",
+      "date": "2026-03-24"
+    },
+    "c5c4103eba4a": {
+      "url": "https://en.wikipedia.org/wiki/Efficient_frontier",
+      "date": "2026-03-24"
+    },
+    "6c6ef703893f": {
+      "url": "https://en.wikipedia.org/wiki/Capital_allocation_line",
+      "date": "2026-03-24"
+    },
+    "4ed987721165": {
+      "url": "https://en.wikipedia.org/wiki/Security_market_line",
+      "date": "2026-03-24"
+    },
+    "64e6dfc41a94": {
+      "url": "https://en.wikipedia.org/wiki/Arbitrage_pricing_theory",
+      "date": "2026-03-24"
+    },
+    "73933c85b583": {
+      "url": "https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model",
+      "date": "2026-03-24"
+    },
+    "354a75e8afb2": {
+      "url": "https://en.wikipedia.org/wiki/Commodity",
+      "date": "2026-03-24"
+    },
+    "11d2b1dfee53": {
+      "url": "https://en.wikipedia.org/wiki/Futures_exchange",
+      "date": "2026-03-24"
+    },
+    "4ca10edb44d9": {
+      "url": "https://en.wikipedia.org/wiki/Spot_contract",
+      "date": "2026-03-24"
+    },
+    "486f33827a2f": {
+      "url": "https://en.wikipedia.org/wiki/Contango",
+      "date": "2026-03-24"
+    },
+    "2e5e0ec42553": {
+      "url": "https://en.wikipedia.org/wiki/Backwardation",
+      "date": "2026-03-24"
+    },
+    "cb6f74c2276b": {
+      "url": "https://en.wikipedia.org/wiki/Commodity_trading_advisor",
+      "date": "2026-03-24"
+    },
+    "19a246980020": {
+      "url": "https://en.wikipedia.org/wiki/Precious_metal",
+      "date": "2026-03-24"
+    },
+    "bd2be5cc2bbe": {
+      "url": "https://en.wikipedia.org/wiki/Base_metal",
+      "date": "2026-03-24"
+    },
+    "b682edd4d888": {
+      "url": "https://en.wikipedia.org/wiki/Energy_trading",
+      "date": "2026-03-24"
+    },
+    "48e147b3dd58": {
+      "url": "https://en.wikipedia.org/wiki/Emissions_trading",
+      "date": "2026-03-24"
+    },
+    "a67bb66208a4": {
+      "url": "https://en.wikipedia.org/wiki/Carbon_credit",
+      "date": "2026-03-24"
+    },
+    "81380770aabb": {
+      "url": "https://en.wikipedia.org/wiki/Renewable_energy_certificate",
+      "date": "2026-03-24"
+    },
+    "d488baeda51d": {
+      "url": "https://en.wikipedia.org/wiki/Structured_finance",
+      "date": "2026-03-24"
+    },
+    "e211a573cf10": {
+      "url": "https://en.wikipedia.org/wiki/Asset-backed_security",
+      "date": "2026-03-24"
+    },
+    "c729ea7037e8": {
+      "url": "https://en.wikipedia.org/wiki/Collateralized_loan_obligation",
+      "date": "2026-03-24"
+    },
+    "c0e88bae4567": {
+      "url": "https://en.wikipedia.org/wiki/Credit_enhancement",
+      "date": "2026-03-24"
+    },
+    "f54e6b2e9edf": {
+      "url": "https://en.wikipedia.org/wiki/Tranching",
+      "date": "2026-03-24"
+    },
+    "0fb64326eeda": {
+      "url": "https://en.wikipedia.org/wiki/Special-purpose_vehicle",
+      "date": "2026-03-24"
+    },
+    "ffbaaaf53c51": {
+      "url": "https://en.wikipedia.org/wiki/Covered_bond",
+      "date": "2026-03-24"
+    },
+    "d95f26730f80": {
+      "url": "https://en.wikipedia.org/wiki/Board_of_directors",
+      "date": "2026-03-24"
+    },
+    "9524ef8c43f6": {
+      "url": "https://en.wikipedia.org/wiki/Independent_director",
+      "date": "2026-03-24"
+    },
+    "c758d784fe95": {
+      "url": "https://en.wikipedia.org/wiki/Executive_compensation",
+      "date": "2026-03-24"
+    },
+    "86b674d3b948": {
+      "url": "https://en.wikipedia.org/wiki/Say_on_pay",
+      "date": "2026-03-24"
+    },
+    "abf85b127b90": {
+      "url": "https://en.wikipedia.org/wiki/Shareholder_activism",
+      "date": "2026-03-24"
+    },
+    "d7844432087f": {
+      "url": "https://en.wikipedia.org/wiki/Proxy_fight",
+      "date": "2026-03-24"
+    },
+    "4da38d2a55cb": {
+      "url": "https://en.wikipedia.org/wiki/Staggered_board_of_directors",
+      "date": "2026-03-24"
+    },
+    "091345c3fa2d": {
+      "url": "https://en.wikipedia.org/wiki/White_knight_(business)",
+      "date": "2026-03-24"
+    },
+    "c446bcc76e64": {
+      "url": "https://en.wikipedia.org/wiki/Crown_jewel_defense",
+      "date": "2026-03-24"
+    },
+    "74a4a87f5b66": {
+      "url": "https://en.wikipedia.org/wiki/Greenmail",
+      "date": "2026-03-24"
+    },
+    "ae23bb06d7dd": {
+      "url": "https://en.wikipedia.org/wiki/Pac-Man_defense",
+      "date": "2026-03-24"
+    },
+    "00225d09bef3": {
+      "url": "https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008",
+      "date": "2026-03-24"
+    },
+    "56d2c825aa17": {
+      "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+      "date": "2026-03-24"
+    },
+    "c05b255a5667": {
+      "url": "https://en.wikipedia.org/wiki/Black_Monday_(1987)",
+      "date": "2026-03-24"
+    },
+    "97317090fef2": {
+      "url": "https://en.wikipedia.org/wiki/Asian_financial_crisis",
+      "date": "2026-03-24"
+    },
+    "688e87f87608": {
+      "url": "https://en.wikipedia.org/wiki/European_debt_crisis",
+      "date": "2026-03-24"
+    },
+    "7b207d813388": {
+      "url": "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+      "date": "2026-03-24"
+    },
+    "3cd74f9a34fc": {
+      "url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+      "date": "2026-03-24"
+    },
+    "f39700531111": {
+      "url": "https://en.wikipedia.org/wiki/Too_big_to_fail",
+      "date": "2026-03-24"
+    },
+    "3de85ba92918": {
+      "url": "https://en.wikipedia.org/wiki/Systemic_risk",
+      "date": "2026-03-24"
+    },
+    "fe3a4ecaf5eb": {
+      "url": "https://en.wikipedia.org/wiki/Moral_hazard",
+      "date": "2026-03-24"
+    },
+    "35499c2c85dc": {
+      "url": "https://en.wikipedia.org/wiki/Adverse_selection",
+      "date": "2026-03-24"
+    },
+    "8be60cdb181d": {
+      "url": "https://en.wikipedia.org/wiki/Bank_run",
+      "date": "2026-03-24"
+    },
+    "0fd8c5f69124": {
+      "url": "https://en.wikipedia.org/wiki/Base_erosion_and_profit_shifting",
+      "date": "2026-03-24"
+    },
+    "b3454300285c": {
+      "url": "https://en.wikipedia.org/wiki/Permanent_establishment",
+      "date": "2026-03-24"
+    },
+    "6de2dc9a6716": {
+      "url": "https://en.wikipedia.org/wiki/Advance_pricing_agreement",
+      "date": "2026-03-24"
+    },
+    "0beaf9283bdf": {
+      "url": "https://en.wikipedia.org/wiki/Digital_services_tax",
+      "date": "2026-03-24"
+    },
+    "f90c9241f290": {
+      "url": "https://en.wikipedia.org/wiki/Internal_Revenue_Code",
+      "date": "2026-03-24"
+    },
+    "58b210b1c3d4": {
+      "url": "https://en.wikipedia.org/wiki/Treasury_regulations",
+      "date": "2026-03-24"
+    },
+    "2c953d95b871": {
+      "url": "https://en.wikipedia.org/wiki/Revenue_ruling",
+      "date": "2026-03-24"
+    },
+    "aef7e11e9738": {
+      "url": "https://en.wikipedia.org/wiki/Revenue_procedure",
+      "date": "2026-03-24"
+    },
+    "0dc3429615ae": {
+      "url": "https://en.wikipedia.org/wiki/Private_letter_ruling",
+      "date": "2026-03-24"
+    },
+    "1f077a58e696": {
+      "url": "https://en.wikipedia.org/wiki/Tax_court",
+      "date": "2026-03-24"
+    },
+    "c63428c84b71": {
+      "url": "https://en.wikipedia.org/wiki/IRS_audit",
+      "date": "2026-03-24"
+    },
+    "32d2517fad0f": {
+      "url": "https://en.wikipedia.org/wiki/Offer_in_compromise",
+      "date": "2026-03-24"
+    },
+    "033c8cbb820a": {
+      "url": "https://en.wikipedia.org/wiki/Tax_lien",
+      "date": "2026-03-24"
+    },
+    "615decd7905a": {
+      "url": "https://en.wikipedia.org/wiki/Tax_levy",
+      "date": "2026-03-24"
+    },
+    "0c6c7c079604": {
+      "url": "https://en.wikipedia.org/wiki/Mining_(cryptocurrency)",
+      "date": "2026-03-24"
+    },
+    "b38eb723742f": {
+      "url": "https://en.wikipedia.org/wiki/Staking_(cryptocurrency)",
+      "date": "2026-03-24"
+    },
+    "b09083193192": {
+      "url": "https://en.wikipedia.org/wiki/Airdrop_(cryptocurrency)",
+      "date": "2026-03-24"
+    },
+    "5ab7be176e59": {
+      "url": "https://en.wikipedia.org/wiki/Hard_fork",
+      "date": "2026-03-24"
+    },
+    "13310bac2da7": {
+      "url": "https://en.wikipedia.org/wiki/Decentralized_exchange",
+      "date": "2026-03-24"
+    },
+    "80610898ba8e": {
+      "url": "https://www.accountingtools.com/articles/percentage-of-completion-method",
+      "date": "2026-03-24"
+    },
+    "2349f8b24ee0": {
+      "url": "https://www.accountingtools.com/articles/completed-contract-method",
+      "date": "2026-03-24"
+    },
+    "b5cc870ac019": {
+      "url": "https://www.accountingtools.com/articles/installment-method",
+      "date": "2026-03-24"
+    },
+    "db4928894c38": {
+      "url": "https://www.accountingtools.com/articles/cost-recovery-method",
+      "date": "2026-03-24"
+    },
+    "76e8449cc258": {
+      "url": "https://www.accountingtools.com/articles/consignment-accounting",
+      "date": "2026-03-24"
+    },
+    "31638321d22c": {
+      "url": "https://www.accountingtools.com/articles/embedded-derivative",
+      "date": "2026-03-24"
+    },
+    "57865e16bb83": {
+      "url": "https://www.accountingtools.com/articles/step-acquisition",
+      "date": "2026-03-24"
+    },
+    "0dd7b71ae868": {
+      "url": "https://www.accountingtools.com/articles/fraud-triangle",
+      "date": "2026-03-24"
+    },
+    "cda9cbcc7f4a": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/private-equity/",
+      "date": "2026-03-24"
+    },
+    "757143f5aa7e": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/venture-capital/",
+      "date": "2026-03-24"
+    },
+    "c2d505843558": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/leveraged-buyout/",
+      "date": "2026-03-24"
+    },
+    "7594b62a1fdc": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/management-buyout/",
+      "date": "2026-03-24"
+    },
+    "e528f8c9a90d": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/mezzanine-financing/",
+      "date": "2026-03-24"
+    },
+    "607756d2a851": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/secondary-offering/",
+      "date": "2026-03-24"
+    },
+    "a5f930fffc36": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/direct-listing/",
+      "date": "2026-03-24"
+    },
+    "24540b5b2804": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/value-at-risk/",
+      "date": "2026-03-24"
+    },
+    "ba6a6526cc2e": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/stress-testing/",
+      "date": "2026-03-24"
+    },
+    "d9cb7123f472": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/hedging/",
+      "date": "2026-03-24"
+    },
+    "7bf5ecc7df0c": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/interest-rate-risk/",
+      "date": "2026-03-24"
+    },
+    "05013d8a8795": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/currency-risk/",
+      "date": "2026-03-24"
+    },
+    "5c892d342af5": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/operational-risk/",
+      "date": "2026-03-24"
+    },
+    "64cc934d5fca": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/inflation-accounting/",
+      "date": "2026-03-24"
+    },
+    "f0bffbed8e9c": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/monetary-policy/",
+      "date": "2026-03-24"
+    },
+    "ea2ece04ba79": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/fiscal-policy/",
+      "date": "2026-03-24"
+    },
+    "4bdc89a4477d": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/gdp/",
+      "date": "2026-03-24"
+    },
+    "76d9894b7dfd": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/consumer-price-index/",
+      "date": "2026-03-24"
+    },
+    "6fa7b1b1b80b": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/purchasing-power-parity/",
+      "date": "2026-03-24"
+    },
+    "b8a1e9bf9405": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/interest-rate-parity/",
+      "date": "2026-03-24"
+    },
+    "60126ec35c49": {
+      "url": "https://corporatefinanceinstitute.com/resources/capital-markets/fisher-effect/",
+      "date": "2026-03-24"
+    },
+    "768ac2a24fe7": {
+      "url": "https://corporatefinanceinstitute.com/resources/accounting/carbon-accounting/",
+      "date": "2026-03-24"
+    },
+    "60844d498085": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/net-operating-income/",
+      "date": "2026-03-24"
+    },
+    "feef75b2274b": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/cash-on-cash-return/",
+      "date": "2026-03-24"
+    },
+    "90bcf8820eb6": {
+      "url": "https://corporatefinanceinstitute.com/resources/valuation/loan-to-value/",
+      "date": "2026-03-24"
+    }
+  },
+  "low_yield_streak": 0,
+  "last_run": "2026-03-26T09:18:23.409096",
+  "last_added": 0,
+  "total_entries": 597
+}

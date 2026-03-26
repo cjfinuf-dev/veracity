@@ -1,0 +1,205 @@
+{
+  "mod01": {
+    "lastEnhanced": "2026-03-25",
+    "enhancementVersion": 1,
+    "diagram": {
+      "type": "equation-balance",
+      "svg": "<svg viewBox=\"0 0 600 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:600px\">\n  <defs><style>text{font-family:system-ui,sans-serif;fill:#2A2D35}.box{rx:8;ry:8;stroke:#CDAA7D;stroke-width:2}.label{font-size:14px;font-weight:700}.sublabel{font-size:11px;fill:#5A5F6B}</style></defs>\n  <rect class=\"box\" x=\"10\" y=\"40\" width=\"160\" height=\"100\" fill=\"#f8f7f4\"/>\n  <text class=\"label\" x=\"90\" y=\"80\" text-anchor=\"middle\">Assets</text>\n  <text class=\"sublabel\" x=\"90\" y=\"100\" text-anchor=\"middle\">What you OWN</text>\n  <text class=\"sublabel\" x=\"90\" y=\"116\" text-anchor=\"middle\">Cash, Equipment, AR</text>\n  <text x=\"195\" y=\"95\" font-size=\"28\" font-weight=\"700\" fill=\"#CDAA7D\">=</text>\n  <rect class=\"box\" x=\"220\" y=\"40\" width=\"160\" height=\"100\" fill=\"#f8f7f4\"/>\n  <text class=\"label\" x=\"300\" y=\"80\" text-anchor=\"middle\">Liabilities</text>\n  <text class=\"sublabel\" x=\"300\" y=\"100\" text-anchor=\"middle\">What you OWE</text>\n  <text class=\"sublabel\" x=\"300\" y=\"116\" text-anchor=\"middle\">Loans, AP, Taxes</text>\n  <text x=\"400\" y=\"95\" font-size=\"28\" font-weight=\"700\" fill=\"#CDAA7D\">+</text>\n  <rect class=\"box\" x=\"425\" y=\"40\" width=\"160\" height=\"100\" fill=\"#f8f7f4\"/>\n  <text class=\"label\" x=\"505\" y=\"80\" text-anchor=\"middle\">Equity</text>\n  <text class=\"sublabel\" x=\"505\" y=\"100\" text-anchor=\"middle\">What's LEFT OVER</text>\n  <text class=\"sublabel\" x=\"505\" y=\"116\" text-anchor=\"middle\">Owner's stake</text>\n  <text x=\"300\" y=\"175\" text-anchor=\"middle\" font-size=\"13\" fill=\"#5A5F6B\">This equation ALWAYS balances. Every transaction affects at least two of these.</text>\n</svg>"
+    },
+    "concepts": [
+      {
+        "term": "Assets",
+        "details": [
+          "A balance sheet is a financial statement that shows what a company owns (assets), owes (liabilities), and the residual value for owners (equity) at a specific point in time.",
+          "The fundamental equation is: Assets = Liabilities + Equity.",
+          "The accounting equation is: Assets = Liabilities + Equity.",
+          "Every transaction must keep this equation in balance."
+        ],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "Remember: just because you paid for something doesn't always make it an asset. It has to provide future benefit. A month's rent you already used? That's an expense, not an asset."
+        },
+        "sources": []
+      },
+      {
+        "term": "Liabilities",
+        "details": [
+          "Working capital is current assets minus current liabilities.",
+          "It measures short-term liquidity — whether a business can cover its near-term obligations.",
+          "Normal balance is the side (debit or credit) that increases an account.",
+          "Assets and expenses have debit normal balances."
+        ],
+        "example": null,
+        "callout": {
+          "type": "warning",
+          "text": "Don't confuse liabilities with expenses. A liability is something you still owe. An expense is money already spent. Unpaid bills are liabilities until you pay them."
+        },
+        "sources": []
+      },
+      {
+        "term": "Equity",
+        "details": [
+          "Private equity firms scrutinize the return on assets ratio of target companies to identify operational improvement opportunities.",
+          "Low ROA relative to industry peers indicates inefficiencies that can be addressed post-acquisition.",
+          "Basic equity value is simply calculated by multiplying a company’s share price by the number of basic shares outstanding.",
+          "A company’s basic shares outstanding can be found on the first page of its 10K report."
+        ],
+        "example": {
+          "scenario": "such as stock options, restricted and performance stock units, preferred stock, warrants, and convertible debt."
+        },
+        "callout": {
+          "type": "tip",
+          "text": "Think of equity as your business's net worth. If you sold everything and paid off all debts, equity is what's left. It's the owner's slice of the pie."
+        },
+        "sources": [
+          {
+            "title": "Corporate Finance Institute -- Return On Assets Roa",
+            "url": "https://corporatefinanceinstitute.com/resources/accounting/return-on-assets-roa/",
+            "retrieved": "2026-03-24"
+          },
+          {
+            "title": "Corporate Finance Institute -- Equity Value",
+            "url": "https://corporatefinanceinstitute.com/resources/valuation/equity-value/",
+            "retrieved": "2026-03-24"
+          },
+          {
+            "title": "AccountingTools -- Unrealized Gain",
+            "url": "https://www.accountingtools.com/articles/unrealized-gain",
+            "retrieved": "2026-03-24"
+          }
+        ]
+      },
+      {
+        "term": "Why It Always Balances",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      }
+    ],
+    "keyTakeaways": [
+      "Assets = Liabilities + Equity. This equation is the foundation of ALL accounting.",
+      "Every transaction affects at least two accounts -- that's why it always balances.",
+      "If someone asks 'where did the money go?' this equation is your starting point."
+    ],
+    "relatedModules": [
+      "mod02",
+      "mod06"
+    ],
+    "sources": [
+      {
+        "title": "Corporate Finance Institute -- Return On Assets Roa",
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/return-on-assets-roa/",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "Corporate Finance Institute -- Equity Value",
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/equity-value/",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "AccountingTools -- Unrealized Gain",
+        "url": "https://www.accountingtools.com/articles/unrealized-gain",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "Corporate Finance Institute -- Equity Multiplier",
+        "url": "https://corporatefinanceinstitute.com/resources/accounting/equity-multiplier/",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "Corporate Finance Institute -- Unlevered Beta",
+        "url": "https://corporatefinanceinstitute.com/resources/valuation/unlevered-beta/",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "IRS.gov -- Virtual Currencies",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/virtual-currencies",
+        "retrieved": "2026-03-24"
+      }
+    ]
+  },
+  "mod02": {
+    "lastEnhanced": "2026-03-26",
+    "enhancementVersion": 1,
+    "diagram": {
+      "type": "t-account",
+      "svg": "<svg viewBox=\"0 0 500 220\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:500px\">\n  <defs><style>text{font-family:system-ui,sans-serif;fill:#2A2D35}.title{font-size:14px;font-weight:700}.item{font-size:12px}.hint{font-size:11px;fill:#5A5F6B}</style></defs>\n  <text class=\"title\" x=\"250\" y=\"25\" text-anchor=\"middle\">Cash (T-Account)</text>\n  <line x1=\"60\" y1=\"45\" x2=\"440\" y2=\"45\" stroke=\"#2A2D35\" stroke-width=\"2\"/>\n  <line x1=\"250\" y1=\"45\" x2=\"250\" y2=\"190\" stroke=\"#2A2D35\" stroke-width=\"2\"/>\n  <text class=\"title\" x=\"155\" y=\"65\" text-anchor=\"middle\" fill=\"#CDAA7D\">DEBIT (Left)</text>\n  <text class=\"title\" x=\"345\" y=\"65\" text-anchor=\"middle\" fill=\"#B87333\">CREDIT (Right)</text>\n  <text class=\"item\" x=\"80\" y=\"90\">Customer pays $5,000</text>\n  <text class=\"item\" x=\"80\" y=\"110\">Owner invests $10,000</text>\n  <text class=\"item\" x=\"270\" y=\"90\">Pay rent $2,000</text>\n  <text class=\"item\" x=\"270\" y=\"110\">Buy supplies $500</text>\n  <line x1=\"60\" y1=\"140\" x2=\"240\" y2=\"140\" stroke=\"#CDAA7D\" stroke-width=\"1\" stroke-dasharray=\"4\"/>\n  <line x1=\"260\" y1=\"140\" x2=\"440\" y2=\"140\" stroke=\"#B87333\" stroke-width=\"1\" stroke-dasharray=\"4\"/>\n  <text class=\"item\" x=\"80\" y=\"160\" font-weight=\"700\">Total: $15,000</text>\n  <text class=\"item\" x=\"270\" y=\"160\" font-weight=\"700\">Total: $2,500</text>\n  <text class=\"hint\" x=\"250\" y=\"200\" text-anchor=\"middle\">Balance = $12,500 (Debit side wins = normal for assets)</text>\n</svg>"
+    },
+    "concepts": [
+      {
+        "term": "Debits (Dr)",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "Here's a cheat sheet: Debits increase assets and expenses. Credits increase liabilities, equity, and revenue. When in doubt, ask: 'What type of account is this?'"
+        },
+        "sources": []
+      },
+      {
+        "term": "Credits (Cr)",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "Credits aren't 'good' and debits aren't 'bad.' They're just left (debit) and right (credit) sides of the accounting equation. Both are necessary for every transaction."
+        },
+        "sources": []
+      },
+      {
+        "term": "Normal Balances",
+        "details": [
+          "Normal balance is the side (debit or credit) that increases an account.",
+          "Assets and expenses have debit normal balances."
+        ],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "T-Accounts",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "The Golden Rules",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      }
+    ],
+    "keyTakeaways": [
+      "Every transaction needs at least one debit and one credit of equal amounts.",
+      "Debits aren't bad and credits aren't good -- they're just left and right.",
+      "Assets and expenses normally have debit balances. Liabilities, equity, and revenue normally have credit balances."
+    ],
+    "relatedModules": [
+      "mod01",
+      "mod04"
+    ],
+    "sources": [
+      {
+        "title": "IRS.gov -- Earned Income Tax Credit Eitc",
+        "url": "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc",
+        "retrieved": "2026-03-24"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "next_module_index": 2,
+  "last_run": "2026-03-26T09:45:03.400126",
+  "history": [
+    {
+      "date": "2026-03-25",
+      "module": "mod01",
+      "version": 1,
+      "concepts_enriched": 4,
+      "sources_found": 6
+    },
+    {
+      "date": "2026-03-26",
+      "module": "mod02",
+      "version": 1,
+      "concepts_enriched": 5,
+      "sources_found": 1
+    }
+  ]
+}

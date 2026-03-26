@@ -1,0 +1,89 @@
+# Veracity Business Suite - Git Ignore
+
+# ============================================================================
+# Operating System
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ============================================================================
+# Development
+# ============================================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Node (if you add build tools later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ============================================================================
+# IDEs
+# ============================================================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ============================================================================
+# Build / Deploy
+# ============================================================================
+
+# Cloudflare Pages (if it generates anything)
+.cloudflare/
+
+# ============================================================================
+# Temporary / Local
+# ============================================================================
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+~*
+
+# Backup files
+*.bak
+*.backup
+*_BACKUP.*
+*_OLD.*
+
+# ============================================================================
+# Project Specific
+# ============================================================================
+
+# If you have local dev versions
+*_local.*
+*_dev.*
+
+# Environment variables (if added later)
+.env
+.env.local
