@@ -201,5 +201,257 @@
         "retrieved": "2026-03-24"
       }
     ]
+  },
+  "mod03": {
+    "lastEnhanced": "2026-03-27",
+    "enhancementVersion": 1,
+    "diagram": {
+      "type": "account-tree",
+      "svg": "<svg viewBox=\"0 0 600 240\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:600px\">\n  <defs><style>text{font-family:system-ui,sans-serif;fill:#2A2D35}.box{rx:6;ry:6;stroke:#CDAA7D;stroke-width:1.5}.cat{font-size:12px;font-weight:700}.num{font-size:10px;fill:#5A5F6B}</style></defs>\n  <rect class=\"box\" x=\"220\" y=\"5\" width=\"160\" height=\"32\" fill=\"#2A2D35\"/>\n  <text x=\"300\" y=\"26\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#CDAA7D\">Chart of Accounts</text>\n  <line x1=\"300\" y1=\"37\" x2=\"300\" y2=\"55\" stroke=\"#ccc\"/>\n  <line x1=\"60\" y1=\"55\" x2=\"540\" y2=\"55\" stroke=\"#ccc\"/>\n  <g transform=\"translate(0,0)\"><line x1=\"60\" y1=\"55\" x2=\"60\" y2=\"70\" stroke=\"#ccc\"/>\n    <rect class=\"box\" x=\"10\" y=\"70\" width=\"100\" height=\"48\" fill=\"#f8f7f4\"/>\n    <text class=\"cat\" x=\"60\" y=\"89\" text-anchor=\"middle\">Assets</text>\n    <text class=\"num\" x=\"60\" y=\"106\" text-anchor=\"middle\">1000-1999</text></g>\n  <g transform=\"translate(120,0)\"><line x1=\"60\" y1=\"55\" x2=\"60\" y2=\"70\" stroke=\"#ccc\"/>\n    <rect class=\"box\" x=\"10\" y=\"70\" width=\"100\" height=\"48\" fill=\"#f8f7f4\"/>\n    <text class=\"cat\" x=\"60\" y=\"89\" text-anchor=\"middle\">Liabilities</text>\n    <text class=\"num\" x=\"60\" y=\"106\" text-anchor=\"middle\">2000-2999</text></g>\n  <g transform=\"translate(240,0)\"><line x1=\"60\" y1=\"55\" x2=\"60\" y2=\"70\" stroke=\"#ccc\"/>\n    <rect class=\"box\" x=\"10\" y=\"70\" width=\"100\" height=\"48\" fill=\"#f8f7f4\"/>\n    <text class=\"cat\" x=\"60\" y=\"89\" text-anchor=\"middle\">Equity</text>\n    <text class=\"num\" x=\"60\" y=\"106\" text-anchor=\"middle\">3000-3999</text></g>\n  <g transform=\"translate(360,0)\"><line x1=\"60\" y1=\"55\" x2=\"60\" y2=\"70\" stroke=\"#ccc\"/>\n    <rect class=\"box\" x=\"10\" y=\"70\" width=\"100\" height=\"48\" fill=\"#f8f7f4\"/>\n    <text class=\"cat\" x=\"60\" y=\"89\" text-anchor=\"middle\">Revenue</text>\n    <text class=\"num\" x=\"60\" y=\"106\" text-anchor=\"middle\">4000-4999</text></g>\n  <g transform=\"translate(480,0)\"><line x1=\"60\" y1=\"55\" x2=\"60\" y2=\"70\" stroke=\"#ccc\"/>\n    <rect class=\"box\" x=\"10\" y=\"70\" width=\"100\" height=\"48\" fill=\"#f8f7f4\"/>\n    <text class=\"cat\" x=\"60\" y=\"89\" text-anchor=\"middle\">Expenses</text>\n    <text class=\"num\" x=\"60\" y=\"106\" text-anchor=\"middle\">5000-9999</text></g>\n  <text x=\"300\" y=\"155\" text-anchor=\"middle\" font-size=\"12\" fill=\"#5A5F6B\">Each account gets a number. The first digit tells you the category.</text>\n  <text x=\"300\" y=\"173\" text-anchor=\"middle\" font-size=\"12\" fill=\"#5A5F6B\">Example: 1010 = Cash (asset), 4010 = Service Revenue</text>\n</svg>"
+    },
+    "concepts": [
+      {
+        "term": "Chart of Accounts (COA)",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Account Numbers",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "General Ledger (GL)",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Sub-Ledgers",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      }
+    ],
+    "keyTakeaways": [
+      "Your chart of accounts is like a filing system -- every dollar goes into a numbered folder.",
+      "The general ledger is the master record. If it's not in the GL, it didn't happen (financially speaking).",
+      "Sub-ledgers handle the details (each customer, each vendor). The GL just shows the totals."
+    ],
+    "relatedModules": [
+      "mod02",
+      "mod04"
+    ],
+    "sources": [
+      {
+        "title": "IRS.gov -- Sole Proprietorships",
+        "url": "https://www.irs.gov/businesses/small-businesses-self-employed/sole-proprietorships",
+        "retrieved": "2026-03-24"
+      }
+    ]
+  },
+  "mod04": {
+    "lastEnhanced": "2026-03-28",
+    "enhancementVersion": 1,
+    "diagram": {
+      "type": "journal-entry",
+      "svg": "<svg viewBox=\"0 0 520 180\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:520px\">\n  <defs><style>text{font-family:system-ui,sans-serif;fill:#2A2D35}.hdr{font-size:12px;font-weight:700;fill:#fff}.row{font-size:12px}.hint{font-size:11px;fill:#5A5F6B}</style></defs>\n  <rect x=\"20\" y=\"10\" width=\"480\" height=\"28\" rx=\"6\" fill=\"#2A2D35\"/>\n  <text class=\"hdr\" x=\"40\" y=\"29\">Date</text><text class=\"hdr\" x=\"140\" y=\"29\">Account</text><text class=\"hdr\" x=\"340\" y=\"29\">Debit</text><text class=\"hdr\" x=\"430\" y=\"29\">Credit</text>\n  <rect x=\"20\" y=\"42\" width=\"480\" height=\"28\" rx=\"0\" fill=\"#f8f7f4\"/>\n  <text class=\"row\" x=\"40\" y=\"61\">Jan 15</text><text class=\"row\" x=\"140\" y=\"61\" font-weight=\"600\">Cash</text><text class=\"row\" x=\"340\" y=\"61\" fill=\"#2d6a4f\">$5,000</text><text class=\"row\" x=\"430\" y=\"61\"></text>\n  <rect x=\"20\" y=\"70\" width=\"480\" height=\"28\" rx=\"0\" fill=\"#fff\"/>\n  <text class=\"row\" x=\"40\" y=\"89\"></text><text class=\"row\" x=\"160\" y=\"89\" font-style=\"italic\">Service Revenue</text><text class=\"row\" x=\"340\" y=\"89\"></text><text class=\"row\" x=\"430\" y=\"89\" fill=\"#2d6a4f\">$5,000</text>\n  <rect x=\"20\" y=\"102\" width=\"480\" height=\"24\" rx=\"0\" fill=\"#f8f7f4\"/>\n  <text class=\"hint\" x=\"140\" y=\"118\">Received payment for consulting services</text>\n  <text class=\"hint\" x=\"260\" y=\"150\" text-anchor=\"middle\">Debits are listed first. Credits are indented.</text>\n  <text class=\"hint\" x=\"260\" y=\"168\" text-anchor=\"middle\">Total debits MUST equal total credits.</text>\n</svg>"
+    },
+    "concepts": [
+      {
+        "term": "Standard Journal Entry",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "Always write a description with your journal entries. Future you (or your auditor) will thank you. A journal entry without context is useless six months later."
+        },
+        "sources": []
+      },
+      {
+        "term": "Compound Entries",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Adjusting Journal Entries (AJEs)",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Reversing Entries",
+        "details": [
+          "Most accrued liabilities are created as reversing entries, so that the accounting software automatically cancels them in the following period.",
+          "This happens when you are expecting supplier invoices to arrive in the next period."
+        ],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": [
+          {
+            "title": "AccountingTools -- Accrued Liability",
+            "url": "https://www.accountingtools.com/articles/accrued-liability",
+            "retrieved": "2026-03-24"
+          }
+        ]
+      },
+      {
+        "term": "Supporting Documentation",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      }
+    ],
+    "keyTakeaways": [
+      "Journal entries are the atomic unit of accounting -- every financial event gets one.",
+      "Debits always go first, credits are indented. Total debits must equal total credits.",
+      "Always include a description. Your future self and your auditor will thank you."
+    ],
+    "relatedModules": [
+      "mod02",
+      "mod03"
+    ],
+    "sources": [
+      {
+        "title": "AccountingTools -- Accrued Liability",
+        "url": "https://www.accountingtools.com/articles/accrued-liability",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "Wikipedia -- Enterprise Value",
+        "url": "https://en.wikipedia.org/wiki/Enterprise_value",
+        "retrieved": "2026-03-24"
+      }
+    ]
+  },
+  "mod05": {
+    "lastEnhanced": "2026-03-29",
+    "enhancementVersion": 1,
+    "diagram": {
+      "type": "timeline-comparison",
+      "svg": "<svg viewBox=\"0 0 600 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;max-width:600px\">\n  <defs><style>text{font-family:system-ui,sans-serif;fill:#2A2D35}.title{font-size:13px;font-weight:700}.item{font-size:11px}.hint{font-size:11px;fill:#5A5F6B}</style></defs>\n  <text class=\"title\" x=\"300\" y=\"20\" text-anchor=\"middle\">Cash Basis vs. Accrual Basis</text>\n  <line x1=\"80\" y1=\"60\" x2=\"520\" y2=\"60\" stroke=\"#CDAA7D\" stroke-width=\"2\"/>\n  <circle cx=\"180\" cy=\"60\" r=\"6\" fill=\"#CDAA7D\"/><text class=\"item\" x=\"180\" y=\"50\" text-anchor=\"middle\">Dec: Work Done</text>\n  <circle cx=\"420\" cy=\"60\" r=\"6\" fill=\"#CDAA7D\"/><text class=\"item\" x=\"420\" y=\"50\" text-anchor=\"middle\">Jan: Cash Received</text>\n  <rect x=\"40\" y=\"80\" width=\"240\" height=\"36\" rx=\"6\" fill=\"#2A2D35\"/>\n  <text x=\"160\" y=\"103\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#CDAA7D\">Accrual: Revenue in DEC</text>\n  <rect x=\"320\" y=\"80\" width=\"240\" height=\"36\" rx=\"6\" fill=\"#353840\"/>\n  <text x=\"440\" y=\"103\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"600\" fill=\"#CDAA7D\">Cash: Revenue in JAN</text>\n  <text class=\"hint\" x=\"300\" y=\"145\" text-anchor=\"middle\">Accrual records revenue when you EARN it (Dec).</text>\n  <text class=\"hint\" x=\"300\" y=\"163\" text-anchor=\"middle\">Cash records revenue when you GET PAID (Jan).</text>\n  <text class=\"hint\" x=\"300\" y=\"181\" text-anchor=\"middle\">Most businesses should use accrual -- it's more accurate.</text>\n</svg>"
+    },
+    "concepts": [
+      {
+        "term": "Cash Basis",
+        "details": [
+          "Accrual basis recognizes revenue when earned and expenses when incurred, regardless of cash timing.",
+          "Cash basis only records transactions when cash changes hands.",
+          "Could you be more specific about what you'd like me to compare?",
+          "For example: \"difference between debit and credit\", \"accrual vs cash basis\", \"markup vs margin\", or \"FIFO vs LIFO\"."
+        ],
+        "example": {
+          "scenario": "example: \"difference between debit and credit\", \"accrual vs cash basis\", \"markup vs margin\", or \"FIFO vs LIFO\"."
+        },
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Accrual Basis",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "warning",
+          "text": "The #1 mistake small businesses make: mixing up cash and accrual accounting. Pick one method and stick with it. Switching mid-year creates a mess."
+        },
+        "sources": []
+      },
+      {
+        "term": "The Matching Principle",
+        "details": [
+          "The matching principle requires expenses to be recorded in the same period as the revenues they help generate.",
+          "If you sell a product in March, the cost of goods sold is recorded in March too — not when you bought the inventory or when the customer pays."
+        ],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Accrued Revenue",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      },
+      {
+        "term": "Deferred (Unearned) Revenue",
+        "details": [],
+        "example": null,
+        "callout": {
+          "type": "tip",
+          "text": "If this concept feels confusing, don't worry. Most accountants didn't fully 'get it' until they saw it in practice. Focus on the big idea first, then the details will click."
+        },
+        "sources": []
+      }
+    ],
+    "keyTakeaways": [
+      "Accrual = record when earned/incurred. Cash = record when money moves. That's the core difference.",
+      "GAAP requires accrual accounting because it gives a more accurate picture.",
+      "The matching principle: expenses should show up in the same period as the revenue they helped generate."
+    ],
+    "relatedModules": [
+      "mod04",
+      "mod06"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia -- Step Up In Basis",
+        "url": "https://en.wikipedia.org/wiki/Step-up_in_basis",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "Wikipedia -- Enterprise Value",
+        "url": "https://en.wikipedia.org/wiki/Enterprise_value",
+        "retrieved": "2026-03-24"
+      },
+      {
+        "title": "Wikipedia -- Revenue Ruling",
+        "url": "https://en.wikipedia.org/wiki/Revenue_ruling",
+        "retrieved": "2026-03-24"
+      }
+    ]
   }
 }

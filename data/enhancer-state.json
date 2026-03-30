@@ -1,6 +1,6 @@
 {
-  "next_module_index": 2,
-  "last_run": "2026-03-26T09:45:03.400126",
+  "next_module_index": 5,
+  "last_run": "2026-03-29T18:15:17.422946",
   "history": [
     {
       "date": "2026-03-25",
@@ -15,6 +15,27 @@
       "version": 1,
       "concepts_enriched": 5,
       "sources_found": 1
+    },
+    {
+      "date": "2026-03-27",
+      "module": "mod03",
+      "version": 1,
+      "concepts_enriched": 4,
+      "sources_found": 1
+    },
+    {
+      "date": "2026-03-28",
+      "module": "mod04",
+      "version": 1,
+      "concepts_enriched": 5,
+      "sources_found": 2
+    },
+    {
+      "date": "2026-03-29",
+      "module": "mod05",
+      "version": 1,
+      "concepts_enriched": 5,
+      "sources_found": 3
     }
   ]
 }
