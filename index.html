@@ -72,6 +72,13 @@
     --row-alt: var(--tan-10);
     --row-hover: var(--tan-15);
 
+    /* Semantic aliases */
+    --color-primary-dark: var(--brand-green);
+    --color-accent-gold: var(--brand-tan);
+    --color-nav-accounting: #22c55e;
+    --color-nav-finance: #3b82f6;
+    --color-nav-trackers: #fbbf24;
+
     /* Spacing scale (4px base) */
     --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
     --space-5: 20px; --space-6: 24px; --space-8: 32px; --space-10: 40px;
@@ -97,7 +104,9 @@
     --header-height: 56px;
   }
 
+  html { scroll-behavior: smooth; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  :focus-visible { outline: 2px solid var(--brand-tan); outline-offset: 2px; }
   body { font-family: 'Aptos Narrow', 'Inter', system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; font-size: 14px; line-height: 1.6; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
   button { cursor: pointer; font-family: inherit; }
   input, textarea, select { font-family: inherit; }
@@ -471,6 +480,7 @@
     border-right: 1px solid var(--copper);
     transition: width 300ms cubic-bezier(0.4, 0, 0.2, 1);
     overflow: visible;
+    will-change: transform;
   }
   .nav-rail.expanded {
     width: 200px;
@@ -509,57 +519,61 @@
     background: rgba(255,255,255,0.08);
     color: #fff;
   }
-  /* Per-icon accent colors for inactive state */
+  /* Per-section icon accent colors */
   .nav-rail-item[data-icon="home"] { color: #fff; }
-  .nav-rail-item[data-icon="asc"] { color: #22c55e; }
-  /* Accounting sub-items — green family (light to medium) */
-  .nav-rail-item[data-icon="modules"] { color: #86efac; }
-  .nav-rail-item[data-icon="calendar"] { color: #6ee7b7; }
-  .nav-rail-item[data-icon="je-practice"] { color: #5de0a8; }
-  .nav-rail-item[data-icon="lease"] { color: #4ade80; }
-  .nav-rail-item[data-icon="ap"] { color: #3dd68c; }
-  .nav-rail-item[data-icon="ar"] { color: #34d399; }
-  .nav-rail-item[data-icon="coa"] { color: #2bc87e; }
-  .nav-rail-item[data-icon="gl"] { color: #22c55e; }
-  /* Accounting reports — green family (light to medium) */
-  .nav-rail-item[data-icon="rpt-aging"] { color: #86efac; }
-  .nav-rail-item[data-icon="rpt-bs"] { color: #6ee7b7; }
-  .nav-rail-item[data-icon="rpt-cf"] { color: #4ade80; }
-  .nav-rail-item[data-icon="rpt-is"] { color: #34d399; }
-  .nav-rail-item[data-icon="rpt-trial"] { color: #22c55e; }
-  /* Finance sub-items — blue family (light to medium) */
-  .nav-rail-item[data-icon="budgeting"] { color: #bfdbfe; }
-  .nav-rail-item[data-icon="forecasting"] { color: #93c5fd; }
-  .nav-rail-item[data-icon="amort"] { color: #7db8fc; }
-  .nav-rail-item[data-icon="breakeven"] { color: #60a5fa; }
-  .nav-rail-item[data-icon="markup"] { color: #5b9bf5; }
-  .nav-rail-item[data-icon="tvm"] { color: #4f8fef; }
-  .nav-rail-item[data-icon="ratios"] { color: #4885e6; }
-  .nav-rail-item[data-icon="deprec"] { color: #3b82f6; }
-  /* Project Trackers sub-items — yellow family (light to medium) */
-  .nav-rail-item[data-icon="construction"] { color: #fde68a; }
-  .nav-rail-item[data-icon="custom-tracker"] { color: #fcd34d; }
-  .nav-rail-item[data-icon="dashboard"] { color: #fbbf24; }
+  .nav-rail-item[data-icon="asc"],
+  .nav-rail-item[data-icon="modules"],
+  .nav-rail-item[data-icon="calendar"],
+  .nav-rail-item[data-icon="je-practice"],
+  .nav-rail-item[data-icon="lease"],
+  .nav-rail-item[data-icon="ap"],
+  .nav-rail-item[data-icon="ar"],
+  .nav-rail-item[data-icon="coa"],
+  .nav-rail-item[data-icon="gl"],
+  .nav-rail-item[data-icon="rpt-aging"],
+  .nav-rail-item[data-icon="rpt-bs"],
+  .nav-rail-item[data-icon="rpt-cf"],
+  .nav-rail-item[data-icon="rpt-is"],
+  .nav-rail-item[data-icon="rpt-trial"] { color: var(--color-nav-accounting); }
+  .nav-rail-item[data-icon="budgeting"],
+  .nav-rail-item[data-icon="forecasting"],
+  .nav-rail-item[data-icon="amort"],
+  .nav-rail-item[data-icon="breakeven"],
+  .nav-rail-item[data-icon="markup"],
+  .nav-rail-item[data-icon="tvm"],
+  .nav-rail-item[data-icon="ratios"],
+  .nav-rail-item[data-icon="deprec"] { color: var(--color-nav-finance); }
+  .nav-rail-item[data-icon="construction"],
+  .nav-rail-item[data-icon="custom-tracker"],
+  .nav-rail-item[data-icon="dashboard"] { color: var(--color-nav-trackers); }
   .nav-rail-item[data-icon="settings"] { color: var(--brand-tan); }
-  /* Active overrides */
+  /* Active overrides — white text + section border */
   .nav-rail-item.active[data-icon="home"] { color: #fff; border-left-color: var(--brand-tan); }
-  .nav-rail-item.active[data-icon="asc"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="modules"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="calendar"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="je-practice"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="lease"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="ap"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="ar"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="gl"] { color: #fff; border-left-color: #16a34a; }
-  .nav-rail-item.active[data-icon="tvm"] { color: #fff; border-left-color: #3b82f6; }
-  .nav-rail-item.active[data-icon="amort"] { color: #fff; border-left-color: #3b82f6; }
-  .nav-rail-item.active[data-icon="deprec"] { color: #fff; border-left-color: #3b82f6; }
-  .nav-rail-item.active[data-icon="breakeven"] { color: #fff; border-left-color: #3b82f6; }
-  .nav-rail-item.active[data-icon="markup"] { color: #fff; border-left-color: #3b82f6; }
-  .nav-rail-item.active[data-icon="ratios"] { color: #fff; border-left-color: #3b82f6; }
-  .nav-rail-item.active[data-icon="construction"] { color: #fff; border-left-color: #fbbf24; }
-  .nav-rail-item.active[data-icon="custom-tracker"] { color: #fff; border-left-color: #fbbf24; }
-  .nav-rail-item.active[data-icon="dashboard"] { color: #fff; border-left-color: #fbbf24; }
+  .nav-rail-item.active[data-icon="asc"],
+  .nav-rail-item.active[data-icon="modules"],
+  .nav-rail-item.active[data-icon="calendar"],
+  .nav-rail-item.active[data-icon="je-practice"],
+  .nav-rail-item.active[data-icon="lease"],
+  .nav-rail-item.active[data-icon="ap"],
+  .nav-rail-item.active[data-icon="ar"],
+  .nav-rail-item.active[data-icon="coa"],
+  .nav-rail-item.active[data-icon="gl"],
+  .nav-rail-item.active[data-icon="rpt-aging"],
+  .nav-rail-item.active[data-icon="rpt-bs"],
+  .nav-rail-item.active[data-icon="rpt-cf"],
+  .nav-rail-item.active[data-icon="rpt-is"],
+  .nav-rail-item.active[data-icon="rpt-trial"] { color: #fff; border-left-color: var(--color-nav-accounting); }
+  .nav-rail-item.active[data-icon="tvm"],
+  .nav-rail-item.active[data-icon="amort"],
+  .nav-rail-item.active[data-icon="deprec"],
+  .nav-rail-item.active[data-icon="breakeven"],
+  .nav-rail-item.active[data-icon="markup"],
+  .nav-rail-item.active[data-icon="ratios"],
+  .nav-rail-item.active[data-icon="budgeting"],
+  .nav-rail-item.active[data-icon="forecasting"] { color: #fff; border-left-color: var(--color-nav-finance); }
+  .nav-rail-item.active[data-icon="construction"],
+  .nav-rail-item.active[data-icon="custom-tracker"],
+  .nav-rail-item.active[data-icon="dashboard"] { color: #fff; border-left-color: var(--color-nav-trackers); }
   .nav-rail-item.active[data-icon="settings"] { color: #fff; border-left-color: var(--brand-tan); }
   .nav-rail-item svg { width: 22px; height: 22px; flex-shrink: 0; }
   .nav-rail-label {
@@ -597,6 +611,7 @@
     position: fixed; top: 0; bottom: 0;
     left: var(--nav-rail-width);
     width: fit-content; min-width: 120px; max-width: 280px;
+    will-change: transform, opacity;
     background: var(--brand-green-light);
     z-index: 59;
     display: flex; flex-direction: column;
@@ -639,6 +654,7 @@
     width: fit-content; min-width: 120px; max-width: 280px;
     background: var(--brand-green-light);
     z-index: 58;
+    will-change: transform, opacity;
     display: flex; flex-direction: column;
     white-space: nowrap;
     padding: var(--space-3) 0;
@@ -703,7 +719,7 @@
   .app-layout.nav-pinned { margin-left: 200px; }
   .app-layout.nav-pinned.nav-sub-open { margin-left: calc(200px + var(--nav-sub-width)); }
   .app-layout.nav-pinned.nav-sub-open.nav-third-open { margin-left: calc(200px + var(--nav-sub-width) + var(--nav-third-width)); }
-  .app-main { flex: 1; min-width: 0; }
+  .app-main { flex: 1; min-width: 0; display: flex; flex-direction: column; min-height: calc(100vh - 48px - clamp(16px, 4vw, 24px)); }
   .sidebar {
     width: 260px; flex-shrink: 0;
     position: sticky; top: 16px; align-self: flex-start;
@@ -1189,6 +1205,7 @@
   .app-footer {
     display: flex; align-items: center; justify-content: space-between;
     padding: var(--space-4) 0;
+    margin-top: auto;
     margin-top: var(--space-8);
     border-top: 1px solid var(--border);
     font-size: 12px; color: var(--text-muted);
@@ -1326,6 +1343,41 @@
   .je-selectors .tool-input-group { margin-bottom: 0; flex: 1; min-width: 180px; }
   @media (max-width: 640px) {
     .tool-row, .tool-row-3 { grid-template-columns: 1fr; }
+  }
+
+  /* ---- Utility: hover lift ---- */
+  .hover-lift { transition: box-shadow var(--duration-fast) var(--ease), transform var(--duration-fast) var(--ease); }
+  .hover-lift:hover { box-shadow: var(--shadow-card-hover); transform: translateY(-2px); }
+
+  /* ---- Home grid ---- */
+  .home-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; margin-top: 8px; }
+  @media (max-width: 900px) { .home-grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 600px) { .home-grid { grid-template-columns: 1fr; } }
+
+  /* ---- Wide tool container ---- */
+  .tool-container--wide { max-width: 1100px; margin: 0 auto; }
+
+  /* ---- Breadcrumb ---- */
+  .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-muted); margin-bottom: var(--space-4); }
+  .breadcrumb-sep { color: var(--border-strong); }
+  .breadcrumb-link { background: none; border: none; color: var(--text-muted); cursor: pointer; font-size: 12px; font-family: inherit; padding: 0; }
+  .breadcrumb-link:hover { color: var(--brand-tan); text-decoration: underline; }
+  .breadcrumb-current { font-weight: 600; color: var(--accent-text); }
+
+  /* ---- Mobile header bar ---- */
+  .mobile-header { display: none; }
+  @media (max-width: 700px) {
+    .mobile-header {
+      display: flex; position: fixed; top: 0; left: 0; right: 0;
+      height: 48px; z-index: 55;
+      background: var(--brand-green-light); border-bottom: 1px solid var(--copper);
+      align-items: center; justify-content: space-between;
+      padding: 0 12px;
+    }
+    .mobile-header-brand { display: flex; align-items: center; gap: 6px; }
+    .mobile-header-brand span { font-family: 'Playfair Display', Georgia, serif; font-weight: 700; font-size: 16px; color: #fff; }
+    .mobile-header-actions { display: flex; align-items: center; gap: 4px; }
+    .app-layout { padding-top: calc(48px + clamp(16px, 4vw, 24px)); }
   }
 </style>
 </head>
@@ -2769,6 +2821,39 @@ function viewToSubgroup(view) {
   return null;
 }
 
+function viewToLabel(view) {
+  if (view === 'home') return 'Home';
+  if (view === 'asc-browse') return 'ASC Browse';
+  if (view === 'asc-detail') return 'ASC Detail';
+  if (view === 'modules') return 'Accounting Academy';
+  if (view === 'module-detail') return 'Module Detail';
+  if (view === 'dashboard') return 'Project Dashboard';
+  if (view === 'detail') return 'Project Detail';
+  if (view === 'reports') return 'Reports';
+  const tool = ALL_TOOLS.find(t => t.nav === view);
+  return tool ? tool.label : view;
+}
+
+function Breadcrumb({ view, onNavigate }) {
+  if (view === 'home') return null;
+  const section = viewToSection(view);
+  const sectionLabel = section ? NAV_SECTIONS[section].label : null;
+  const label = viewToLabel(view);
+  return (
+    <nav className="breadcrumb">
+      <button className="breadcrumb-link" onClick={() => onNavigate('home')}>Home</button>
+      {sectionLabel && (
+        <React.Fragment>
+          <span className="breadcrumb-sep">/</span>
+          <span className="breadcrumb-link">{sectionLabel}</span>
+        </React.Fragment>
+      )}
+      <span className="breadcrumb-sep">/</span>
+      <span className="breadcrumb-current">{label}</span>
+    </nav>
+  );
+}
+
 function NavRail({ view, onNavigate, onToggleHelp, onOpenSettings, showMobileHelp, navPinned, setNavPinned, activeSection, setActiveSection, activeSubgroup, setActiveSubgroup, user, onSignOut }) {
   const [hovered, setHovered] = useState(false);
   const leaveTimer = React.useRef(null);
@@ -2820,7 +2905,7 @@ function NavRail({ view, onNavigate, onToggleHelp, onOpenSettings, showMobileHel
       setActiveSection(null);
       setActiveSubgroup(null);
       leaveTimer.current = null;
-    }, 120);
+    }, 200);
   };
 
   // Resolve what items to show in the third panel (only for sections with subgroups)
@@ -3361,13 +3446,30 @@ function App() {
           {isProjectView && <button className="btn btn-primary" onClick={() => setShowForm(true)}>+ New Project</button>}
         </div>
       </header>
+      <div className="mobile-header">
+        <div className="mobile-header-brand">
+          <VeracityIcon size={28} variant="light" />
+          <span>Veracity</span>
+        </div>
+        <div className="mobile-header-actions">
+          <button className="top-navbar-icon" title={settings.theme === 'dark' ? 'Light Mode' : 'Dark Mode'} onClick={() => updateSetting('theme', settings.theme === 'dark' ? 'light' : 'dark')} style={{color: settings.theme === 'dark' ? '#f59e0b' : '#6366f1'}}>
+            {settings.theme === 'dark'
+              ? <svg width="18" height="18" viewBox="0 0 24 24" fill="#f59e0b" stroke="#f59e0b" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+              : <svg width="18" height="18" viewBox="0 0 24 24" fill="#6366f1" stroke="#6366f1" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+            }
+          </button>
+          <button className="top-navbar-icon" title="Settings" onClick={() => setShowSettings(true)} style={{color: '#B87333'}}>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#B87333" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+          </button>
+        </div>
+      </div>
       <div className="top-navbar" style={{left: navPinned && activeSubgroup ? `calc(200px + var(--nav-sub-width) + var(--nav-third-width))` : navPinned && activeSection ? `calc(200px + var(--nav-sub-width))` : navPinned ? '200px' : undefined}}>
         <div className="top-navbar-search" style={{position:'relative', width:300}}>
           <div style={{position:'relative', display:'flex', alignItems:'center'}}>
             <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="var(--text-muted)" strokeWidth="2" style={{position:'absolute', left:10, pointerEvents:'none'}}><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
             <input
               type="text"
-              placeholder="Search tools..."
+              placeholder="Search tools, topics, modules..."
               value={navSearch}
               onChange={e => { setNavSearch(e.target.value); setNavSearchOpen(true); }}
               onFocus={() => setNavSearchOpen(true)}
@@ -3383,25 +3485,65 @@ function App() {
           </div>
           {navSearchOpen && navSearch.trim() && (() => {
             const q = navSearch.toLowerCase();
-            const results = ALL_TOOLS.filter(t => t.label.toLowerCase().includes(q)).slice(0, 8);
-            if (results.length === 0) return (
+            const toolResults = ALL_TOOLS.filter(t => t.label.toLowerCase().includes(q)).slice(0, 5);
+            const ascResults = ASC_TOPICS.filter(t => t.title.toLowerCase().includes(q) || t.code.toLowerCase().includes(q)).slice(0, 3);
+            const modResults = ACCOUNTING_MODULES.filter(m => m.title.toLowerCase().includes(q)).slice(0, 3);
+            const hasResults = toolResults.length > 0 || ascResults.length > 0 || modResults.length > 0;
+            if (!hasResults) return (
               <div style={{position:'absolute', top:'100%', left:0, right:0, marginTop:4, padding:'12px 16px', background:'var(--bg-white)', border:'1px solid var(--border)', borderRadius:'var(--radius-md)', boxShadow:'var(--shadow-card)', zIndex:1000, fontSize:12, color:'var(--text-muted)'}}>
                 No results found
               </div>
             );
             return (
-              <div style={{position:'absolute', top:'100%', left:0, right:0, marginTop:4, background:'var(--bg-white)', border:'1px solid var(--border)', borderRadius:'var(--radius-md)', boxShadow:'var(--shadow-card)', zIndex:1000, overflow:'hidden'}}>
-                {results.map(tool => (
-                  <div key={tool.id} onClick={() => { handleNavigate(tool.nav); setNavSearch(''); setNavSearchOpen(false); }}
-                    style={{display:'flex', alignItems:'center', gap:8, padding:'8px 14px', cursor:'pointer', fontSize:12, transition:'background 0.1s'}}
-                    onMouseEnter={e => e.currentTarget.style.background='var(--surface)'}
-                    onMouseLeave={e => e.currentTarget.style.background='transparent'}
-                  >
-                    <span style={{color:SECTION_COLORS[tool.section] || 'var(--brand-tan)', fontSize:10}}>&#9679;</span>
-                    <span style={{fontSize:10, fontWeight:600, color:SECTION_COLORS[tool.section] || 'var(--brand-tan)', textTransform:'uppercase', letterSpacing:'0.04em', minWidth:70}}>{tool.section}</span>
-                    <span style={{fontWeight:500, color:'var(--text)'}}>{tool.label}</span>
-                  </div>
-                ))}
+              <div style={{position:'absolute', top:'100%', left:0, right:0, marginTop:4, background:'var(--bg-white)', border:'1px solid var(--border)', borderRadius:'var(--radius-md)', boxShadow:'var(--shadow-card)', zIndex:1000, overflow:'hidden', maxHeight:360, overflowY:'auto'}}>
+                {ascResults.length > 0 && (
+                  <React.Fragment>
+                    <div style={{padding:'6px 14px', fontSize:10, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.04em', color:'var(--text-muted)', background:'var(--surface)'}}>ASC Topics</div>
+                    {ascResults.map(topic => (
+                      <div key={topic.id} onClick={() => { handleSelectASC(topic.id); setNavSearch(''); setNavSearchOpen(false); }}
+                        style={{display:'flex', alignItems:'center', gap:8, padding:'8px 14px', cursor:'pointer', fontSize:12, transition:'background 0.1s'}}
+                        onMouseEnter={e => e.currentTarget.style.background='var(--surface)'}
+                        onMouseLeave={e => e.currentTarget.style.background='transparent'}
+                      >
+                        <span style={{color:topic.color, fontSize:10}}>&#9679;</span>
+                        <span style={{fontSize:10, fontWeight:600, color:topic.color, minWidth:55}}>{topic.code}</span>
+                        <span style={{fontWeight:500, color:'var(--text)'}}>{topic.title}</span>
+                      </div>
+                    ))}
+                  </React.Fragment>
+                )}
+                {modResults.length > 0 && (
+                  <React.Fragment>
+                    <div style={{padding:'6px 14px', fontSize:10, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.04em', color:'var(--text-muted)', background:'var(--surface)'}}>Modules</div>
+                    {modResults.map(mod => (
+                      <div key={mod.id} onClick={() => { handleSelectModule(mod.id); setNavSearch(''); setNavSearchOpen(false); }}
+                        style={{display:'flex', alignItems:'center', gap:8, padding:'8px 14px', cursor:'pointer', fontSize:12, transition:'background 0.1s'}}
+                        onMouseEnter={e => e.currentTarget.style.background='var(--surface)'}
+                        onMouseLeave={e => e.currentTarget.style.background='transparent'}
+                      >
+                        <span style={{color:'#16a34a', fontSize:10}}>&#9679;</span>
+                        <span style={{fontSize:10, fontWeight:600, color:'#16a34a', textTransform:'uppercase', letterSpacing:'0.04em', minWidth:70}}>Academy</span>
+                        <span style={{fontWeight:500, color:'var(--text)'}}>{mod.title}</span>
+                      </div>
+                    ))}
+                  </React.Fragment>
+                )}
+                {toolResults.length > 0 && (
+                  <React.Fragment>
+                    <div style={{padding:'6px 14px', fontSize:10, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.04em', color:'var(--text-muted)', background:'var(--surface)'}}>Tools</div>
+                    {toolResults.map(tool => (
+                      <div key={tool.id} onClick={() => { handleNavigate(tool.nav); setNavSearch(''); setNavSearchOpen(false); }}
+                        style={{display:'flex', alignItems:'center', gap:8, padding:'8px 14px', cursor:'pointer', fontSize:12, transition:'background 0.1s'}}
+                        onMouseEnter={e => e.currentTarget.style.background='var(--surface)'}
+                        onMouseLeave={e => e.currentTarget.style.background='transparent'}
+                      >
+                        <span style={{color:SECTION_COLORS[tool.section] || 'var(--brand-tan)', fontSize:10}}>&#9679;</span>
+                        <span style={{fontSize:10, fontWeight:600, color:SECTION_COLORS[tool.section] || 'var(--brand-tan)', textTransform:'uppercase', letterSpacing:'0.04em', minWidth:70}}>{tool.section}</span>
+                        <span style={{fontWeight:500, color:'var(--text)'}}>{tool.label}</span>
+                      </div>
+                    ))}
+                  </React.Fragment>
+                )}
               </div>
             );
           })()}
@@ -3452,6 +3594,7 @@ function App() {
       </div>
       <div className={`app-layout ${navPinned ? 'nav-pinned' : ''} ${navPinned && activeSection ? 'nav-sub-open' : ''} ${navPinned && activeSubgroup ? 'nav-third-open' : ''}`}>
         <div className="app-main">
+          <Breadcrumb view={view} onNavigate={handleNavigate} />
           {view === "home" && <HomeView onSelectASC={handleSelectASC} onSelectModule={handleSelectModule} onNavigate={handleNavigate} />}
           {view === "asc-browse" && <ASCBrowseView onSelectASC={handleSelectASC} />}
           {view === "asc-detail" && <ASCDetailView topicId={ascTopicId} onBack={() => { setView("asc-browse"); setAscTopicId(null); }} />}
@@ -3496,7 +3639,7 @@ function App() {
       {showSettings && <SettingsPanel settings={settings} updateSetting={updateSetting} resetSettings={resetSettings} onClose={() => setShowSettings(false)} />}
       {showAuthModal && <AuthModal mode={showAuthModal} onClose={() => setShowAuthModal(null)} onSwitch={() => setShowAuthModal(prev => prev === 'signin' ? 'signup' : 'signin')} onAuth={(u) => { setUser(u); localStorage.setItem('veracity-user', JSON.stringify(u)); setShowAuthModal(null); }} />}
       {view !== 'home' && (
-        <div style={{position:'fixed', bottom:24, left: navPinned ? 216 : 76, zIndex:50, transition:'left 300ms cubic-bezier(0.4, 0, 0.2, 1)'}}>
+        <div style={{position:'fixed', bottom:24, left: navPinned && activeSubgroup ? `calc(200px + var(--nav-sub-width) + var(--nav-third-width) + 16px)` : navPinned && activeSection ? `calc(200px + var(--nav-sub-width) + 16px)` : navPinned ? 216 : 76, zIndex:50, transition:'left 300ms cubic-bezier(0.4, 0, 0.2, 1)'}}>
           {veraBubbleOpen && (
             <div style={{position:'absolute', bottom:60, left:0, width:380, maxHeight:'70vh', display:'flex', flexDirection:'column', borderRadius:'var(--radius-md)', boxShadow:'0 8px 32px rgba(0,0,0,0.18)', overflow:'hidden', animation:'fadeIn 0.2s ease'}}>
               <VeraChat onNavigate={(nav) => { handleNavigate(nav); setVeraBubbleOpen(false); }} />
@@ -9919,7 +10062,7 @@ function HomeView({ onSelectASC, onSelectModule, onNavigate }) {
       <VeraChat onNavigate={onNavigate} />
 
       {/* Three-column quick access */}
-      <div style={{display:'grid', gridTemplateColumns:'1fr 1fr 1fr', gap:24, marginTop:8}}>
+      <div className="home-grid">
         {/* Quick Access Toolbox */}
         <div style={{background:'var(--bg-white)', border:'1.5px solid var(--border-strong)', borderTop:'4px solid var(--rust)', borderRadius:'var(--radius-lg)', padding:20}}>
           <h3 style={{fontSize:16, fontWeight:700, color:'var(--accent-text)', margin:'0 0 12px'}}>Quick Access Toolbox</h3>
@@ -9941,14 +10084,11 @@ function HomeView({ onSelectASC, onSelectModule, onNavigate }) {
             <div key={group.section}>
               <div style={{fontSize:10, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.05em', color:group.color, padding:'8px 0 4px'}}>{group.section}</div>
               {group.items.map(item => (
-                <div key={item.nav} onClick={() => onNavigate(item.nav)} style={{
+                <div key={item.nav} onClick={() => onNavigate(item.nav)} className="hover-lift" style={{
                   display:'flex', alignItems:'center', justifyContent:'space-between', padding:'10px 14px', marginBottom:6,
                   background:'var(--bg-white)', borderRadius:'var(--radius-md)', border:'1px solid var(--border)',
-                  borderLeft:`4px solid ${group.color}`, cursor:'pointer', transition:'box-shadow 0.15s, transform 0.15s',
-                }}
-                onMouseEnter={e => { e.currentTarget.style.boxShadow='var(--shadow-card-hover)'; e.currentTarget.style.transform='translateY(-2px)'; }}
-                onMouseLeave={e => { e.currentTarget.style.boxShadow='none'; e.currentTarget.style.transform='none'; }}
-                >
+                  borderLeft:`4px solid ${group.color}`, cursor:'pointer',
+                }}>
                   <span style={{fontSize:13, fontWeight:600, color:'var(--accent-text)'}}>{item.label}</span>
                   <span style={{color:'var(--text-muted)', fontSize:16}}>&rarr;</span>
                 </div>
@@ -9981,11 +10121,8 @@ function HomeView({ onSelectASC, onSelectModule, onNavigate }) {
                 <div key={mod.id} onClick={() => onSelectModule(mod.id)} style={{
                   display:'flex', alignItems:'center', gap:12, padding:'12px 16px', marginBottom:8,
                   background:'var(--bg-white)', borderRadius:'var(--radius-md)', border:'1px solid var(--border)',
-                  borderLeft:'4px solid #16a34a', cursor:'pointer', transition:'box-shadow 0.15s, transform 0.15s',
-                }}
-                onMouseEnter={e => { e.currentTarget.style.boxShadow='var(--shadow-card-hover)'; e.currentTarget.style.transform='translateY(-2px)'; }}
-                onMouseLeave={e => { e.currentTarget.style.boxShadow='none'; e.currentTarget.style.transform='none'; }}
-                >
+                  borderLeft:'4px solid #16a34a', cursor:'pointer',
+                }} className="hover-lift">
                   <div style={{flex:1}}>
                     <div style={{display:'flex', gap:8, alignItems:'center'}}>
                       <span style={{fontSize:11, fontWeight:700, color:'#16a34a', textTransform:'uppercase'}}>{mod.num.replace('Module ', 'MOD ')}</span>
@@ -10027,15 +10164,12 @@ function HomeView({ onSelectASC, onSelectModule, onNavigate }) {
             <div key={group.category}>
               <div style={{fontSize:10, fontWeight:700, textTransform:'uppercase', letterSpacing:'0.05em', color:'var(--text-muted)', padding:'8px 0 4px'}}>{group.category}</div>
               {group.items.map(item => (
-                <a key={item.name} href={item.url} target="_blank" rel="noopener noreferrer" style={{
+                <a key={item.name} href={item.url} target="_blank" rel="noopener noreferrer" className="hover-lift" style={{
                   display:'flex', alignItems:'center', justifyContent:'space-between', padding:'8px 14px', marginBottom:6,
                   background:'var(--bg-white)', borderRadius:'var(--radius-md)', border:'1px solid var(--border)',
-                  borderLeft:'4px solid var(--brand-tan)', cursor:'pointer', transition:'box-shadow 0.15s, transform 0.15s',
+                  borderLeft:'4px solid var(--brand-tan)', cursor:'pointer',
                   textDecoration:'none', color:'inherit',
-                }}
-                onMouseEnter={e => { e.currentTarget.style.boxShadow='var(--shadow-card-hover)'; e.currentTarget.style.transform='translateY(-2px)'; }}
-                onMouseLeave={e => { e.currentTarget.style.boxShadow='none'; e.currentTarget.style.transform='none'; }}
-                >
+                }}>
                   <div>
                     <div style={{fontSize:13, fontWeight:600, color:'var(--accent-text)'}}>{item.name}</div>
                     <div style={{fontSize:11, color:'var(--text-muted)'}}>{item.desc}</div>
@@ -10421,14 +10555,10 @@ function Dashboard({ projects, onSelect, onShowForm, onReports }) {
             const s = getProjectStats(p);
             const phase = s.isComplete ? "complete" : s.currentMilestone?.phase || "exploration";
             return (
-              <div key={p.id} onClick={() => onSelect(p.id)} style={{
+              <div key={p.id} onClick={() => onSelect(p.id)} className="hover-lift" style={{
                 background:'var(--bg-white)', border:'1px solid var(--border)', borderRadius:'var(--radius-md)',
                 padding:'16px 20px', cursor:'pointer', boxShadow:'var(--shadow-card)',
-                transition:'box-shadow 0.15s, transform 0.15s',
-              }}
-              onMouseEnter={e => { e.currentTarget.style.boxShadow='var(--shadow-card-hover)'; e.currentTarget.style.transform='translateY(-2px)'; }}
-              onMouseLeave={e => { e.currentTarget.style.boxShadow='var(--shadow-card)'; e.currentTarget.style.transform='none'; }}
-              >
+              }}>
                 <div style={{display:'flex', justifyContent:'space-between', alignItems:'flex-start'}}>
                   <div style={{flex:1}}>
                     <div style={{display:'flex', alignItems:'center', gap:10, marginBottom:4}}>
@@ -10780,10 +10910,8 @@ function FinanceTab({ project, stats, onUpdate }) {
         <div style={{
           background:'linear-gradient(135deg, var(--brand-green) 0%, var(--brand-green-light) 100%)',
           borderRadius:'var(--radius-md)', padding:'var(--space-6)',
-          boxShadow:'var(--shadow-card)', color:'#fff', transition:'transform 0.15s, box-shadow 0.15s',
-        }}
-        onMouseEnter={e => { e.currentTarget.style.boxShadow='var(--shadow-card-hover)'; e.currentTarget.style.transform='translateY(-2px)'; }}
-        onMouseLeave={e => { e.currentTarget.style.boxShadow='var(--shadow-card)'; e.currentTarget.style.transform='none'; }}>
+          boxShadow:'var(--shadow-card)', color:'#fff',
+        }} className="hover-lift">
           <h3 style={{fontSize:14, fontWeight:600, color:'rgba(255,255,255,0.7)', textTransform:'uppercase', letterSpacing:'0.04em', marginBottom:16}}>Financial Summary</h3>
           <div style={{marginBottom:16}}>
             <div style={{fontSize:12, color:'rgba(255,255,255,0.6)', marginBottom:2}}>Contract Value</div>
